@@ -1,0 +1,8 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+KEGG_2021_Human	TGF-beta signaling pathway	2/94	5.639428e-03	3.947599e-02	0	0	1.964822e+01	1.017380e+02	SMAD9;THSD4
+KEGG_2021_Human	Mannose type O-glycan biosynthesis	1/23	2.725334e-02	9.538669e-02	0	0	3.943478e+01	1.420669e+02	LARGE1
+KEGG_2021_Human	T cell receptor signaling pathway	1/104	1.176773e-01	1.846674e-01	0	0	8.388772e+00	1.795037e+01	ITK
+KEGG_2021_Human	Leukocyte transendothelial migration	1/114	1.282653e-01	1.846674e-01	0	0	7.642555e+00	1.569517e+01	ITK
+KEGG_2021_Human	Signaling pathways regulating pluripotency of stem cells	1/143	1.582864e-01	1.846674e-01	0	0	6.072872e+00	1.119443e+01	SMAD9
+KEGG_2021_Human	Spinocerebellar ataxia	1/143	1.582864e-01	1.846674e-01	0	0	6.072872e+00	1.119443e+01	KCND3
+KEGG_2021_Human	Chemokine signaling pathway	1/192	2.067734e-01	2.067734e-01	0	0	4.503756e+00	7.098512e+00	ITK

@@ -1,0 +1,20 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+KEGG_2021_Human	Riboflavin metabolism	1/8	1.193915e-02	1.516092e-01	0	0	9.833990e+01	4.354424e+02	ENPP3
+KEGG_2021_Human	Purine metabolism	2/129	1.595886e-02	1.516092e-01	0	0	1.116029e+01	4.617840e+01	PDE1C;ENPP3
+KEGG_2021_Human	Pantothenate and CoA biosynthesis	1/21	3.104706e-02	1.533926e-01	0	0	3.439655e+01	1.194335e+02	ENPP3
+KEGG_2021_Human	Nicotinate and nicotinamide metabolism	1/35	5.122529e-02	1.533926e-01	0	0	2.021907e+01	6.008140e+01	ENPP3
+KEGG_2021_Human	Mucin type O-glycan biosynthesis	1/36	5.265094e-02	1.533926e-01	0	0	1.964039e+01	5.782272e+01	GALNTL6
+KEGG_2021_Human	Starch and sucrose metabolism	1/36	5.265094e-02	1.533926e-01	0	0	1.964039e+01	5.782272e+01	ENPP3
+KEGG_2021_Human	Other types of O-glycan biosynthesis	1/47	6.819709e-02	1.533926e-01	0	0	1.493553e+01	4.010718e+01	GALNTL6
+KEGG_2021_Human	MAPK signaling pathway	2/294	7.156002e-02	1.533926e-01	0	0	4.813601e+00	1.269452e+01	MAP3K8;MAP4K4
+KEGG_2021_Human	Glycosaminoglycan biosynthesis	1/53	7.657257e-02	1.533926e-01	0	0	1.320822e+01	3.393875e+01	HS6ST3
+KEGG_2021_Human	Pyrimidine metabolism	1/56	8.073297e-02	1.533926e-01	0	0	1.248589e+01	3.142210e+01	ENPP3
+KEGG_2021_Human	Renin secretion	1/69	9.855294e-02	1.637678e-01	0	0	1.009229e+01	2.338547e+01	PDE1C
+KEGG_2021_Human	Taste transduction	1/86	1.213528e-01	1.637678e-01	0	0	8.066937e+00	1.701360e+01	PDE1C
+KEGG_2021_Human	Morphine addiction	1/91	1.279518e-01	1.637678e-01	0	0	7.616858e+00	1.566103e+01	PDE1C
+KEGG_2021_Human	Olfactory transduction	2/440	1.406146e-01	1.637678e-01	0	0	3.185258e+00	6.248624e+00	PDE1C;NCALD
+KEGG_2021_Human	Toll-like receptor signaling pathway	1/104	1.448859e-01	1.637678e-01	0	0	6.651155e+00	1.284876e+01	MAP3K8
+KEGG_2021_Human	T cell receptor signaling pathway	1/104	1.448859e-01	1.637678e-01	0	0	6.651155e+00	1.284876e+01	MAP3K8
+KEGG_2021_Human	Ribosome biogenesis in eukaryotes	1/108	1.500321e-01	1.637678e-01	0	0	6.401225e+00	1.214252e+01	SPATA5
+KEGG_2021_Human	TNF signaling pathway	1/112	1.551484e-01	1.637678e-01	0	0	6.169307e+00	1.149572e+01	MAP3K8
+KEGG_2021_Human	Calcium signaling pathway	1/240	3.040247e-01	3.040247e-01	0	0	2.846775e+00	3.389502e+00	PDE1C

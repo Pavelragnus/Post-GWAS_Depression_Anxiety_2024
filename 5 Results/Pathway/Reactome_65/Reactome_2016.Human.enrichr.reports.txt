@@ -1,0 +1,29 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+Reactome_2016	Activation of DNA fragmentation factor Homo sapiens R-HSA-211227	1/13	2.633229e-02	3.057966e-01	0	0	4.155625e+01	1.511384e+02	DFFB
+Reactome_2016	Apoptosis induced DNA fragmentation Homo sapiens R-HSA-140342	1/13	2.633229e-02	3.057966e-01	0	0	4.155625e+01	1.511384e+02	DFFB
+Reactome_2016	SALM protein interactions at the synapse Homo sapiens R-HSA-8849932	1/22	4.416483e-02	3.057966e-01	0	0	2.373571e+01	7.405131e+01	PTPRD
+Reactome_2016	HS-GAG biosynthesis Homo sapiens R-HSA-2022928	1/31	6.167861e-02	3.057966e-01	0	0	1.660750e+01	4.626547e+01	EXT1
+Reactome_2016	Signaling by Robo receptor Homo sapiens R-HSA-376176	1/32	6.360515e-02	3.057966e-01	0	0	1.607097e+01	4.427649e+01	ROBO2
+Reactome_2016	Cargo concentration in the ER Homo sapiens R-HSA-5694530	1/33	6.552783e-02	3.057966e-01	0	0	1.556797e+01	4.242708e+01	LMAN1
+Reactome_2016	Intraflagellar transport Homo sapiens R-HSA-5620924	1/41	8.077126e-02	3.230850e-01	0	0	1.244937e+01	3.132430e+01	TCTE3
+Reactome_2016	Apoptotic execution  phase Homo sapiens R-HSA-75153	1/51	9.948471e-02	3.248243e-01	0	0	9.954500e+00	2.297251e+01	DFFB
+Reactome_2016	Heparan sulfate/heparin (HS-GAG) metabolism Homo sapiens R-HSA-1638091	1/54	1.050259e-01	3.248243e-01	0	0	9.389623e+00	2.115997e+01	EXT1
+Reactome_2016	Translocation of GLUT4 to the plasma membrane Homo sapiens R-HSA-1445148	1/60	1.160087e-01	3.248243e-01	0	0	8.432203e+00	1.816373e+01	TBC1D1
+Reactome_2016	COPII (Coat Protein 2) Mediated Vesicle Transport Homo sapiens R-HSA-204005	1/68	1.304480e-01	3.320495e-01	0	0	7.422388e+00	1.511777e+01	LMAN1
+Reactome_2016	Membrane Trafficking Homo sapiens R-HSA-199991	2/420	2.126657e-01	4.506391e-01	0	0	2.397375e+00	3.711217e+00	TBC1D1;LMAN1
+Reactome_2016	Glycosaminoglycan metabolism Homo sapiens R-HSA-1630316	1/121	2.204611e-01	4.506391e-01	0	0	4.133125e+00	6.249425e+00	EXT1
+Reactome_2016	ER to Golgi Anterograde Transport Homo sapiens R-HSA-199977	1/131	2.363941e-01	4.506391e-01	0	0	3.813269e+00	5.499707e+00	LMAN1
+Reactome_2016	Vesicle-mediated transport Homo sapiens R-HSA-5653656	2/492	2.674187e-01	4.506391e-01	0	0	2.037572e+00	2.687434e+00	TBC1D1;LMAN1
+Reactome_2016	Transport to the Golgi and subsequent modification Homo sapiens R-HSA-948021	1/162	2.837936e-01	4.506391e-01	0	0	3.074224e+00	3.872009e+00	LMAN1
+Reactome_2016	Apoptosis Homo sapiens R-HSA-109581	1/163	2.852738e-01	4.506391e-01	0	0	3.055093e+00	3.832020e+00	DFFB
+Reactome_2016	Programmed Cell Death Homo sapiens R-HSA-5357801	1/166	2.896966e-01	4.506391e-01	0	0	2.999091e+00	3.715638e+00	DFFB
+Reactome_2016	Assembly of the primary cilium Homo sapiens R-HSA-5617833	1/187	3.199168e-01	4.714563e-01	0	0	2.657661e+00	3.028922e+00	TCTE3
+Reactome_2016	Asparagine N-linked glycosylation Homo sapiens R-HSA-446203	1/259	4.143046e-01	5.800265e-01	0	0	1.909012e+00	1.682133e+00	LMAN1
+Reactome_2016	Metabolism of carbohydrates Homo sapiens R-HSA-71387	1/282	4.416674e-01	5.888898e-01	0	0	1.750712e+00	1.430679e+00	EXT1
+Reactome_2016	Neuronal System Homo sapiens R-HSA-112316	1/301	4.633271e-01	5.896891e-01	0	0	1.638250e+00	1.260342e+00	PTPRD
+Reactome_2016	Organelle biogenesis and maintenance Homo sapiens R-HSA-1852241	1/326	4.905816e-01	5.972297e-01	0	0	1.510308e+00	1.075586e+00	TCTE3
+Reactome_2016	Axon guidance Homo sapiens R-HSA-422475	1/515	6.572189e-01	7.409074e-01	0	0	9.457685e-01	3.969750e-01	ROBO2
+Reactome_2016	Post-translational protein modification Homo sapiens R-HSA-597592	1/521	6.615244e-01	7.409074e-01	0	0	9.345673e-01	3.861710e-01	LMAN1
+Reactome_2016	Developmental Biology Homo sapiens R-HSA-1266738	1/786	8.070821e-01	8.691653e-01	0	0	6.106369e-01	1.308777e-01	ROBO2
+Reactome_2016	Metabolism of proteins Homo sapiens R-HSA-392499	1/1074	8.962050e-01	9.293978e-01	0	0	4.400280e-01	4.822094e-02	LMAN1
+Reactome_2016	Metabolism Homo sapiens R-HSA-1430728	1/1908	9.836735e-01	9.836735e-01	0	0	2.366544e-01	3.895635e-03	EXT1

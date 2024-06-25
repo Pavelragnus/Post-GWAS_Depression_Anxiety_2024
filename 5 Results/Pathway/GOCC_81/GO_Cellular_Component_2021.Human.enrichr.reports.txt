@@ -1,0 +1,34 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Cellular_Component_2021	collagen type IV trimer (GO:0005587)	2/6	2.116527e-04	6.984540e-03	0	0	1.345946e+02	1.138746e+03	COL4A2;COL4A4
+GO_Cellular_Component_2021	collagen-containing extracellular matrix (GO:0062023)	5/380	1.482646e-02	2.446367e-01	0	0	3.671174e+00	1.546057e+01	LMAN1;COL24A1;COL4A2;COL4A4;MATN2
+GO_Cellular_Component_2021	coated vesicle (GO:0030135)	2/84	4.066201e-02	2.707626e-01	0	0	6.539881e+00	2.094371e+01	LMAN1;NUMB
+GO_Cellular_Component_2021	integral component of postsynaptic density membrane (GO:0099061)	1/11	4.102463e-02	2.707626e-01	0	0	2.655200e+01	8.479601e+01	LRFN2
+GO_Cellular_Component_2021	intrinsic component of postsynaptic density membrane (GO:0099146)	1/11	4.102463e-02	2.707626e-01	0	0	2.655200e+01	8.479601e+01	LRFN2
+GO_Cellular_Component_2021	integral component of postsynaptic specialization membrane (GO:0099060)	1/15	5.552716e-02	3.053994e-01	0	0	1.896190e+01	5.481665e+01	LRFN2
+GO_Cellular_Component_2021	endoplasmic reticulum lumen (GO:0005788)	3/285	9.451742e-02	4.455821e-01	0	0	2.862431e+00	6.752392e+00	COL24A1;COL4A2;COL4A4
+GO_Cellular_Component_2021	endoplasmic reticulum-Golgi intermediate compartment membrane (GO:0033116)	1/49	1.703728e-01	5.623478e-01	0	0	5.521111e+00	9.771076e+00	LMAN1
+GO_Cellular_Component_2021	basement membrane (GO:0005604)	1/52	1.798182e-01	5.623478e-01	0	0	5.195556e+00	8.914581e+00	COL4A4
+GO_Cellular_Component_2021	ER to Golgi transport vesicle membrane (GO:0012507)	1/54	1.860561e-01	5.623478e-01	0	0	4.998994e+00	8.406844e+00	LMAN1
+GO_Cellular_Component_2021	coated vesicle membrane (GO:0030662)	1/55	1.891574e-01	5.623478e-01	0	0	4.906173e+00	8.169640e+00	LMAN1
+GO_Cellular_Component_2021	transport vesicle membrane (GO:0030658)	1/60	2.044901e-01	5.623478e-01	0	0	4.489266e+00	7.125522e+00	LMAN1
+GO_Cellular_Component_2021	glutamatergic synapse (GO:0098978)	1/69	2.313713e-01	5.786248e-01	0	0	3.893333e+00	5.698794e+00	PTPRD
+GO_Cellular_Component_2021	COPII-coated ER to Golgi transport vesicle (GO:0030134)	1/79	2.601889e-01	5.786248e-01	0	0	3.392479e+00	4.567455e+00	LMAN1
+GO_Cellular_Component_2021	clathrin-coated vesicle (GO:0030136)	1/80	2.630113e-01	5.786248e-01	0	0	3.349367e+00	4.473275e+00	NUMB
+GO_Cellular_Component_2021	mitochondrial outer membrane (GO:0005741)	1/126	3.819707e-01	7.878145e-01	0	0	2.111893e+00	2.032510e+00	FAM210B
+GO_Cellular_Component_2021	organelle outer membrane (GO:0031968)	1/142	4.187331e-01	8.128348e-01	0	0	1.870733e+00	1.628513e+00	FAM210B
+GO_Cellular_Component_2021	mitochondrial membrane (GO:0031966)	2/469	5.350675e-01	9.809571e-01	0	0	1.126049e+00	7.041886e-01	FAM210B;EFHD1
+GO_Cellular_Component_2021	neuron projection (GO:0043005)	2/556	6.282048e-01	9.999935e-01	0	0	9.449702e-01	4.393063e-01	STMN4;NRCAM
+GO_Cellular_Component_2021	intracellular organelle lumen (GO:0070013)	3/848	6.307086e-01	9.999935e-01	0	0	9.278917e-01	4.276758e-01	COL24A1;COL4A2;COL4A4
+GO_Cellular_Component_2021	mitochondrial inner membrane (GO:0005743)	1/328	7.160941e-01	9.999935e-01	0	0	7.990622e-01	2.668418e-01	EFHD1
+GO_Cellular_Component_2021	organelle inner membrane (GO:0019866)	1/346	7.352097e-01	9.999935e-01	0	0	7.566763e-01	2.327532e-01	EFHD1
+GO_Cellular_Component_2021	focal adhesion (GO:0005925)	1/387	7.741374e-01	9.999935e-01	0	0	6.748877e-01	1.727752e-01	NUMB
+GO_Cellular_Component_2021	cell-substrate junction (GO:0030055)	1/394	7.801940e-01	9.999935e-01	0	0	6.626293e-01	1.644730e-01	NUMB
+GO_Cellular_Component_2021	Golgi membrane (GO:0000139)	1/472	8.377390e-01	9.999935e-01	0	0	5.506865e-01	9.749832e-02	LMAN1
+GO_Cellular_Component_2021	integral component of plasma membrane (GO:0005887)	3/1454	9.214143e-01	9.999935e-01	0	0	5.232008e-01	4.282164e-02	PTPRD;SEMA3E;NRCAM
+GO_Cellular_Component_2021	endoplasmic reticulum membrane (GO:0005789)	1/712	9.367198e-01	9.999935e-01	0	0	3.603000e-01	2.355322e-02	LMAN1
+GO_Cellular_Component_2021	nucleolus (GO:0005730)	1/733	9.417570e-01	9.999935e-01	0	0	3.495811e-01	2.097765e-02	RNF213
+GO_Cellular_Component_2021	nuclear lumen (GO:0031981)	1/745	9.444556e-01	9.999935e-01	0	0	3.437276e-01	1.964288e-02	RNF213
+GO_Cellular_Component_2021	bounding membrane of organelle (GO:0098588)	1/767	9.490863e-01	9.999935e-01	0	0	3.334726e-01	1.742580e-02	LMAN1
+GO_Cellular_Component_2021	intracellular non-membrane-bounded organelle (GO:0043232)	1/1158	9.893426e-01	9.999935e-01	0	0	2.162720e-01	2.317261e-03	RNF213
+GO_Cellular_Component_2021	nucleus (GO:0005634)	4/4484	9.999883e-01	9.999935e-01	0	0	1.915179e-01	2.236327e-06	MECOM;MYT1L;TOX;PRDM10
+GO_Cellular_Component_2021	intracellular membrane-bounded organelle (GO:0043231)	5/5192	9.999935e-01	9.999935e-01	0	0	2.000804e-01	1.302228e-06	SLC4A1AP;MECOM;MYT1L;TOX;PRDM10

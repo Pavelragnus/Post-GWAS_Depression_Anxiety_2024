@@ -1,0 +1,37 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+KEGG_2021_Human	Riboflavin metabolism	1/8	1.982916e-02	3.348121e-01	0	0	5.814286e+01	2.279550e+02	ENPP3
+KEGG_2021_Human	TGF-beta signaling pathway	2/94	2.313142e-02	3.348121e-01	0	0	8.993659e+00	3.387519e+01	SMAD9;THSD4
+KEGG_2021_Human	T cell receptor signaling pathway	2/104	2.790101e-02	3.348121e-01	0	0	8.107843e+00	2.901872e+01	ITK;MAP3K8
+KEGG_2021_Human	Pantothenate and CoA biosynthesis	1/21	5.123279e-02	3.880967e-01	0	0	2.033673e+01	6.042807e+01	ENPP3
+KEGG_2021_Human	Mannose type O-glycan biosynthesis	1/23	5.597578e-02	3.880967e-01	0	0	1.848609e+01	5.329236e+01	LARGE1
+KEGG_2021_Human	Nicotinate and nicotinamide metabolism	1/35	8.394959e-02	3.880967e-01	0	0	1.195438e+01	2.961745e+01	ENPP3
+KEGG_2021_Human	Starch and sucrose metabolism	1/36	8.624372e-02	3.880967e-01	0	0	1.161224e+01	2.845671e+01	ENPP3
+KEGG_2021_Human	Mucin type O-glycan biosynthesis	1/36	8.624372e-02	3.880967e-01	0	0	1.161224e+01	2.845671e+01	GALNTL6
+KEGG_2021_Human	Other types of O-glycan biosynthesis	1/47	1.111106e-01	4.444422e-01	0	0	8.830524e+00	1.940269e+01	GALNTL6
+KEGG_2021_Human	Pyrimidine metabolism	1/56	1.309618e-01	4.714626e-01	0	0	7.382189e+00	1.500688e+01	ENPP3
+KEGG_2021_Human	Mitophagy	1/68	1.567556e-01	4.723559e-01	0	0	6.056351e+00	1.122282e+01	PRKN
+KEGG_2021_Human	ECM-receptor interaction	1/88	1.980877e-01	4.723559e-01	0	0	4.659395e+00	7.543772e+00	COL6A5
+KEGG_2021_Human	Progesterone-mediated oocyte maturation	1/100	2.219269e-01	4.723559e-01	0	0	4.092146e+00	6.160346e+00	CDC25A
+KEGG_2021_Human	Protein digestion and absorption	1/103	2.277773e-01	4.723559e-01	0	0	3.971188e+00	5.874923e+00	COL6A5
+KEGG_2021_Human	Toll-like receptor signaling pathway	1/104	2.297179e-01	4.723559e-01	0	0	3.932435e+00	5.784232e+00	MAP3K8
+KEGG_2021_Human	NF-kappa B signaling pathway	1/104	2.297179e-01	4.723559e-01	0	0	3.932435e+00	5.784232e+00	EDAR
+KEGG_2021_Human	TNF signaling pathway	1/112	2.450712e-01	4.723559e-01	0	0	3.647546e+00	5.129202e+00	MAP3K8
+KEGG_2021_Human	Leukocyte transendothelial migration	1/114	2.488624e-01	4.723559e-01	0	0	3.582626e+00	4.982914e+00	ITK
+KEGG_2021_Human	Cell cycle	1/124	2.675404e-01	4.723559e-01	0	0	3.289696e+00	4.337414e+00	CDC25A
+KEGG_2021_Human	Purine metabolism	1/129	2.767079e-01	4.723559e-01	0	0	3.160395e+00	4.060453e+00	ENPP3
+KEGG_2021_Human	Ubiquitin mediated proteolysis	1/140	2.964825e-01	4.723559e-01	0	0	2.908677e+00	3.536274e+00	PRKN
+KEGG_2021_Human	Signaling pathways regulating pluripotency of stem cells	1/143	3.017830e-01	4.723559e-01	0	0	2.846795e+00	3.410595e+00	SMAD9
+KEGG_2021_Human	Spinocerebellar ataxia	1/143	3.017830e-01	4.723559e-01	0	0	2.846795e+00	3.410595e+00	KCND3
+KEGG_2021_Human	Cellular senescence	1/156	3.243030e-01	4.864544e-01	0	0	2.606320e+00	2.934917e+00	CDC25A
+KEGG_2021_Human	Protein processing in endoplasmic reticulum	1/171	3.494039e-01	5.031416e-01	0	0	2.374550e+00	2.496903e+00	PRKN
+KEGG_2021_Human	Chemokine signaling pathway	1/192	3.830163e-01	5.291933e-01	0	0	2.111230e+00	2.026101e+00	ITK
+KEGG_2021_Human	Focal adhesion	1/201	3.968950e-01	5.291933e-01	0	0	2.015306e+00	1.862311e+00	COL6A5
+KEGG_2021_Human	Chemical carcinogenesis	1/239	4.521970e-01	5.783636e-01	0	0	1.690276e+00	1.341466e+00	CDC25A
+KEGG_2021_Human	Parkinson disease	1/249	4.659040e-01	5.783636e-01	0	0	1.621297e+00	1.238307e+00	PRKN
+KEGG_2021_Human	MAPK signaling pathway	1/294	5.235391e-01	6.093848e-01	0	0	1.369158e+00	8.860417e-01	MAP3K8
+KEGG_2021_Human	Cytokine-cytokine receptor interaction	1/295	5.247480e-01	6.093848e-01	0	0	1.364431e+00	8.798360e-01	EDAR
+KEGG_2021_Human	MicroRNAs in cancer	1/310	5.425252e-01	6.103408e-01	0	0	1.297206e+00	7.932686e-01	CDC25A
+KEGG_2021_Human	Human papillomavirus infection	1/331	5.663228e-01	6.178067e-01	0	0	1.213358e+00	6.899045e-01	COL6A5
+KEGG_2021_Human	PI3K-Akt signaling pathway	1/354	5.909957e-01	6.184686e-01	0	0	1.132971e+00	5.958823e-01	COL6A5
+KEGG_2021_Human	Amyotrophic lateral sclerosis	1/364	6.012889e-01	6.184686e-01	0	0	1.101198e+00	5.601569e-01	PRKN
+KEGG_2021_Human	Pathways of neurodegeneration	1/475	6.998036e-01	6.998036e-01	0	0	8.385430e-01	2.993226e-01	PRKN

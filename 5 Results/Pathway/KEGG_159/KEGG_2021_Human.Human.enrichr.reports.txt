@@ -1,0 +1,12 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+KEGG_2021_Human	Adherens junction	1/71	1.265156e-01	3.589583e-01	0	0	7.680309e+00	1.587819e+01	PTPRB
+KEGG_2021_Human	Synaptic vesicle cycle	1/78	1.381096e-01	3.589583e-01	0	0	6.979642e+00	1.381765e+01	CPLX4
+KEGG_2021_Human	ErbB signaling pathway	1/85	1.495536e-01	3.589583e-01	0	0	6.395753e+00	1.215257e+01	NRG1
+KEGG_2021_Human	Autophagy	1/137	2.300562e-01	3.589583e-01	0	0	3.939984e+00	5.789537e+00	ATG16L1
+KEGG_2021_Human	Spinocerebellar ataxia	1/143	2.388530e-01	3.589583e-01	0	0	3.772364e+00	5.401674e+00	KCND3
+KEGG_2021_Human	Hippo signaling pathway	1/163	2.674747e-01	3.589583e-01	0	0	3.303303e+00	4.356166e+00	LIMD1
+KEGG_2021_Human	Protein processing in endoplasmic reticulum	1/171	2.786276e-01	3.589583e-01	0	0	3.146582e+00	4.020952e+00	LMAN1
+KEGG_2021_Human	NOD-like receptor signaling pathway	1/181	2.923363e-01	3.589583e-01	0	0	2.970270e+00	3.652988e+00	ATG16L1
+KEGG_2021_Human	Axon guidance	1/182	2.936931e-01	3.589583e-01	0	0	2.953711e+00	3.618945e+00	ROBO2
+KEGG_2021_Human	Shigellosis	1/246	3.754574e-01	4.130031e-01	0	0	2.175069e+00	2.130720e+00	ATG16L1
+KEGG_2021_Human	Amyotrophic lateral sclerosis	1/364	5.027299e-01	5.027299e-01	0	0	1.459236e+00	1.003520e+00	NRG1

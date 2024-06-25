@@ -1,0 +1,29 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Cellular_Component_2021	Cul2-RING ubiquitin ligase complex (GO:0031462)	1/19	6.089852e-02	7.556336e-01	0	0	1.702222e+01	4.763748e+01	ZSWIM6
+GO_Cellular_Component_2021	endoplasmic reticulum-Golgi intermediate compartment membrane (GO:0033116)	1/49	1.496965e-01	7.556336e-01	0	0	6.373718e+00	1.210462e+01	LMAN1
+GO_Cellular_Component_2021	ER to Golgi transport vesicle membrane (GO:0012507)	1/54	1.636696e-01	7.556336e-01	0	0	5.770972e+00	1.044491e+01	LMAN1
+GO_Cellular_Component_2021	coated vesicle membrane (GO:0030662)	1/55	1.664370e-01	7.556336e-01	0	0	5.663818e+00	1.015601e+01	LMAN1
+GO_Cellular_Component_2021	transport vesicle membrane (GO:0030658)	1/60	1.801390e-01	7.556336e-01	0	0	5.182529e+00	8.882991e+00	LMAN1
+GO_Cellular_Component_2021	autophagosome (GO:0005776)	1/69	2.042461e-01	7.556336e-01	0	0	4.494570e+00	7.139309e+00	TBC1D5
+GO_Cellular_Component_2021	glutamatergic synapse (GO:0098978)	1/69	2.042461e-01	7.556336e-01	0	0	4.494570e+00	7.139309e+00	PTPRD
+GO_Cellular_Component_2021	COPII-coated ER to Golgi transport vesicle (GO:0030134)	1/79	2.302134e-01	7.556336e-01	0	0	3.916371e+00	5.752165e+00	LMAN1
+GO_Cellular_Component_2021	coated vesicle (GO:0030135)	1/84	2.428822e-01	7.556336e-01	0	0	3.679518e+00	5.207175e+00	LMAN1
+GO_Cellular_Component_2021	intrinsic component of endoplasmic reticulum membrane (GO:0031227)	1/121	3.304612e-01	8.717200e-01	0	0	2.540256e+00	2.812739e+00	EXT1
+GO_Cellular_Component_2021	collagen-containing extracellular matrix (GO:0062023)	2/380	3.578025e-01	8.717200e-01	0	0	1.616733e+00	1.661636e+00	LMAN1;MATN2
+GO_Cellular_Component_2021	integral component of endoplasmic reticulum membrane (GO:0030176)	1/142	3.756469e-01	8.717200e-01	0	0	2.159629e+00	2.114505e+00	EXT1
+GO_Cellular_Component_2021	cullin-RING ubiquitin ligase complex (GO:0031461)	1/157	4.060699e-01	8.717200e-01	0	0	1.950493e+00	1.757843e+00	ZSWIM6
+GO_Cellular_Component_2021	Golgi membrane (GO:0000139)	2/472	4.637408e-01	8.717200e-01	0	0	1.294149e+00	9.944622e-01	EXT1;LMAN1
+GO_Cellular_Component_2021	bounding membrane of organelle (GO:0098588)	3/767	4.669929e-01	8.717200e-01	0	0	1.194839e+00	9.097999e-01	EXT1;LMAN1;TBC1D5
+GO_Cellular_Component_2021	integral component of organelle membrane (GO:0031301)	1/214	5.089290e-01	8.906257e-01	0	0	1.424413e+00	9.621154e-01	EXT1
+GO_Cellular_Component_2021	lytic vacuole membrane (GO:0098852)	1/267	5.887223e-01	9.581957e-01	0	0	1.137536e+00	6.026674e-01	ITFG2
+GO_Cellular_Component_2021	endosome membrane (GO:0010008)	1/325	6.614497e-01	9.581957e-01	0	0	9.311491e-01	3.848638e-01	TBC1D5
+GO_Cellular_Component_2021	lysosomal membrane (GO:0005765)	1/330	6.670906e-01	9.581957e-01	0	0	9.167641e-01	3.711330e-01	ITFG2
+GO_Cellular_Component_2021	endoplasmic reticulum membrane (GO:0005789)	2/712	6.863907e-01	9.581957e-01	0	0	8.461268e-01	3.184046e-01	EXT1;LMAN1
+GO_Cellular_Component_2021	cytoplasmic vesicle membrane (GO:0030659)	1/380	7.186468e-01	9.581957e-01	0	0	7.937893e-01	2.622563e-01	TBC1D5
+GO_Cellular_Component_2021	lysosome (GO:0005764)	1/477	7.972529e-01	9.999910e-01	0	0	6.288946e-01	1.424971e-01	ITFG2
+GO_Cellular_Component_2021	nucleolus (GO:0005730)	1/733	9.152807e-01	9.999910e-01	0	0	4.035729e-01	3.572609e-02	DFFB
+GO_Cellular_Component_2021	nuclear lumen (GO:0031981)	1/745	9.186992e-01	9.999910e-01	0	0	3.968156e-01	3.364857e-02	DFFB
+GO_Cellular_Component_2021	intracellular non-membrane-bounded organelle (GO:0043232)	1/1158	9.806099e-01	9.999910e-01	0	0	2.496775e-01	4.888813e-03	DFFB
+GO_Cellular_Component_2021	integral component of plasma membrane (GO:0005887)	1/1454	9.931919e-01	9.999910e-01	0	0	1.956800e-01	1.336767e-03	PTPRD
+GO_Cellular_Component_2021	nucleus (GO:0005634)	3/4484	9.999862e-01	9.999910e-01	0	0	1.642172e-01	2.272780e-06	DFFB;MYT1L;TOX
+GO_Cellular_Component_2021	intracellular membrane-bounded organelle (GO:0043231)	4/5192	9.999910e-01	9.999910e-01	0	0	1.833760e-01	1.653315e-06	DFFB;TBC1D5;MYT1L;TOX

@@ -1,0 +1,21 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Molecular_Function_2021	glial cell-derived neurotrophic factor receptor activity (GO:0016167)	1/5	2.996653e-03	2.996653e-02	0	0	4.541818e+02	2.638914e+03	GFRA2
+GO_Molecular_Function_2021	phosphodiesterase I activity (GO:0004528)	1/5	2.996653e-03	2.996653e-02	0	0	4.541818e+02	2.638914e+03	ENPP3
+GO_Molecular_Function_2021	nucleoside-triphosphate diphosphatase activity (GO:0047429)	1/10	5.985094e-03	3.990062e-02	0	0	2.018081e+02	1.032951e+03	ENPP3
+GO_Molecular_Function_2021	phosphoric diester hydrolase activity (GO:0008081)	1/36	2.139311e-02	1.064387e-01	0	0	5.182597e+01	1.992546e+02	ENPP3
+GO_Molecular_Function_2021	exonuclease activity (GO:0004527)	1/49	2.901474e-02	1.064387e-01	0	0	3.776515e+01	1.336868e+02	ENPP3
+GO_Molecular_Function_2021	pyrophosphatase activity (GO:0016462)	1/54	3.193162e-02	1.064387e-01	0	0	3.419383e+01	1.177690e+02	ENPP3
+GO_Molecular_Function_2021	cytokine receptor activity (GO:0004896)	1/88	5.155439e-02	1.472983e-01	0	0	2.079519e+01	6.166020e+01	GFRA2
+GO_Molecular_Function_2021	GTPase regulator activity (GO:0030695)	1/233	1.312147e-01	3.166327e-01	0	0	7.741379e+00	1.572213e+01	TBC1D5
+GO_Molecular_Function_2021	GTPase activator activity (GO:0005096)	1/336	1.840226e-01	3.166327e-01	0	0	5.333243e+00	9.027564e+00	TBC1D5
+GO_Molecular_Function_2021	zinc ion binding (GO:0008270)	1/336	1.840226e-01	3.166327e-01	0	0	5.333243e+00	9.027564e+00	ENPP3
+GO_Molecular_Function_2021	protein serine/threonine kinase activity (GO:0004674)	1/344	1.879984e-01	3.166327e-01	0	0	5.206732e+00	8.702126e+00	MAP3K8
+GO_Molecular_Function_2021	calcium ion binding (GO:0005509)	1/348	1.899796e-01	3.166327e-01	0	0	5.145664e+00	8.546117e+00	ENPP3
+GO_Molecular_Function_2021	transition metal ion binding (GO:0046914)	1/445	2.366890e-01	3.641369e-01	0	0	4.001638e+00	5.766393e+00	ENPP3
+GO_Molecular_Function_2021	metal ion binding (GO:0046872)	1/517	2.697488e-01	3.853555e-01	0	0	3.430585e+00	4.494972e+00	ENPP3
+GO_Molecular_Function_2021	double-stranded DNA binding (GO:0003690)	1/651	3.278063e-01	4.150670e-01	0	0	2.704615e+00	3.016545e+00	ZSCAN5A
+GO_Molecular_Function_2021	sequence-specific DNA binding (GO:0043565)	1/707	3.507902e-01	4.150670e-01	0	0	2.482874e+00	2.600977e+00	ZSCAN5A
+GO_Molecular_Function_2021	sequence-specific double-stranded DNA binding (GO:1990837)	1/712	3.528069e-01	4.150670e-01	0	0	2.464774e+00	2.567886e+00	ZSCAN5A
+GO_Molecular_Function_2021	RNA polymerase II cis-regulatory region sequence-specific DNA binding (GO:0000978)	1/1149	5.084520e-01	5.352126e-01	0	0	1.491923e+00	1.009113e+00	ZSCAN5A
+GO_Molecular_Function_2021	cis-regulatory region sequence-specific DNA binding (GO:0000987)	1/1149	5.084520e-01	5.352126e-01	0	0	1.491923e+00	1.009113e+00	ZSCAN5A
+GO_Molecular_Function_2021	RNA polymerase II transcription regulatory region sequence-specific DNA binding (GO:0000977)	1/1359	5.702986e-01	5.702986e-01	0	0	1.247155e+00	7.003961e-01	ZSCAN5A

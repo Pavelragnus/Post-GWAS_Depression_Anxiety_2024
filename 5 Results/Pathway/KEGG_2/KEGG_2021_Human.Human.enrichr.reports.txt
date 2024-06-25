@@ -1,0 +1,20 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+KEGG_2021_Human	TGF-beta signaling pathway	2/94	1.978137e-02	3.268657e-01	0	0	9.813241e+00	3.849749e+01	SMAD9;THSD4
+KEGG_2021_Human	Mannose type O-glycan biosynthesis	1/23	5.161037e-02	3.268657e-01	0	0	2.013333e+01	5.967586e+01	LARGE1
+KEGG_2021_Human	Protein export	1/23	5.161037e-02	3.268657e-01	0	0	2.013333e+01	5.967586e+01	SRP54
+KEGG_2021_Human	Glioma	1/75	1.588783e-01	4.672932e-01	0	0	5.969970e+00	1.098246e+01	CAMK1D
+KEGG_2021_Human	Taste transduction	1/86	1.799991e-01	4.672932e-01	0	0	5.194510e+00	8.907564e+00	HTR1E
+KEGG_2021_Human	Aldosterone synthesis and secretion	1/98	2.024484e-01	4.672932e-01	0	0	4.549141e+00	7.266208e+00	CAMK1D
+KEGG_2021_Human	T cell receptor signaling pathway	1/104	2.134464e-01	4.672932e-01	0	0	4.282848e+00	6.614299e+00	ITK
+KEGG_2021_Human	Serotonergic synapse	1/113	2.296659e-01	4.672932e-01	0	0	3.936905e+00	5.791698e+00	HTR1E
+KEGG_2021_Human	Leukocyte transendothelial migration	1/114	2.314477e-01	4.672932e-01	0	0	3.901868e+00	5.709999e+00	ITK
+KEGG_2021_Human	Signaling pathways regulating pluripotency of stem cells	1/143	2.814026e-01	4.672932e-01	0	0	3.100469e+00	3.931299e+00	SMAD9
+KEGG_2021_Human	Spinocerebellar ataxia	1/143	2.814026e-01	4.672932e-01	0	0	3.100469e+00	3.931299e+00	KCND3
+KEGG_2021_Human	Oxytocin signaling pathway	1/154	2.995079e-01	4.672932e-01	0	0	2.875962e+00	3.467302e+00	CAMK1D
+KEGG_2021_Human	Axon guidance	1/182	3.436043e-01	4.672932e-01	0	0	2.427624e+00	2.593345e+00	SRGAP3
+KEGG_2021_Human	Chemokine signaling pathway	1/192	3.586852e-01	4.672932e-01	0	0	2.299360e+00	2.357557e+00	ITK
+KEGG_2021_Human	Rap1 signaling pathway	1/210	3.849813e-01	4.672932e-01	0	0	2.099415e+00	2.004019e+00	MAGI2
+KEGG_2021_Human	cAMP signaling pathway	1/216	3.935100e-01	4.672932e-01	0	0	2.040207e+00	1.902796e+00	HTR1E
+KEGG_2021_Human	Calcium signaling pathway	1/240	4.264827e-01	4.766571e-01	0	0	1.833101e+00	1.562138e+00	CAMK1D
+KEGG_2021_Human	Neuroactive ligand-receptor interaction	1/341	5.470441e-01	5.606347e-01	0	0	1.281961e+00	7.733119e-01	HTR1E
+KEGG_2021_Human	PI3K-Akt signaling pathway	1/354	5.606347e-01	5.606347e-01	0	0	1.233931e+00	7.140585e-01	MAGI2

@@ -1,0 +1,15 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+KEGG_2021_Human	Protein export	1/23	5.270353e-02	4.680565e-01	0	0	1.969466e+01	5.796283e+01	SRP54
+KEGG_2021_Human	Axon guidance	2/182	6.820402e-02	4.680565e-01	0	0	4.882222e+00	1.311000e+01	ROBO2;SRGAP3
+KEGG_2021_Human	Glioma	1/75	1.620397e-01	4.680565e-01	0	0	5.839894e+00	1.062810e+01	CAMK1D
+KEGG_2021_Human	Synaptic vesicle cycle	1/78	1.679559e-01	4.680565e-01	0	0	5.611519e+00	1.001125e+01	CPLX4
+KEGG_2021_Human	Taste transduction	1/86	1.835332e-01	4.680565e-01	0	0	5.081330e+00	8.614682e+00	HTR1E
+KEGG_2021_Human	Aldosterone synthesis and secretion	1/98	2.063654e-01	4.680565e-01	0	0	4.450022e+00	7.022611e+00	CAMK1D
+KEGG_2021_Human	Serotonergic synapse	1/113	2.340283e-01	4.680565e-01	0	0	3.851126e+00	5.593041e+00	HTR1E
+KEGG_2021_Human	Oxytocin signaling pathway	1/154	3.049141e-01	5.056109e-01	0	0	2.813299e+00	3.341426e+00	CAMK1D
+KEGG_2021_Human	Protein processing in endoplasmic reticulum	1/171	3.323851e-01	5.056109e-01	0	0	2.529795e+00	2.786471e+00	LMAN1
+KEGG_2021_Human	Rap1 signaling pathway	1/210	3.914539e-01	5.056109e-01	0	0	2.053672e+00	1.926113e+00	MAGI2
+KEGG_2021_Human	cAMP signaling pathway	1/216	4.000752e-01	5.056109e-01	0	0	1.995753e+00	1.828315e+00	HTR1E
+KEGG_2021_Human	Calcium signaling pathway	1/240	4.333808e-01	5.056109e-01	0	0	1.793160e+00	1.499330e+00	CAMK1D
+KEGG_2021_Human	Neuroactive ligand-receptor interaction	1/341	5.547848e-01	5.684294e-01	0	0	1.254028e+00	7.388420e-01	HTR1E
+KEGG_2021_Human	PI3K-Akt signaling pathway	1/354	5.684294e-01	5.684294e-01	0	0	1.207045e+00	6.818336e-01	MAGI2

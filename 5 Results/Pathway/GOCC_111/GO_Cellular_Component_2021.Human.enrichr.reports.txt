@@ -1,0 +1,16 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Cellular_Component_2021	collagen type IV trimer (GO:0005587)	2/6	1.279582e-05	1.919373e-04	0	0	5.875588e+02	6.619668e+03	COL4A2;COL4A4
+GO_Cellular_Component_2021	endoplasmic reticulum lumen (GO:0005788)	3/285	2.342798e-03	1.757098e-02	0	0	1.309774e+01	7.932527e+01	COL24A1;COL4A2;COL4A4
+GO_Cellular_Component_2021	collagen-containing extracellular matrix (GO:0062023)	3/380	5.259565e-03	2.629782e-02	0	0	9.750000e+00	5.116514e+01	COL24A1;COL4A2;COL4A4
+GO_Cellular_Component_2021	intracellular organelle lumen (GO:0070013)	3/848	4.435478e-02	1.448457e-01	0	0	4.246154e+00	1.322904e+01	COL24A1;COL4A2;COL4A4
+GO_Cellular_Component_2021	basement membrane (GO:0005604)	1/52	4.828189e-02	1.448457e-01	0	0	2.171024e+01	6.579720e+01	COL4A4
+GO_Cellular_Component_2021	clathrin-coated vesicle (GO:0030136)	1/80	7.335659e-02	1.647582e-01	0	0	1.399578e+01	3.656290e+01	NUMB
+GO_Cellular_Component_2021	coated vesicle (GO:0030135)	1/84	7.688718e-02	1.647582e-01	0	0	1.331861e+01	3.416777e+01	NUMB
+GO_Cellular_Component_2021	mitochondrial outer membrane (GO:0005741)	1/126	1.131971e-01	2.111169e-01	0	0	8.824889e+00	1.922612e+01	FAM210B
+GO_Cellular_Component_2021	organelle outer membrane (GO:0031968)	1/142	1.266701e-01	2.111169e-01	0	0	7.817179e+00	1.615161e+01	FAM210B
+GO_Cellular_Component_2021	focal adhesion (GO:0005925)	1/387	3.102469e-01	4.294247e-01	0	0	2.820236e+00	3.300767e+00	NUMB
+GO_Cellular_Component_2021	cell-substrate junction (GO:0030055)	1/394	3.149114e-01	4.294247e-01	0	0	2.769013e+00	3.199495e+00	NUMB
+GO_Cellular_Component_2021	mitochondrial membrane (GO:0031966)	1/469	3.630485e-01	4.445057e-01	0	0	2.316358e+00	2.346978e+00	FAM210B
+GO_Cellular_Component_2021	integral component of plasma membrane (GO:0005887)	2/1454	4.066991e-01	4.445057e-01	0	0	1.501296e+00	1.350689e+00	SEMA3E;NRCAM
+GO_Cellular_Component_2021	neuron projection (GO:0043005)	1/556	4.148720e-01	4.445057e-01	0	0	1.944545e+00	1.710782e+00	NRCAM
+GO_Cellular_Component_2021	intracellular membrane-bounded organelle (GO:0043231)	1/5192	9.966975e-01	9.966975e-01	0	0	1.582868e-01	5.236123e-04	SLC4A1AP

@@ -1,0 +1,66 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+Reactome_2016	HS-GAG biosynthesis Homo sapiens R-HSA-2022928	2/31	3.502725e-04	2.276771e-02	0	0	8.600431e+01	6.843190e+02	GPC5;HS6ST3
+Reactome_2016	Heparan sulfate/heparin (HS-GAG) metabolism Homo sapiens R-HSA-1638091	2/54	1.064812e-03	3.460640e-02	0	0	4.790865e+01	3.279327e+02	GPC5;HS6ST3
+Reactome_2016	Glycosaminoglycan metabolism Homo sapiens R-HSA-1630316	2/121	5.213014e-03	8.733997e-02	0	0	2.086450e+01	1.096762e+02	GPC5;HS6ST3
+Reactome_2016	Release of Hh-Np from the secreting cell Homo sapiens R-HSA-5362798	1/8	7.178529e-03	8.733997e-02	0	0	1.678571e+02	8.286538e+02	GPC5
+Reactome_2016	Activation of Ca-permeable Kainate Receptor Homo sapiens R-HSA-451308	1/10	8.965550e-03	8.733997e-02	0	0	1.305425e+02	6.154250e+02	NCALD
+Reactome_2016	Ionotropic activity of Kainate Receptors Homo sapiens R-HSA-451306	1/10	8.965550e-03	8.733997e-02	0	0	1.305425e+02	6.154250e+02	NCALD
+Reactome_2016	Defective EXT2 causes exostoses 2 Homo sapiens R-HSA-3656237	1/12	1.074953e-02	8.733997e-02	0	0	1.067968e+02	4.840984e+02	GPC5
+Reactome_2016	Defective EXT1 causes exostoses 1, TRPS2 and CHDS Homo sapiens R-HSA-3656253	1/12	1.074953e-02	8.733997e-02	0	0	1.067968e+02	4.840984e+02	GPC5
+Reactome_2016	Defective B3GALT6 causes EDSP2 and SEMDJL1 Homo sapiens R-HSA-4420332	1/19	1.696963e-02	8.915124e-02	0	0	6.524183e+01	2.659472e+02	GPC5
+Reactome_2016	Defective B4GALT7 causes EDS, progeroid type Homo sapiens R-HSA-3560783	1/19	1.696963e-02	8.915124e-02	0	0	6.524183e+01	2.659472e+02	GPC5
+Reactome_2016	Defective B3GAT3 causes JDSSDHD Homo sapiens R-HSA-3560801	1/19	1.696963e-02	8.915124e-02	0	0	6.524183e+01	2.659472e+02	GPC5
+Reactome_2016	HS-GAG degradation Homo sapiens R-HSA-2024096	1/21	1.874001e-02	8.915124e-02	0	0	5.871176e+01	2.335022e+02	GPC5
+Reactome_2016	CaM pathway Homo sapiens R-HSA-111997	1/26	2.315278e-02	8.915124e-02	0	0	4.695765e+01	1.768256e+02	PDE1C
+Reactome_2016	Calmodulin induced events Homo sapiens R-HSA-111933	1/26	2.315278e-02	8.915124e-02	0	0	4.695765e+01	1.768256e+02	PDE1C
+Reactome_2016	Diseases associated with glycosaminoglycan metabolism Homo sapiens R-HSA-3560782	1/26	2.315278e-02	8.915124e-02	0	0	4.695765e+01	1.768256e+02	GPC5
+Reactome_2016	A tetrasaccharide linker sequence is required for GAG synthesis Homo sapiens R-HSA-1971475	1/26	2.315278e-02	8.915124e-02	0	0	4.695765e+01	1.768256e+02	GPC5
+Reactome_2016	Ca-dependent events Homo sapiens R-HSA-111996	1/28	2.491264e-02	8.915124e-02	0	0	4.347495e+01	1.605260e+02	PDE1C
+Reactome_2016	Metabolism of carbohydrates Homo sapiens R-HSA-71387	2/282	2.612191e-02	8.915124e-02	0	0	8.795536e+00	3.205956e+01	GPC5;HS6ST3
+Reactome_2016	Activation of Kainate Receptors upon glutamate binding Homo sapiens R-HSA-451326	1/30	2.666950e-02	8.915124e-02	0	0	4.047262e+01	1.466823e+02	NCALD
+Reactome_2016	DAG and IP3 signaling Homo sapiens R-HSA-1489509	1/32	2.842338e-02	8.915124e-02	0	0	3.785769e+01	1.347939e+02	PDE1C
+Reactome_2016	EGFR interacts with phospholipase C-gamma Homo sapiens R-HSA-212718	1/34	3.017427e-02	8.915124e-02	0	0	3.555971e+01	1.244862e+02	PDE1C
+Reactome_2016	PLC-gamma1 signalling Homo sapiens R-HSA-167021	1/34	3.017427e-02	8.915124e-02	0	0	3.555971e+01	1.244862e+02	PDE1C
+Reactome_2016	Retinoid metabolism and transport Homo sapiens R-HSA-975634	1/42	3.714807e-02	9.422270e-02	0	0	2.860976e+01	9.420745e+01	GPC5
+Reactome_2016	Phospholipase C-mediated cascade; FGFR3 Homo sapiens R-HSA-5654227	1/44	3.888411e-02	9.422270e-02	0	0	2.727633e+01	8.857088e+01	PDE1C
+Reactome_2016	PLC beta mediated events Homo sapiens R-HSA-112043	1/44	3.888411e-02	9.422270e-02	0	0	2.727633e+01	8.857088e+01	PDE1C
+Reactome_2016	G-protein mediated events Homo sapiens R-HSA-112040	1/45	3.975102e-02	9.422270e-02	0	0	2.665508e+01	8.596583e+01	PDE1C
+Reactome_2016	Phospholipase C-mediated cascade; FGFR4 Homo sapiens R-HSA-5654228	1/46	4.061719e-02	9.422270e-02	0	0	2.606144e+01	8.348948e+01	PDE1C
+Reactome_2016	Phospholipase C-mediated cascade: FGFR1 Homo sapiens R-HSA-5654219	1/47	4.148262e-02	9.422270e-02	0	0	2.549361e+01	8.113291e+01	PDE1C
+Reactome_2016	Phospholipase C-mediated cascade; FGFR2 Homo sapiens R-HSA-5654221	1/49	4.321127e-02	9.422270e-02	0	0	2.442892e+01	7.674722e+01	PDE1C
+Reactome_2016	Chondroitin sulfate/dermatan sulfate metabolism Homo sapiens R-HSA-1793185	1/50	4.407449e-02	9.422270e-02	0	0	2.392917e+01	7.470386e+01	GPC5
+Reactome_2016	Metabolism of fat-soluble vitamins Homo sapiens R-HSA-6806667	1/51	4.493698e-02	9.422270e-02	0	0	2.344941e+01	7.275166e+01	GPC5
+Reactome_2016	Hedgehog ligand biogenesis Homo sapiens R-HSA-5358346	1/64	5.608264e-02	1.139179e-01	0	0	1.859851e+01	5.358097e+01	GPC5
+Reactome_2016	Opioid Signalling Homo sapiens R-HSA-111885	1/81	7.047247e-02	1.388094e-01	0	0	1.463382e+01	3.881670e+01	PDE1C
+Reactome_2016	Diseases of glycosylation Homo sapiens R-HSA-3781865	1/88	7.633726e-02	1.459389e-01	0	0	1.345166e+01	3.460565e+01	GPC5
+Reactome_2016	Oxidative Stress Induced Senescence Homo sapiens R-HSA-2559580	1/91	7.884002e-02	1.464172e-01	0	0	1.300131e+01	3.302767e+01	MAP4K4
+Reactome_2016	Visual phototransduction Homo sapiens R-HSA-2187338	1/97	8.382636e-02	1.513531e-01	0	0	1.218505e+01	3.020683e+01	GPC5
+Reactome_2016	Signaling by Hedgehog Homo sapiens R-HSA-5358351	1/136	1.156214e-01	2.031188e-01	0	0	8.647930e+00	1.865734e+01	GPC5
+Reactome_2016	Neurotransmitter Receptor Binding And Downstream Transmission In The  Postsynaptic Cell Homo sapiens R-HSA-112314	1/142	1.204195e-01	2.059807e-01	0	0	8.277430e+00	1.752145e+01	NCALD
+Reactome_2016	Metabolism of vitamins and cofactors Homo sapiens R-HSA-196854	1/148	1.251930e-01	2.086549e-01	0	0	7.937175e+00	1.649265e+01	GPC5
+Reactome_2016	Cellular Senescence Homo sapiens R-HSA-2559583	1/161	1.354517e-01	2.201090e-01	0	0	7.287500e+00	1.456874e+01	MAP4K4
+Reactome_2016	Transmission across Chemical Synapses Homo sapiens R-HSA-112315	1/211	1.738591e-01	2.756303e-01	0	0	5.538375e+00	9.689443e+00	NCALD
+Reactome_2016	Neuronal System Homo sapiens R-HSA-112316	1/301	2.389647e-01	3.229619e-01	0	0	3.859216e+00	5.524233e+00	NCALD
+Reactome_2016	Downstream signaling of activated FGFR2 Homo sapiens R-HSA-5654696	1/329	2.582106e-01	3.229619e-01	0	0	3.524749e+00	4.772439e+00	PDE1C
+Reactome_2016	Downstream signaling of activated FGFR4 Homo sapiens R-HSA-5654716	1/329	2.582106e-01	3.229619e-01	0	0	3.524749e+00	4.772439e+00	PDE1C
+Reactome_2016	Downstream signaling of activated FGFR3 Homo sapiens R-HSA-5654708	1/329	2.582106e-01	3.229619e-01	0	0	3.524749e+00	4.772439e+00	PDE1C
+Reactome_2016	Signaling by FGFR4 Homo sapiens R-HSA-5654743	1/332	2.602451e-01	3.229619e-01	0	0	3.492269e+00	4.701053e+00	PDE1C
+Reactome_2016	Downstream signaling of activated FGFR1 Homo sapiens R-HSA-5654687	1/332	2.602451e-01	3.229619e-01	0	0	3.492269e+00	4.701053e+00	PDE1C
+Reactome_2016	Signaling by FGFR3 Homo sapiens R-HSA-5654741	1/333	2.609221e-01	3.229619e-01	0	0	3.481573e+00	4.677609e+00	PDE1C
+Reactome_2016	Signaling by FGFR1 Homo sapiens R-HSA-5654736	1/336	2.629497e-01	3.229619e-01	0	0	3.449868e+00	4.608308e+00	PDE1C
+Reactome_2016	Downstream signal transduction Homo sapiens R-HSA-186763	1/341	2.663173e-01	3.229619e-01	0	0	3.398270e+00	4.496139e+00	PDE1C
+Reactome_2016	DAP12 signaling Homo sapiens R-HSA-2424491	1/344	2.683308e-01	3.229619e-01	0	0	3.368033e+00	4.430764e+00	PDE1C
+Reactome_2016	Signaling by EGFR Homo sapiens R-HSA-177929	1/355	2.756693e-01	3.229619e-01	0	0	3.261549e+00	4.202679e+00	PDE1C
+Reactome_2016	DAP12 interactions Homo sapiens R-HSA-2172127	1/359	2.783206e-01	3.229619e-01	0	0	3.224450e+00	4.124012e+00	PDE1C
+Reactome_2016	Signaling by FGFR2 Homo sapiens R-HSA-5654738	1/361	2.796428e-01	3.229619e-01	0	0	3.206209e+00	4.085488e+00	PDE1C
+Reactome_2016	Signaling by PDGF Homo sapiens R-HSA-186797	1/364	2.816218e-01	3.229619e-01	0	0	3.179225e+00	4.028684e+00	PDE1C
+Reactome_2016	Signaling by FGFR Homo sapiens R-HSA-190236	1/366	2.829382e-01	3.229619e-01	0	0	3.161483e+00	3.991456e+00	PDE1C
+Reactome_2016	Cellular responses to stress Homo sapiens R-HSA-2262752	1/367	2.835956e-01	3.229619e-01	0	0	3.152684e+00	3.973031e+00	MAP4K4
+Reactome_2016	NGF signalling via TRKA from the plasma membrane Homo sapiens R-HSA-187037	1/374	2.881814e-01	3.229619e-01	0	0	3.092414e+00	3.847474e+00	PDE1C
+Reactome_2016	Signalling by NGF Homo sapiens R-HSA-166520	1/450	3.362178e-01	3.704094e-01	0	0	2.559020e+00	2.789322e+00	PDE1C
+Reactome_2016	Disease Homo sapiens R-HSA-1643685	1/725	4.856786e-01	5.261519e-01	0	0	1.564673e+00	1.130020e+00	GPC5
+Reactome_2016	Metabolism Homo sapiens R-HSA-1430728	2/1908	5.232627e-01	5.490267e-01	0	0	1.185467e+00	7.677934e-01	GPC5;HS6ST3
+Reactome_2016	Innate Immune System Homo sapiens R-HSA-168249	1/807	5.236870e-01	5.490267e-01	0	0	1.399504e+00	9.052846e-01	PDE1C
+Reactome_2016	Signal Transduction Homo sapiens R-HSA-162582	2/2465	6.693108e-01	6.905588e-01	0	0	8.891088e-01	3.569832e-01	PDE1C;GPC5
+Reactome_2016	Signaling by GPCR Homo sapiens R-HSA-372790	1/1293	6.998722e-01	7.108077e-01	0	0	8.509379e-01	3.036636e-01	PDE1C
+Reactome_2016	Immune System Homo sapiens R-HSA-168256	1/1547	7.653671e-01	7.653671e-01	0	0	7.014687e-01	1.875725e-01	PDE1C

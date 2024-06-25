@@ -1,0 +1,16 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Cellular_Component_2021	clathrin coat of trans-Golgi network vesicle (GO:0030130)	1/9	8.072419e-03	8.062151e-02	0	0	1.468676e+02	7.077996e+02	NCALD
+GO_Cellular_Component_2021	clathrin vesicle coat (GO:0030125)	1/12	1.074953e-02	8.062151e-02	0	0	1.067968e+02	4.840984e+02	NCALD
+GO_Cellular_Component_2021	lysosomal lumen (GO:0043202)	1/86	7.466518e-02	3.236623e-01	0	0	1.376955e+01	3.572842e+01	GPC5
+GO_Cellular_Component_2021	Golgi lumen (GO:0005796)	1/100	8.630996e-02	3.236623e-01	0	0	1.181402e+01	2.894211e+01	GPC5
+GO_Cellular_Component_2021	vacuolar lumen (GO:0005775)	1/161	1.354517e-01	3.986453e-01	0	0	7.287500e+00	1.456874e+01	GPC5
+GO_Cellular_Component_2021	spindle (GO:0005819)	1/192	1.594581e-01	3.986453e-01	0	0	6.095165e+00	1.119056e+01	SPATA5
+GO_Cellular_Component_2021	microtubule cytoskeleton (GO:0015630)	1/331	2.595675e-01	5.018856e-01	0	0	3.503030e+00	4.724671e+00	SPATA5
+GO_Cellular_Component_2021	focal adhesion (GO:0005925)	1/387	2.966244e-01	5.018856e-01	0	0	2.986285e+00	3.629198e+00	MAP4K4
+GO_Cellular_Component_2021	cell-substrate junction (GO:0030055)	1/394	3.011314e-01	5.018856e-01	0	0	2.932046e+00	3.519067e+00	MAP4K4
+GO_Cellular_Component_2021	lysosome (GO:0005764)	1/477	3.525337e-01	5.186136e-01	0	0	2.410529e+00	2.513240e+00	GPC5
+GO_Cellular_Component_2021	integral component of plasma membrane (GO:0005887)	2/1454	3.803166e-01	5.186136e-01	0	0	1.595213e+00	1.542174e+00	PTPRT;FCRL4
+GO_Cellular_Component_2021	intracellular organelle lumen (GO:0070013)	1/848	5.416809e-01	6.771011e-01	0	0	1.328912e+00	8.147268e-01	GPC5
+GO_Cellular_Component_2021	intracellular non-membrane-bounded organelle (GO:0043232)	1/1158	6.583804e-01	7.596697e-01	0	0	9.570898e-01	4.000372e-01	SPATA5
+GO_Cellular_Component_2021	nucleus (GO:0005634)	1/4484	9.896577e-01	9.955390e-01	0	0	2.033696e-01	2.114267e-03	GPATCH8
+GO_Cellular_Component_2021	intracellular membrane-bounded organelle (GO:0043231)	1/5192	9.955390e-01	9.955390e-01	0	0	1.676091e-01	7.493845e-04	GPATCH8

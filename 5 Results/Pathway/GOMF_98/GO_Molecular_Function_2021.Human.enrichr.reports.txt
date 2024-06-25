@@ -1,0 +1,35 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Molecular_Function_2021	ER retention sequence binding (GO:0046923)	1/5	6.483689e-03	5.654466e-02	0	0	1.997000e+02	1.006182e+03	CEMIP
+GO_Molecular_Function_2021	ErbB-3 class receptor binding (GO:0043125)	1/5	6.483689e-03	5.654466e-02	0	0	1.997000e+02	1.006182e+03	NRG1
+GO_Molecular_Function_2021	JUN kinase binding (GO:0008432)	1/7	9.065844e-03	5.654466e-02	0	0	1.331200e+02	6.260955e+02	PTK2
+GO_Molecular_Function_2021	transmembrane receptor protein tyrosine kinase activator activity (GO:0030297)	1/7	9.065844e-03	5.654466e-02	0	0	1.331200e+02	6.260955e+02	NRG1
+GO_Molecular_Function_2021	hyalurononglucosaminidase activity (GO:0004415)	1/8	1.035450e-02	5.654466e-02	0	0	1.140971e+02	5.214620e+02	CEMIP
+GO_Molecular_Function_2021	Roundabout binding (GO:0048495)	1/8	1.035450e-02	5.654466e-02	0	0	1.140971e+02	5.214620e+02	SLIT3
+GO_Molecular_Function_2021	clathrin heavy chain binding (GO:0032050)	1/9	1.164155e-02	5.654466e-02	0	0	9.983000e+01	4.445604e+02	CEMIP
+GO_Molecular_Function_2021	hyaluronic acid binding (GO:0005540)	1/11	1.421082e-02	5.852926e-02	0	0	7.985600e+01	3.396876e+02	CEMIP
+GO_Molecular_Function_2021	hexosaminidase activity (GO:0015929)	1/12	1.549304e-02	5.852926e-02	0	0	7.259273e+01	3.025203e+02	CEMIP
+GO_Molecular_Function_2021	protein tyrosine kinase activator activity (GO:0030296)	1/19	2.442382e-02	8.304100e-02	0	0	4.434667e+01	1.646235e+02	NRG1
+GO_Molecular_Function_2021	chemorepellent activity (GO:0045499)	1/25	3.201674e-02	9.896083e-02	0	0	3.325000e+01	1.144298e+02	NRG1
+GO_Molecular_Function_2021	SH2 domain binding (GO:0042169)	1/32	4.080334e-02	1.156095e-01	0	0	2.573290e+01	8.231934e+01	PTK2
+GO_Molecular_Function_2021	non-membrane spanning protein tyrosine kinase activity (GO:0004715)	1/35	4.454550e-02	1.165036e-01	0	0	2.345882e+01	7.298613e+01	PTK2
+GO_Molecular_Function_2021	signal sequence binding (GO:0005048)	1/42	5.322270e-02	1.292551e-01	0	0	1.944683e+01	5.704281e+01	CEMIP
+GO_Molecular_Function_2021	receptor tyrosine kinase binding (GO:0030971)	1/56	7.035034e-02	1.594608e-01	0	0	1.448655e+01	3.845117e+01	NRG1
+GO_Molecular_Function_2021	protein kinase activator activity (GO:0030295)	1/63	7.880205e-02	1.674544e-01	0	0	1.284645e+01	3.264047e+01	NRG1
+GO_Molecular_Function_2021	protein tyrosine kinase binding (GO:1990782)	1/72	8.956003e-02	1.791201e-01	0	0	1.121296e+01	2.705514e+01	NRG1
+GO_Molecular_Function_2021	growth factor activity (GO:0008083)	1/87	1.072221e-01	2.025306e-01	0	0	9.250233e+00	2.065441e+01	NRG1
+GO_Molecular_Function_2021	protein tyrosine kinase activity (GO:0004713)	1/108	1.313963e-01	2.349176e-01	0	0	7.426916e+00	1.507320e+01	PTK2
+GO_Molecular_Function_2021	phosphatase binding (GO:0019902)	1/114	1.381868e-01	2.349176e-01	0	0	7.030442e+00	1.391429e+01	PTK2
+GO_Molecular_Function_2021	protein phosphatase binding (GO:0019903)	1/123	1.482770e-01	2.400675e-01	0	0	6.508852e+00	1.242327e+01	PTK2
+GO_Molecular_Function_2021	cytokine activity (GO:0005125)	1/173	2.022976e-01	3.052224e-01	0	0	4.605116e+00	7.359046e+00	NRG1
+GO_Molecular_Function_2021	actin binding (GO:0003779)	1/177	2.064740e-01	3.052224e-01	0	0	4.499545e+00	7.098397e+00	PTK2
+GO_Molecular_Function_2021	transcription regulatory region nucleic acid binding (GO:0001067)	1/212	2.421310e-01	3.430189e-01	0	0	3.746540e+00	5.313630e+00	ARID5B
+GO_Molecular_Function_2021	GTPase regulator activity (GO:0030695)	1/233	2.627803e-01	3.573812e-01	0	0	3.403793e+00	4.548955e+00	RGPD3
+GO_Molecular_Function_2021	receptor ligand activity (GO:0048018)	1/307	3.313186e-01	4.332628e-01	0	0	2.570980e+00	2.840097e+00	NRG1
+GO_Molecular_Function_2021	GTPase activator activity (GO:0005096)	1/336	3.564707e-01	4.451695e-01	0	0	2.344955e+00	2.418829e+00	RGPD3
+GO_Molecular_Function_2021	calcium ion binding (GO:0005509)	1/348	3.666102e-01	4.451695e-01	0	0	2.262478e+00	2.270298e+00	SLIT3
+GO_Molecular_Function_2021	kinase binding (GO:0019900)	1/461	4.548517e-01	5.332745e-01	0	0	1.696870e+00	1.336766e+00	PTK2
+GO_Molecular_Function_2021	protein kinase binding (GO:0019901)	1/506	4.865923e-01	5.418904e-01	0	0	1.542099e+00	1.110818e+00	PTK2
+GO_Molecular_Function_2021	metal ion binding (GO:0046872)	1/517	4.940765e-01	5.418904e-01	0	0	1.508372e+00	1.063500e+00	SLIT3
+GO_Molecular_Function_2021	transcription cis-regulatory region binding (GO:0000976)	1/549	5.152569e-01	5.474604e-01	0	0	1.417956e+00	9.402322e-01	ARID5B
+GO_Molecular_Function_2021	sequence-specific double-stranded DNA binding (GO:1990837)	1/712	6.105718e-01	6.290740e-01	0	0	1.083713e+00	5.346600e-01	ARID5B
+GO_Molecular_Function_2021	DNA binding (GO:0003677)	1/811	6.593695e-01	6.593695e-01	0	0	9.463704e-01	3.941361e-01	ARID5B

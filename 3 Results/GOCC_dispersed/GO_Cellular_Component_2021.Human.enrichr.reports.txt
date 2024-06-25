@@ -1,0 +1,23 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Cellular_Component_2021	glutamatergic synapse (GO:0098978)	2/69	1.039234e-03	2.286315e-02	0	0	4.954975e+01	3.403707e+02	PTPRD;DLGAP2
+GO_Cellular_Component_2021	Lewy body (GO:0097413)	1/5	3.495399e-03	3.074955e-02	0	0	3.842692e+02	2.173545e+03	PRKN
+GO_Cellular_Component_2021	nuclear stress granule (GO:0097165)	1/6	4.193120e-03	3.074955e-02	0	0	3.074000e+02	1.682803e+03	RBFOX1
+GO_Cellular_Component_2021	autophagosome membrane (GO:0000421)	1/22	1.529518e-02	8.412348e-02	0	0	7.313187e+01	3.057071e+02	ATG16L1
+GO_Cellular_Component_2021	aggresome (GO:0016235)	1/35	2.423087e-02	1.066158e-01	0	0	4.514027e+01	1.679276e+02	PRKN
+GO_Cellular_Component_2021	vacuolar membrane (GO:0005774)	1/45	3.105319e-02	1.091682e-01	0	0	3.486364e+01	1.210484e+02	ATG16L1
+GO_Cellular_Component_2021	SCF ubiquitin ligase complex (GO:0019005)	1/58	3.985599e-02	1.091682e-01	0	0	2.689474e+01	8.666782e+01	PRKN
+GO_Cellular_Component_2021	cytoplasmic stress granule (GO:0010494)	1/65	4.456515e-02	1.091682e-01	0	0	2.394471e+01	7.448728e+01	RBFOX1
+GO_Cellular_Component_2021	autophagosome (GO:0005776)	1/69	4.724646e-02	1.091682e-01	0	0	2.253167e+01	6.877518e+01	ATG16L1
+GO_Cellular_Component_2021	voltage-gated potassium channel complex (GO:0008076)	1/73	4.992078e-02	1.091682e-01	0	0	2.127564e+01	6.376986e+01	KCND3
+GO_Cellular_Component_2021	potassium channel complex (GO:0034705)	1/80	5.458408e-02	1.091682e-01	0	0	1.938364e+01	5.636788e+01	KCND3
+GO_Cellular_Component_2021	integral component of plasma membrane (GO:0005887)	3/1454	7.637709e-02	1.400247e-01	0	0	3.483804e+00	8.960597e+00	PTPRD;KCND3;LIFR
+GO_Cellular_Component_2021	asymmetric synapse (GO:0032279)	1/133	8.920832e-02	1.452208e-01	0	0	1.156993e+01	2.796199e+01	KCND3
+GO_Cellular_Component_2021	postsynaptic density (GO:0014069)	1/138	9.241322e-02	1.452208e-01	0	0	1.114486e+01	2.654132e+01	KCND3
+GO_Cellular_Component_2021	cullin-RING ubiquitin ligase complex (GO:0031461)	1/157	1.044966e-01	1.532617e-01	0	0	9.778107e+00	2.208484e+01	PRKN
+GO_Cellular_Component_2021	trans-Golgi network (GO:0005802)	1/239	1.549523e-01	2.130595e-01	0	0	6.382676e+00	1.190138e+01	RBFOX1
+GO_Cellular_Component_2021	neuron projection (GO:0043005)	1/556	3.262133e-01	4.221584e-01	0	0	2.693139e+00	3.016865e+00	PRKN
+GO_Cellular_Component_2021	nucleus (GO:0005634)	4/4484	3.868738e-01	4.535931e-01	0	0	1.384464e+00	1.314766e+00	PRKN;HDAC4;MOB1B;RBFOX1
+GO_Cellular_Component_2021	nucleolus (GO:0005730)	1/733	4.072076e-01	4.535931e-01	0	0	2.023329e+00	1.817824e+00	MOB1B
+GO_Cellular_Component_2021	nuclear lumen (GO:0031981)	1/745	4.123573e-01	4.535931e-01	0	0	1.989454e+00	1.762388e+00	MOB1B
+GO_Cellular_Component_2021	intracellular membrane-bounded organelle (GO:0043231)	4/5192	5.122644e-01	5.366580e-01	0	0	1.140941e+00	7.631916e-01	PRKN;HDAC4;MOB1B;RBFOX1
+GO_Cellular_Component_2021	intracellular non-membrane-bounded organelle (GO:0043232)	1/1158	5.662522e-01	5.662522e-01	0	0	1.251845e+00	7.119439e-01	MOB1B

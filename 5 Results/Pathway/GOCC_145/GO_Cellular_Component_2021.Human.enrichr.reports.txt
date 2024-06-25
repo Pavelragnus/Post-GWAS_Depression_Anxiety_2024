@@ -1,0 +1,16 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Cellular_Component_2021	intrinsic component of postsynaptic density membrane (GO:0099146)	1/11	2.232564e-02	1.516145e-01	0	0	4.987250e+01	1.896162e+02	LRFN2
+GO_Cellular_Component_2021	integral component of postsynaptic density membrane (GO:0099061)	1/11	2.232564e-02	1.516145e-01	0	0	4.987250e+01	1.896162e+02	LRFN2
+GO_Cellular_Component_2021	integral component of postsynaptic specialization membrane (GO:0099060)	1/15	3.032291e-02	1.516145e-01	0	0	3.561607e+01	1.245085e+02	LRFN2
+GO_Cellular_Component_2021	glutamatergic synapse (GO:0098978)	1/69	1.322367e-01	4.958876e-01	0	0	7.312868e+00	1.479512e+01	PTPRD
+GO_Cellular_Component_2021	mitochondrial inner membrane (GO:0005743)	1/328	4.927026e-01	9.994851e-01	0	0	1.500917e+00	1.062424e+00	EFHD1
+GO_Cellular_Component_2021	organelle inner membrane (GO:0019866)	1/346	5.114085e-01	9.994851e-01	0	0	1.421304e+00	9.531077e-01	EFHD1
+GO_Cellular_Component_2021	collagen-containing extracellular matrix (GO:0062023)	1/380	5.449232e-01	9.994851e-01	0	0	1.291557e+00	7.841174e-01	MATN2
+GO_Cellular_Component_2021	mitochondrial membrane (GO:0031966)	1/469	6.223873e-01	9.994851e-01	0	0	1.041186e+00	4.937228e-01	EFHD1
+GO_Cellular_Component_2021	neuron projection (GO:0043005)	1/556	6.856079e-01	9.994851e-01	0	0	8.740541e-01	3.299112e-01	STMN4
+GO_Cellular_Component_2021	nucleolus (GO:0005730)	1/733	7.839909e-01	9.994851e-01	0	0	6.566598e-01	1.598033e-01	RNF213
+GO_Cellular_Component_2021	nuclear lumen (GO:0031981)	1/745	7.894443e-01	9.994851e-01	0	0	6.456653e-01	1.526520e-01	RNF213
+GO_Cellular_Component_2021	intracellular non-membrane-bounded organelle (GO:0043232)	1/1158	9.135254e-01	9.994851e-01	0	0	4.062662e-01	3.674439e-02	RNF213
+GO_Cellular_Component_2021	integral component of plasma membrane (GO:0005887)	1/1454	9.548509e-01	9.994851e-01	0	0	3.184102e-01	1.471058e-02	PTPRD
+GO_Cellular_Component_2021	nucleus (GO:0005634)	3/4484	9.975604e-01	9.994851e-01	0	0	2.726952e-01	6.660747e-04	MECOM;TOX;PRDM10
+GO_Cellular_Component_2021	intracellular membrane-bounded organelle (GO:0043231)	3/5192	9.994851e-01	9.994851e-01	0	0	2.247163e-01	1.157287e-04	MECOM;TOX;PRDM10

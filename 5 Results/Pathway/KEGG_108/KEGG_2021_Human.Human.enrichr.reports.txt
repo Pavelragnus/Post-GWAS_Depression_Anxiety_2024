@@ -1,0 +1,23 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+KEGG_2021_Human	Mannose type O-glycan biosynthesis	1/23	3.284101e-02	3.992605e-01	0	0	3.238474e+01	1.106288e+02	LARGE1
+KEGG_2021_Human	Mitophagy	1/68	9.410962e-02	3.992605e-01	0	0	1.060981e+01	2.507411e+01	PRKN
+KEGG_2021_Human	ECM-receptor interaction	1/88	1.201211e-01	3.992605e-01	0	0	8.162562e+00	1.729855e+01	COL6A5
+KEGG_2021_Human	Progesterone-mediated oocyte maturation	1/100	1.353802e-01	3.992605e-01	0	0	7.168831e+00	1.433528e+01	CDC25A
+KEGG_2021_Human	Protein digestion and absorption	1/103	1.391549e-01	3.992605e-01	0	0	6.956933e+00	1.372024e+01	COL6A5
+KEGG_2021_Human	NF-kappa B signaling pathway	1/104	1.404096e-01	3.992605e-01	0	0	6.889043e+00	1.352451e+01	EDAR
+KEGG_2021_Human	T cell receptor signaling pathway	1/104	1.404096e-01	3.992605e-01	0	0	6.889043e+00	1.352451e+01	ITK
+KEGG_2021_Human	Leukocyte transendothelial migration	1/114	1.528597e-01	3.992605e-01	0	0	6.276233e+00	1.178824e+01	ITK
+KEGG_2021_Human	Cell cycle	1/124	1.651356e-01	3.992605e-01	0	0	5.763066e+00	1.037921e+01	CDC25A
+KEGG_2021_Human	Ubiquitin mediated proteolysis	1/140	1.844207e-01	3.992605e-01	0	0	5.095581e+00	8.614262e+00	PRKN
+KEGG_2021_Human	Cellular senescence	1/156	2.032752e-01	3.992605e-01	0	0	4.565899e+00	7.274364e+00	CDC25A
+KEGG_2021_Human	Protein processing in endoplasmic reticulum	1/171	2.205687e-01	3.992605e-01	0	0	4.159874e+00	6.287841e+00	PRKN
+KEGG_2021_Human	Chemokine signaling pathway	1/192	2.441719e-01	3.992605e-01	0	0	3.698579e+00	5.214563e+00	ITK
+KEGG_2021_Human	Focal adhesion	1/201	2.540749e-01	3.992605e-01	0	0	3.530536e+00	4.837280e+00	COL6A5
+KEGG_2021_Human	Chemical carcinogenesis	1/239	2.945239e-01	4.191154e-01	0	0	2.961134e+00	3.619677e+00	CDC25A
+KEGG_2021_Human	Parkinson disease	1/249	3.048112e-01	4.191154e-01	0	0	2.840294e+00	3.374447e+00	PRKN
+KEGG_2021_Human	Cytokine-cytokine receptor interaction	1/295	3.502966e-01	4.328556e-01	0	0	2.390306e+00	2.507371e+00	EDAR
+KEGG_2021_Human	MicroRNAs in cancer	1/310	3.644974e-01	4.328556e-01	0	0	2.272538e+00	2.293527e+00	CDC25A
+KEGG_2021_Human	Human papillomavirus infection	1/331	3.838760e-01	4.328556e-01	0	0	2.125649e+00	2.035173e+00	COL6A5
+KEGG_2021_Human	PI3K-Akt signaling pathway	1/354	4.044454e-01	4.328556e-01	0	0	1.984824e+00	1.796739e+00	COL6A5
+KEGG_2021_Human	Amyotrophic lateral sclerosis	1/364	4.131803e-01	4.328556e-01	0	0	1.929162e+00	1.705130e+00	PRKN
+KEGG_2021_Human	Pathways of neurodegeneration	1/475	5.021984e-01	5.021984e-01	0	0	1.469033e+00	1.011811e+00	PRKN

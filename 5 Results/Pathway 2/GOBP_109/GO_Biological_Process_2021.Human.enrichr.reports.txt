@@ -1,0 +1,5 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Biological_Process_2021	autophagosome organization (GO:1905037)	1/56	5.592227e-03	1.158332e-02	0	0	3.626000e+02	1.880581e+03	ATG16L1
+GO_Biological_Process_2021	autophagosome assembly (GO:0000045)	1/58	5.791661e-03	1.158332e-02	0	0	3.498421e+02	1.802154e+03	ATG16L1
+GO_Biological_Process_2021	macroautophagy (GO:0016236)	1/120	1.196418e-02	1.595225e-02	0	0	1.670504e+02	7.393380e+02	ATG16L1
+GO_Biological_Process_2021	organelle assembly (GO:0070925)	1/425	4.204926e-02	4.204926e-02	0	0	4.616509e+01	1.462932e+02	ATG16L1

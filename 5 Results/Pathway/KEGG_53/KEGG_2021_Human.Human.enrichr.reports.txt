@@ -1,0 +1,13 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+KEGG_2021_Human	Glycosaminoglycan biosynthesis	1/53	9.359440e-02	3.196320e-01	0	0	1.063622e+01	2.519491e+01	HS6ST3
+KEGG_2021_Human	Renin secretion	1/69	1.201341e-01	3.196320e-01	0	0	8.127042e+00	1.722240e+01	PDE1C
+KEGG_2021_Human	Synaptic vesicle cycle	1/78	1.347287e-01	3.196320e-01	0	0	7.173882e+00	1.437999e+01	CPLX4
+KEGG_2021_Human	Taste transduction	1/86	1.475039e-01	3.196320e-01	0	0	6.496078e+00	1.243285e+01	PDE1C
+KEGG_2021_Human	Morphine addiction	1/91	1.553949e-01	3.196320e-01	0	0	6.133642e+00	1.141953e+01	PDE1C
+KEGG_2021_Human	Ribosome biogenesis in eukaryotes	1/108	1.816965e-01	3.196320e-01	0	0	5.154725e+00	8.790960e+00	SPATA5
+KEGG_2021_Human	Olfactory transduction	2/440	1.954094e-01	3.196320e-01	0	0	2.547293e+00	4.158859e+00	PDE1C;NCALD
+KEGG_2021_Human	Purine metabolism	1/129	2.130880e-01	3.196320e-01	0	0	4.304470e+00	6.654927e+00	PDE1C
+KEGG_2021_Human	Protein processing in endoplasmic reticulum	1/171	2.723950e-01	3.446335e-01	0	0	3.234150e+00	4.206019e+00	LMAN1
+KEGG_2021_Human	Axon guidance	1/182	2.871946e-01	3.446335e-01	0	0	3.035912e+00	3.787589e+00	ROBO2
+KEGG_2021_Human	Calcium signaling pathway	1/240	3.605134e-01	3.932873e-01	0	0	2.292422e+00	2.338789e+00	PDE1C
+KEGG_2021_Human	MAPK signaling pathway	1/294	4.221458e-01	4.221458e-01	0	0	1.864808e+00	1.608219e+00	MAP4K4

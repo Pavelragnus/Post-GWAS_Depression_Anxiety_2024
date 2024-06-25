@@ -1,0 +1,43 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Cellular_Component_2021	Lewy body (GO:0097413)	1/5	1.243878e-02	4.933550e-01	0	0	1.017653e+02	4.464379e+02	PRKN
+GO_Cellular_Component_2021	condensed nuclear chromosome (GO:0000794)	1/20	4.885255e-02	4.933550e-01	0	0	2.140816e+01	6.463015e+01	LRPPRC
+GO_Cellular_Component_2021	aggresome (GO:0016235)	1/35	8.394959e-02	4.933550e-01	0	0	1.195438e+01	2.961745e+01	PRKN
+GO_Cellular_Component_2021	intrinsic component of mitochondrial inner membrane (GO:0031304)	1/39	9.309240e-02	4.933550e-01	0	0	1.069388e+01	2.538901e+01	SFXN1
+GO_Cellular_Component_2021	integral component of mitochondrial inner membrane (GO:0031305)	1/51	1.199876e-01	4.933550e-01	0	0	8.122449e+00	1.722257e+01	SFXN1
+GO_Cellular_Component_2021	condensed chromosome (GO:0000793)	1/54	1.265883e-01	4.933550e-01	0	0	7.661533e+00	1.583497e+01	LRPPRC
+GO_Cellular_Component_2021	integral component of Golgi membrane (GO:0030173)	1/55	1.287778e-01	4.933550e-01	0	0	7.519274e+00	1.541201e+01	LARGE1
+GO_Cellular_Component_2021	SCF ubiquitin ligase complex (GO:0019005)	1/58	1.353139e-01	4.933550e-01	0	0	7.122449e+00	1.424603e+01	PRKN
+GO_Cellular_Component_2021	intrinsic component of Golgi membrane (GO:0031228)	1/60	1.396445e-01	4.933550e-01	0	0	6.880318e+00	1.354497e+01	LARGE1
+GO_Cellular_Component_2021	caveola (GO:0005901)	1/60	1.396445e-01	4.933550e-01	0	0	6.880318e+00	1.354497e+01	MYOF
+GO_Cellular_Component_2021	integral component of mitochondrial membrane (GO:0032592)	1/66	1.525094e-01	4.933550e-01	0	0	6.243328e+00	1.174076e+01	SFXN1
+GO_Cellular_Component_2021	autophagosome (GO:0005776)	1/69	1.588709e-01	4.933550e-01	0	0	5.966987e+00	1.097725e+01	TBC1D5
+GO_Cellular_Component_2021	voltage-gated potassium channel complex (GO:0008076)	1/73	1.672803e-01	4.933550e-01	0	0	5.634354e+00	1.007470e+01	KCND3
+GO_Cellular_Component_2021	potassium channel complex (GO:0034705)	1/80	1.817988e-01	4.933550e-01	0	0	5.133299e+00	8.751530e+00	KCND3
+GO_Cellular_Component_2021	plasma membrane raft (GO:0044853)	1/82	1.859011e-01	4.933550e-01	0	0	5.006047e+00	8.422875e+00	MYOF
+GO_Cellular_Component_2021	nuclear chromosome (GO:0000228)	1/83	1.879448e-01	4.933550e-01	0	0	4.944749e+00	8.265677e+00	LRPPRC
+GO_Cellular_Component_2021	collagen-containing extracellular matrix (GO:0062023)	2/380	2.456332e-01	6.068585e-01	0	0	2.157407e+00	3.028818e+00	COL6A5;THSD4
+GO_Cellular_Component_2021	asymmetric synapse (GO:0032279)	1/133	2.839609e-01	6.475227e-01	0	0	3.064007e+00	3.857336e+00	KCND3
+GO_Cellular_Component_2021	postsynaptic density (GO:0014069)	1/138	2.929270e-01	6.475227e-01	0	0	2.951438e+00	3.623869e+00	KCND3
+GO_Cellular_Component_2021	cullin-RING ubiquitin ligase complex (GO:0031461)	1/157	3.260055e-01	6.846115e-01	0	0	2.589482e+00	2.902398e+00	PRKN
+GO_Cellular_Component_2021	microtubule (GO:0005874)	1/182	3.672282e-01	7.344564e-01	0	0	2.229000e+00	2.232949e+00	LRPPRC
+GO_Cellular_Component_2021	integral component of organelle membrane (GO:0031301)	1/214	4.164034e-01	7.921677e-01	0	0	1.891061e+00	1.656760e+00	LARGE1
+GO_Cellular_Component_2021	polymeric cytoskeletal fiber (GO:0099513)	1/256	4.752984e-01	7.921677e-01	0	0	1.576230e+00	1.172420e+00	LRPPRC
+GO_Cellular_Component_2021	lytic vacuole membrane (GO:0098852)	1/267	4.897347e-01	7.921677e-01	0	0	1.510204e+00	1.078122e+00	ITFG2
+GO_Cellular_Component_2021	endosome membrane (GO:0010008)	1/325	5.596501e-01	7.921677e-01	0	0	1.236206e+00	7.175475e-01	TBC1D5
+GO_Cellular_Component_2021	mitochondrial inner membrane (GO:0005743)	1/328	5.629989e-01	7.921677e-01	0	0	1.224677e+00	7.035494e-01	MAIP1
+GO_Cellular_Component_2021	lysosomal membrane (GO:0005765)	1/330	5.652176e-01	7.921677e-01	0	0	1.217108e+00	6.944143e-01	ITFG2
+GO_Cellular_Component_2021	microtubule cytoskeleton (GO:0015630)	1/331	5.663228e-01	7.921677e-01	0	0	1.213358e+00	6.899045e-01	LRPPRC
+GO_Cellular_Component_2021	bounding membrane of organelle (GO:0098588)	2/767	5.765758e-01	7.921677e-01	0	0	1.044935e+00	5.753916e-01	TBC1D5;LARGE1
+GO_Cellular_Component_2021	organelle inner membrane (GO:0019866)	1/346	5.825740e-01	7.921677e-01	0	0	1.159716e+00	6.265936e-01	MAIP1
+GO_Cellular_Component_2021	mitochondrial matrix (GO:0005759)	1/348	5.846952e-01	7.921677e-01	0	0	1.152914e+00	6.187283e-01	MAIP1
+GO_Cellular_Component_2021	cytoplasmic vesicle membrane (GO:0030659)	1/380	6.172323e-01	8.101175e-01	0	0	1.053847e+00	5.084916e-01	TBC1D5
+GO_Cellular_Component_2021	mitochondrial membrane (GO:0031966)	1/469	6.951504e-01	8.416070e-01	0	0	8.495552e-01	3.089213e-01	MAIP1
+GO_Cellular_Component_2021	Golgi membrane (GO:0000139)	1/472	6.974858e-01	8.416070e-01	0	0	8.440140e-01	3.040756e-01	LARGE1
+GO_Cellular_Component_2021	lysosome (GO:0005764)	1/477	7.013392e-01	8.416070e-01	0	0	8.349340e-01	2.962042e-01	ITFG2
+GO_Cellular_Component_2021	neuron projection (GO:0043005)	1/556	7.562073e-01	8.682888e-01	0	0	7.131826e-01	1.992916e-01	PRKN
+GO_Cellular_Component_2021	cytoskeleton (GO:0005856)	1/600	7.823469e-01	8.682888e-01	0	0	6.592961e-01	1.618288e-01	LRPPRC
+GO_Cellular_Component_2021	intracellular membrane-bounded organelle (GO:0043231)	11/5192	7.855946e-01	8.682888e-01	0	0	8.040176e-01	1.940210e-01	PRKN;ATF7IP;ITK;TBC1D5;CNBP;MCM9;MYOF;GLIS3;SMAD9;CDC25A;LRPPRC
+GO_Cellular_Component_2021	nucleus (GO:0005634)	9/4484	8.200934e-01	8.831775e-01	0	0	7.590952e-01	1.505567e-01	PRKN;ATF7IP;ITK;CNBP;MCM9;GLIS3;SMAD9;CDC25A;LRPPRC
+GO_Cellular_Component_2021	intracellular organelle lumen (GO:0070013)	1/848	8.857037e-01	9.089718e-01	0	0	4.602800e-01	5.586548e-02	MAIP1
+GO_Cellular_Component_2021	integral component of plasma membrane (GO:0005887)	2/1454	8.873296e-01	9.089718e-01	0	0	5.308196e-01	6.345352e-02	PTPRT;KCND3
+GO_Cellular_Component_2021	intracellular non-membrane-bounded organelle (GO:0043232)	1/1158	9.495075e-01	9.495075e-01	0	0	3.314871e-01	1.717497e-02	LRPPRC

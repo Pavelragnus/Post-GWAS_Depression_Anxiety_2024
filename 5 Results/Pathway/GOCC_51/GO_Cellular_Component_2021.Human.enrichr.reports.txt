@@ -1,0 +1,40 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Cellular_Component_2021	vacuolar membrane (GO:0005774)	2/45	3.305242e-03	1.289045e-01	0	0	2.573514e+01	1.470054e+02	VAC14;ATG16L1
+GO_Cellular_Component_2021	phosphatidylinositol 3-kinase complex, class III (GO:0035032)	1/6	1.134729e-02	2.212721e-01	0	0	1.078757e+02	4.831510e+02	VAC14
+GO_Cellular_Component_2021	Cul2-RING ubiquitin ligase complex (GO:0031462)	1/19	3.550479e-02	3.997251e-01	0	0	2.994595e+01	9.996219e+01	ZSWIM6
+GO_Cellular_Component_2021	autophagosome membrane (GO:0000421)	1/22	4.099744e-02	3.997251e-01	0	0	2.566409e+01	8.197742e+01	ATG16L1
+GO_Cellular_Component_2021	late endosome membrane (GO:0031902)	1/68	1.215004e-01	4.559235e-01	0	0	8.025413e+00	1.691627e+01	VAC14
+GO_Cellular_Component_2021	autophagosome (GO:0005776)	1/69	1.231752e-01	4.559235e-01	0	0	7.906995e+00	1.655841e+01	ATG16L1
+GO_Cellular_Component_2021	tertiary granule membrane (GO:0070821)	1/73	1.298436e-01	4.559235e-01	0	0	7.466216e+00	1.524172e+01	PTPRB
+GO_Cellular_Component_2021	voltage-gated potassium channel complex (GO:0008076)	1/73	1.298436e-01	4.559235e-01	0	0	7.466216e+00	1.524172e+01	KCND3
+GO_Cellular_Component_2021	potassium channel complex (GO:0034705)	1/80	1.413945e-01	4.559235e-01	0	0	6.802258e+00	1.330659e+01	KCND3
+GO_Cellular_Component_2021	specific granule membrane (GO:0035579)	1/91	1.592450e-01	4.559235e-01	0	0	5.967568e+00	1.096428e+01	PTPRB
+GO_Cellular_Component_2021	nucleolus (GO:0005730)	3/733	1.617976e-01	4.559235e-01	0	0	2.258160e+00	4.113034e+00	DFFB;LETMD1;ETV6
+GO_Cellular_Component_2021	nuclear lumen (GO:0031981)	3/745	1.673518e-01	4.559235e-01	0	0	2.220254e+00	3.969053e+00	DFFB;LETMD1;ETV6
+GO_Cellular_Component_2021	early endosome membrane (GO:0031901)	1/97	1.688287e-01	4.559235e-01	0	0	5.592905e+00	9.949054e+00	VAC14
+GO_Cellular_Component_2021	intrinsic component of endoplasmic reticulum membrane (GO:0031227)	1/121	2.061112e-01	4.559235e-01	0	0	4.468919e+00	7.057939e+00	EXT1
+GO_Cellular_Component_2021	mitochondrial outer membrane (GO:0005741)	1/126	2.136709e-01	4.559235e-01	0	0	4.289081e+00	6.619417e+00	FAM210B
+GO_Cellular_Component_2021	asymmetric synapse (GO:0032279)	1/133	2.241368e-01	4.559235e-01	0	0	4.060197e+00	6.072020e+00	KCND3
+GO_Cellular_Component_2021	Golgi membrane (GO:0000139)	2/472	2.258287e-01	4.559235e-01	0	0	2.304019e+00	3.428331e+00	EXT1;VAC14
+GO_Cellular_Component_2021	postsynaptic density (GO:0014069)	1/138	2.315292e-01	4.559235e-01	0	0	3.911028e+00	5.722026e+00	KCND3
+GO_Cellular_Component_2021	integral component of endoplasmic reticulum membrane (GO:0030176)	1/142	2.373937e-01	4.559235e-01	0	0	3.799310e+00	5.463541e+00	EXT1
+GO_Cellular_Component_2021	organelle outer membrane (GO:0031968)	1/142	2.373937e-01	4.559235e-01	0	0	3.799310e+00	5.463541e+00	FAM210B
+GO_Cellular_Component_2021	cullin-RING ubiquitin ligase complex (GO:0031461)	1/157	2.590001e-01	4.559235e-01	0	0	3.431393e+00	4.635561e+00	ZSWIM6
+GO_Cellular_Component_2021	specific granule (GO:0042581)	1/160	2.632493e-01	4.559235e-01	0	0	3.366140e+00	4.492631e+00	PTPRB
+GO_Cellular_Component_2021	tertiary granule (GO:0070820)	1/164	2.688780e-01	4.559235e-01	0	0	3.282872e+00	4.312044e+00	PTPRB
+GO_Cellular_Component_2021	late endosome (GO:0005770)	1/189	3.031203e-01	4.925705e-01	0	0	2.842726e+00	3.393150e+00	VAC14
+GO_Cellular_Component_2021	integral component of organelle membrane (GO:0031301)	1/214	3.357992e-01	5.238468e-01	0	0	2.505900e+00	2.734543e+00	EXT1
+GO_Cellular_Component_2021	intracellular non-membrane-bounded organelle (GO:0043232)	3/1158	3.789281e-01	5.602317e-01	0	0	1.395696e+00	1.354395e+00	DFFB;LETMD1;ETV6
+GO_Cellular_Component_2021	early endosome (GO:0005769)	1/266	3.990625e-01	5.602317e-01	0	0	2.008873e+00	1.845425e+00	VAC14
+GO_Cellular_Component_2021	secretory granule membrane (GO:0030667)	1/274	4.082594e-01	5.602317e-01	0	0	1.949213e+00	1.746207e+00	PTPRB
+GO_Cellular_Component_2021	endoplasmic reticulum lumen (GO:0005788)	1/285	4.206815e-01	5.602317e-01	0	0	1.872668e+00	1.621505e+00	COL24A1
+GO_Cellular_Component_2021	bounding membrane of organelle (GO:0098588)	2/767	4.309475e-01	5.602317e-01	0	0	1.394118e+00	1.173525e+00	EXT1;VAC14
+GO_Cellular_Component_2021	endosome membrane (GO:0010008)	1/325	4.637487e-01	5.834258e-01	0	0	1.638138e+00	1.258766e+00	VAC14
+GO_Cellular_Component_2021	collagen-containing extracellular matrix (GO:0062023)	1/380	5.179114e-01	6.120771e-01	0	0	1.396491e+00	9.188231e-01	COL24A1
+GO_Cellular_Component_2021	cytoplasmic vesicle membrane (GO:0030659)	1/380	5.179114e-01	6.120771e-01	0	0	1.396491e+00	9.188231e-01	VAC14
+GO_Cellular_Component_2021	mitochondrial membrane (GO:0031966)	1/469	5.944689e-01	6.818908e-01	0	0	1.125780e+00	5.855033e-01	FAM210B
+GO_Cellular_Component_2021	endoplasmic reticulum membrane (GO:0005789)	1/712	7.481099e-01	8.336081e-01	0	0	7.317824e-01	2.123672e-01	EXT1
+GO_Cellular_Component_2021	integral component of plasma membrane (GO:0005887)	2/1454	7.742551e-01	8.387763e-01	0	0	7.082185e-01	1.812005e-01	PTPRB;KCND3
+GO_Cellular_Component_2021	intracellular organelle lumen (GO:0070013)	1/848	8.075478e-01	8.511990e-01	0	0	6.099429e-01	1.303772e-01	COL24A1
+GO_Cellular_Component_2021	nucleus (GO:0005634)	4/4484	9.823454e-01	9.827631e-01	0	0	4.065651e-01	7.241849e-03	DFFB;CSRNP2;TFCP2;ETV6
+GO_Cellular_Component_2021	intracellular membrane-bounded organelle (GO:0043231)	5/5192	9.827631e-01	9.827631e-01	0	0	4.315860e-01	7.504063e-03	DFFB;VAC14;CSRNP2;TFCP2;ETV6

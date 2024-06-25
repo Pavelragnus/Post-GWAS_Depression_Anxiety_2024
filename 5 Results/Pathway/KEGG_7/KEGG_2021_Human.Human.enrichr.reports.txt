@@ -1,0 +1,21 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+KEGG_2021_Human	Riboflavin metabolism	1/8	1.193915e-02	2.106038e-01	0	0	9.833990e+01	4.354424e+02	ENPP3
+KEGG_2021_Human	Pantothenate and CoA biosynthesis	1/21	3.104706e-02	2.106038e-01	0	0	3.439655e+01	1.194335e+02	ENPP3
+KEGG_2021_Human	Nicotinate and nicotinamide metabolism	1/35	5.122529e-02	2.106038e-01	0	0	2.021907e+01	6.008140e+01	ENPP3
+KEGG_2021_Human	Mucin type O-glycan biosynthesis	1/36	5.265094e-02	2.106038e-01	0	0	1.964039e+01	5.782272e+01	GALNTL6
+KEGG_2021_Human	Starch and sucrose metabolism	1/36	5.265094e-02	2.106038e-01	0	0	1.964039e+01	5.782272e+01	ENPP3
+KEGG_2021_Human	Other types of O-glycan biosynthesis	1/47	6.819709e-02	2.273236e-01	0	0	1.493553e+01	4.010718e+01	GALNTL6
+KEGG_2021_Human	Pyrimidine metabolism	1/56	8.073297e-02	2.306656e-01	0	0	1.248589e+01	3.142210e+01	ENPP3
+KEGG_2021_Human	Adherens junction	1/71	1.012647e-01	2.531617e-01	0	0	9.802956e+00	2.244894e+01	PTPRB
+KEGG_2021_Human	ErbB signaling pathway	1/85	1.200272e-01	2.584036e-01	0	0	8.163383e+00	1.730667e+01	NRG1
+KEGG_2021_Human	Toll-like receptor signaling pathway	1/104	1.448859e-01	2.584036e-01	0	0	6.651155e+00	1.284876e+01	MAP3K8
+KEGG_2021_Human	T cell receptor signaling pathway	1/104	1.448859e-01	2.584036e-01	0	0	6.651155e+00	1.284876e+01	MAP3K8
+KEGG_2021_Human	TNF signaling pathway	1/112	1.551484e-01	2.584036e-01	0	0	6.169307e+00	1.149572e+01	MAP3K8
+KEGG_2021_Human	Purine metabolism	1/129	1.765625e-01	2.584036e-01	0	0	5.345366e+00	9.269296e+00	ENPP3
+KEGG_2021_Human	Autophagy	1/137	1.864572e-01	2.584036e-01	0	0	5.028905e+00	8.446315e+00	ATG16L1
+KEGG_2021_Human	Spinocerebellar ataxia	1/143	1.938027e-01	2.584036e-01	0	0	4.814959e+00	7.900936e+00	KCND3
+KEGG_2021_Human	Hippo signaling pathway	1/163	2.178276e-01	2.722845e-01	0	0	4.216262e+00	6.425800e+00	LIMD1
+KEGG_2021_Human	NOD-like receptor signaling pathway	1/181	2.388572e-01	2.810084e-01	0	0	3.791188e+00	5.428562e+00	ATG16L1
+KEGG_2021_Human	Shigellosis	1/246	3.103413e-01	3.448237e-01	0	0	2.776214e+00	3.248399e+00	ATG16L1
+KEGG_2021_Human	MAPK signaling pathway	1/294	3.589177e-01	3.778081e-01	0	0	2.315759e+00	2.372870e+00	MAP3K8
+KEGG_2021_Human	Amyotrophic lateral sclerosis	1/364	4.238759e-01	4.238759e-01	0	0	1.862544e+00	1.598648e+00	NRG1

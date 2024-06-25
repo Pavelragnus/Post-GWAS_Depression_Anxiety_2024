@@ -1,0 +1,50 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Molecular_Function_2021	transmembrane receptor protein phosphatase activity (GO:0019198)	2/16	4.369987e-04	1.070647e-02	0	0	7.701544e+01	5.957592e+02	PTPRR;PTPRB
+GO_Molecular_Function_2021	transmembrane receptor protein tyrosine phosphatase activity (GO:0005001)	2/16	4.369987e-04	1.070647e-02	0	0	7.701544e+01	5.957592e+02	PTPRR;PTPRB
+GO_Molecular_Function_2021	protein tyrosine phosphatase activity (GO:0004725)	2/74	9.160069e-03	1.189832e-01	0	0	1.493168e+01	7.007291e+01	PTPRB;PTPRR
+GO_Molecular_Function_2021	ErbB-3 class receptor binding (GO:0043125)	1/5	9.712916e-03	1.189832e-01	0	0	1.312961e+02	6.084651e+02	NRG1
+GO_Molecular_Function_2021	transmembrane receptor protein tyrosine kinase activator activity (GO:0030297)	1/7	1.357231e-02	1.330086e-01	0	0	8.752193e+01	3.763201e+02	NRG1
+GO_Molecular_Function_2021	outward rectifier potassium channel activity (GO:0015271)	1/11	2.124719e-02	1.571478e-01	0	0	5.250263e+01	2.022155e+02	KCND3
+GO_Molecular_Function_2021	voltage-gated potassium channel activity involved in ventricular cardiac muscle cell action potential repolarization (GO:1902282)	1/12	2.315680e-02	1.571478e-01	0	0	4.772727e+01	1.797155e+02	KCND3
+GO_Molecular_Function_2021	deoxyribonuclease activity (GO:0004536)	1/14	2.696513e-02	1.571478e-01	0	0	4.038057e+01	1.459035e+02	DFFB
+GO_Molecular_Function_2021	voltage-gated potassium channel activity involved in cardiac muscle cell action potential repolarization (GO:0086008)	1/15	2.886387e-02	1.571478e-01	0	0	3.749436e+01	1.329237e+02	KCND3
+GO_Molecular_Function_2021	neuropeptide receptor binding (GO:0071855)	1/18	3.453846e-02	1.622470e-01	0	0	3.087307e+01	1.039089e+02	APELA
+GO_Molecular_Function_2021	protein tyrosine kinase activator activity (GO:0030296)	1/19	3.642280e-02	1.622470e-01	0	0	2.915643e+01	9.658244e+01	NRG1
+GO_Molecular_Function_2021	disordered domain specific binding (GO:0097718)	1/23	4.392440e-02	1.793579e-01	0	0	2.385048e+01	7.453955e+01	DFFB
+GO_Molecular_Function_2021	chemorepellent activity (GO:0045499)	1/25	4.765382e-02	1.796183e-01	0	0	2.186075e+01	6.653957e+01	NRG1
+GO_Molecular_Function_2021	glucuronosyltransferase activity (GO:0015020)	1/31	5.875726e-02	2.056504e-01	0	0	1.748333e+01	4.955372e+01	EXT1
+GO_Molecular_Function_2021	acetylglucosaminyltransferase activity (GO:0008375)	1/48	8.953645e-02	2.924857e-01	0	0	1.115006e+01	2.690631e+01	EXT1
+GO_Molecular_Function_2021	receptor tyrosine kinase binding (GO:0030971)	1/56	1.036793e-01	3.102125e-01	0	0	9.524402e+00	2.158661e+01	NRG1
+GO_Molecular_Function_2021	nuclease activity (GO:0004518)	1/60	1.106702e-01	3.102125e-01	0	0	8.876896e+00	1.953983e+01	DFFB
+GO_Molecular_Function_2021	protein kinase activator activity (GO:0030295)	1/63	1.158785e-01	3.102125e-01	0	0	8.446095e+00	1.820314e+01	NRG1
+GO_Molecular_Function_2021	receptor ligand activity (GO:0048018)	2/307	1.202865e-01	3.102125e-01	0	0	3.483562e+00	7.377763e+00	APELA;NRG1
+GO_Molecular_Function_2021	protein tyrosine kinase binding (GO:1990782)	1/72	1.313256e-01	3.194973e-01	0	0	7.372128e+00	1.496597e+01	NRG1
+GO_Molecular_Function_2021	hormone activity (GO:0005179)	1/78	1.414773e-01	3.194973e-01	0	0	6.795625e+00	1.328963e+01	APELA
+GO_Molecular_Function_2021	voltage-gated potassium channel activity (GO:0005249)	1/82	1.481808e-01	3.194973e-01	0	0	6.458739e+00	1.233181e+01	KCND3
+GO_Molecular_Function_2021	UDP-glycosyltransferase activity (GO:0008194)	1/84	1.515134e-01	3.194973e-01	0	0	6.302473e+00	1.189328e+01	EXT1
+GO_Molecular_Function_2021	growth factor activity (GO:0008083)	1/87	1.564885e-01	3.194973e-01	0	0	6.081701e+00	1.128018e+01	NRG1
+GO_Molecular_Function_2021	potassium channel activity (GO:0005267)	1/91	1.630777e-01	3.196323e-01	0	0	5.810234e+00	1.053703e+01	KCND3
+GO_Molecular_Function_2021	voltage-gated cation channel activity (GO:0022843)	1/97	1.728676e-01	3.257889e-01	0	0	5.445450e+00	9.558013e+00	KCND3
+GO_Molecular_Function_2021	hexosyltransferase activity (GO:0016758)	1/119	2.078184e-01	3.771519e-01	0	0	4.425290e+00	6.952532e+00	EXT1
+GO_Molecular_Function_2021	cytokine activity (GO:0005125)	1/173	2.876176e-01	5.033309e-01	0	0	3.027693e+00	3.772879e+00	NRG1
+GO_Molecular_Function_2021	protein heterodimerization activity (GO:0046982)	1/188	3.083569e-01	5.210168e-01	0	0	2.782719e+00	3.273862e+00	EXT1
+GO_Molecular_Function_2021	GTPase binding (GO:0051020)	1/201	3.258541e-01	5.322283e-01	0	0	2.600132e+00	2.915542e+00	ATG16L1
+GO_Molecular_Function_2021	protein homodimerization activity (GO:0042803)	2/636	3.533023e-01	5.450981e-01	0	0	1.647796e+00	1.714419e+00	EXT1;MTUS2
+GO_Molecular_Function_2021	microtubule binding (GO:0008017)	1/232	3.658558e-01	5.450981e-01	0	0	2.247665e+00	2.260063e+00	MTUS2
+GO_Molecular_Function_2021	GTPase regulator activity (GO:0030695)	1/233	3.671069e-01	5.450981e-01	0	0	2.237863e+00	2.242568e+00	TBC1D1
+GO_Molecular_Function_2021	ubiquitin protein ligase activity (GO:0061630)	1/263	4.035412e-01	5.764414e-01	0	0	1.978606e+00	1.795538e+00	RNF220
+GO_Molecular_Function_2021	ubiquitin-like protein ligase activity (GO:0061659)	1/270	4.117439e-01	5.764414e-01	0	0	1.926433e+00	1.709428e+00	RNF220
+GO_Molecular_Function_2021	tubulin binding (GO:0015631)	1/307	4.533078e-01	6.079406e-01	0	0	1.690316e+00	1.337351e+00	MTUS2
+GO_Molecular_Function_2021	cadherin binding (GO:0045296)	1/322	4.693302e-01	6.079406e-01	0	0	1.610100e+00	1.217958e+00	PTPRB
+GO_Molecular_Function_2021	DNA-binding transcription activator activity, RNA polymerase II-specific (GO:0001228)	1/333	4.807882e-01	6.079406e-01	0	0	1.555881e+00	1.139416e+00	NFIB
+GO_Molecular_Function_2021	GTPase activator activity (GO:0005096)	1/336	4.838711e-01	6.079406e-01	0	0	1.541712e+00	1.119186e+00	TBC1D1
+GO_Molecular_Function_2021	ubiquitin-protein transferase activity (GO:0004842)	1/392	5.382495e-01	6.593556e-01	0	0	1.317136e+00	8.158773e-01	RNF220
+GO_Molecular_Function_2021	kinase binding (GO:0019900)	1/461	5.976149e-01	7.142227e-01	0	0	1.115618e+00	5.743297e-01	PTPRR
+GO_Molecular_Function_2021	protein kinase binding (GO:0019901)	1/506	6.322519e-01	7.376272e-01	0	0	1.013861e+00	4.648224e-01	PTPRR
+GO_Molecular_Function_2021	RNA polymerase II cis-regulatory region sequence-specific DNA binding (GO:0000978)	2/1149	6.642207e-01	7.397004e-01	0	0	8.866373e-01	3.627595e-01	NFIB;ZNF678
+GO_Molecular_Function_2021	cis-regulatory region sequence-specific DNA binding (GO:0000987)	2/1149	6.642207e-01	7.397004e-01	0	0	8.866373e-01	3.627595e-01	NFIB;ZNF678
+GO_Molecular_Function_2021	double-stranded DNA binding (GO:0003690)	1/651	7.252283e-01	7.728670e-01	0	0	7.818219e-01	2.511750e-01	NFIB
+GO_Molecular_Function_2021	RNA polymerase II transcription regulatory region sequence-specific DNA binding (GO:0000977)	2/1359	7.532193e-01	7.728670e-01	0	0	7.410624e-01	2.100162e-01	NFIB;ZNF678
+GO_Molecular_Function_2021	sequence-specific DNA binding (GO:0043565)	1/707	7.546239e-01	7.728670e-01	0	0	7.177203e-01	2.020640e-01	NFIB
+GO_Molecular_Function_2021	sequence-specific double-stranded DNA binding (GO:1990837)	1/712	7.570942e-01	7.728670e-01	0	0	7.124880e-01	1.982623e-01	NFIB
+GO_Molecular_Function_2021	DNA binding (GO:0003677)	1/811	8.013022e-01	8.013022e-01	0	0	6.221897e-01	1.378257e-01	NFIB

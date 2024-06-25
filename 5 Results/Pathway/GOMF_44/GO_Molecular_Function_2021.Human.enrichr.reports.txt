@@ -1,0 +1,45 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Molecular_Function_2021	7S RNA binding (GO:0008312)	1/5	1.194361e-02	2.225222e-01	0	0	1.061064e+02	4.697922e+02	SRP54
+GO_Molecular_Function_2021	activin receptor binding (GO:0070697)	1/10	2.374757e-02	2.225222e-01	0	0	4.714657e+01	1.763411e+02	MAGI2
+GO_Molecular_Function_2021	deoxyribonuclease activity (GO:0004536)	1/14	3.309123e-02	2.225222e-01	0	0	3.263339e+01	1.112305e+02	DFFB
+GO_Molecular_Function_2021	transmembrane receptor protein phosphatase activity (GO:0019198)	1/16	3.773017e-02	2.225222e-01	0	0	2.827943e+01	9.268005e+01	PTPRR
+GO_Molecular_Function_2021	hydrolase activity, hydrolyzing N-glycosyl compounds (GO:0016799)	1/16	3.773017e-02	2.225222e-01	0	0	2.827943e+01	9.268005e+01	MACROD1
+GO_Molecular_Function_2021	transmembrane receptor protein tyrosine phosphatase activity (GO:0005001)	1/16	3.773017e-02	2.225222e-01	0	0	2.827943e+01	9.268005e+01	PTPRR
+GO_Molecular_Function_2021	adrenergic receptor binding (GO:0031690)	1/17	4.004146e-02	2.225222e-01	0	0	2.651064e+01	8.530699e+01	MAGI2
+GO_Molecular_Function_2021	neuropeptide receptor binding (GO:0071855)	1/18	4.234731e-02	2.225222e-01	0	0	2.494994e+01	7.888797e+01	APELA
+GO_Molecular_Function_2021	disordered domain specific binding (GO:0097718)	1/23	5.379548e-02	2.225222e-01	0	0	1.927466e+01	5.633147e+01	DFFB
+GO_Molecular_Function_2021	calmodulin-dependent protein kinase activity (GO:0004683)	1/24	5.606898e-02	2.225222e-01	0	0	1.843571e+01	5.311645e+01	CAMK1D
+GO_Molecular_Function_2021	metallocarboxypeptidase activity (GO:0004181)	1/29	6.735649e-02	2.225222e-01	0	0	1.513982e+01	4.084353e+01	AGBL4
+GO_Molecular_Function_2021	glucuronosyltransferase activity (GO:0015020)	1/31	7.183440e-02	2.225222e-01	0	0	1.412908e+01	3.720740e+01	EXT1
+GO_Molecular_Function_2021	serotonin receptor activity (GO:0099589)	1/33	7.629125e-02	2.225222e-01	0	0	1.324468e+01	3.408117e+01	HTR1E
+GO_Molecular_Function_2021	G protein-coupled serotonin receptor activity (GO:0004993)	1/33	7.629125e-02	2.225222e-01	0	0	1.324468e+01	3.408117e+01	HTR1E
+GO_Molecular_Function_2021	carboxypeptidase activity (GO:0004180)	1/38	8.734190e-02	2.225222e-01	0	0	1.145198e+01	2.791908e+01	AGBL4
+GO_Molecular_Function_2021	G protein-coupled amine receptor activity (GO:0008227)	1/39	8.953645e-02	2.225222e-01	0	0	1.115006e+01	2.690631e+01	HTR1E
+GO_Molecular_Function_2021	signaling receptor complex adaptor activity (GO:0030159)	1/39	8.953645e-02	2.225222e-01	0	0	1.115006e+01	2.690631e+01	MAGI2
+GO_Molecular_Function_2021	GTPase activity (GO:0003924)	2/216	9.483657e-02	2.225222e-01	0	0	4.010158e+00	9.446330e+00	SRP54;NUGGC
+GO_Molecular_Function_2021	signal sequence binding (GO:0005048)	1/42	9.608913e-02	2.225222e-01	0	0	1.033264e+01	2.420400e+01	SRP54
+GO_Molecular_Function_2021	acetylglucosaminyltransferase activity (GO:0008375)	1/48	1.090563e-01	2.399238e-01	0	0	9.010865e+00	1.996710e+01	EXT1
+GO_Molecular_Function_2021	metalloexopeptidase activity (GO:0008235)	1/55	1.239545e-01	2.597141e-01	0	0	7.840032e+00	1.636874e+01	AGBL4
+GO_Molecular_Function_2021	nuclease activity (GO:0004518)	1/60	1.344464e-01	2.688928e-01	0	0	7.173819e+00	1.439491e+01	DFFB
+GO_Molecular_Function_2021	nucleoside-triphosphatase activity (GO:0017111)	2/278	1.435350e-01	2.730360e-01	0	0	3.099559e+00	6.016791e+00	SRP54;NUGGC
+GO_Molecular_Function_2021	GDP binding (GO:0019003)	1/67	1.489287e-01	2.730360e-01	0	0	6.410703e+00	1.220782e+01	SRP54
+GO_Molecular_Function_2021	protein tyrosine phosphatase activity (GO:0004725)	1/74	1.631736e-01	2.790065e-01	0	0	5.793938e+00	1.050406e+01	PTPRR
+GO_Molecular_Function_2021	tubulin binding (GO:0015631)	2/307	1.678429e-01	2.790065e-01	0	0	2.800713e+00	4.998507e+00	AGBL4;DLGAP5
+GO_Molecular_Function_2021	hormone activity (GO:0005179)	1/78	1.712085e-01	2.790065e-01	0	0	5.491849e+00	9.692416e+00	APELA
+GO_Molecular_Function_2021	UDP-glycosyltransferase activity (GO:0008194)	1/84	1.831194e-01	2.877590e-01	0	0	5.093309e+00	8.646489e+00	EXT1
+GO_Molecular_Function_2021	phosphatase binding (GO:0019902)	1/114	2.402045e-01	3.644482e-01	0	0	3.735455e+00	5.327747e+00	MAGI2
+GO_Molecular_Function_2021	hexosyltransferase activity (GO:0016758)	1/119	2.493311e-01	3.656855e-01	0	0	3.576271e+00	4.967347e+00	EXT1
+GO_Molecular_Function_2021	protein heterodimerization activity (GO:0046982)	1/188	3.648342e-01	5.037629e-01	0	0	2.248834e+00	2.267527e+00	EXT1
+GO_Molecular_Function_2021	GTP binding (GO:0005525)	1/189	3.663730e-01	5.037629e-01	0	0	2.236759e+00	2.245937e+00	SRP54
+GO_Molecular_Function_2021	guanyl ribonucleotide binding (GO:0032561)	1/214	4.036798e-01	5.382397e-01	0	0	1.971731e+00	1.788623e+00	SRP54
+GO_Molecular_Function_2021	microtubule binding (GO:0008017)	1/232	4.292001e-01	5.413082e-01	0	0	1.816432e+00	1.536396e+00	DLGAP5
+GO_Molecular_Function_2021	GTPase regulator activity (GO:0030695)	1/233	4.305861e-01	5.413082e-01	0	0	1.808511e+00	1.523866e+00	TBC1D1
+GO_Molecular_Function_2021	G protein-coupled receptor activity (GO:0004930)	1/283	4.958395e-01	6.060261e-01	0	0	1.484080e+00	1.041087e+00	HTR1E
+GO_Molecular_Function_2021	receptor ligand activity (GO:0048018)	1/307	5.245020e-01	6.237321e-01	0	0	1.366013e+00	8.814964e-01	APELA
+GO_Molecular_Function_2021	GTPase activator activity (GO:0005096)	1/336	5.570127e-01	6.381030e-01	0	0	1.245919e+00	7.290712e-01	TBC1D1
+GO_Molecular_Function_2021	protein serine/threonine kinase activity (GO:0004674)	1/344	5.655913e-01	6.381030e-01	0	0	1.216364e+00	6.931856e-01	CAMK1D
+GO_Molecular_Function_2021	purine ribonucleoside triphosphate binding (GO:0035639)	1/460	6.731393e-01	7.232551e-01	0	0	9.035832e-01	3.576409e-01	SRP54
+GO_Molecular_Function_2021	kinase binding (GO:0019900)	1/461	6.739423e-01	7.232551e-01	0	0	9.015726e-01	3.557703e-01	PTPRR
+GO_Molecular_Function_2021	protein kinase binding (GO:0019901)	1/506	7.081424e-01	7.418635e-01	0	0	8.193385e-01	2.827619e-01	PTPRR
+GO_Molecular_Function_2021	protein homodimerization activity (GO:0042803)	1/636	7.883978e-01	8.067326e-01	0	0	6.472441e-01	1.538839e-01	EXT1
+GO_Molecular_Function_2021	RNA binding (GO:0003723)	1/1406	9.698958e-01	9.698958e-01	0	0	2.808662e-01	8.585148e-03	SRP54

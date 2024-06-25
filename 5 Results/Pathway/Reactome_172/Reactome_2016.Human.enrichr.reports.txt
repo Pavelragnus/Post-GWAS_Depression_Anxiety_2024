@@ -1,0 +1,64 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+Reactome_2016	Assembly of collagen fibrils and other multimeric structures Homo sapiens R-HSA-2022090	3/54	7.219488e-04	2.899706e-02	0	0	1.886528e+01	1.364630e+02	COL4A2;COL24A1;COL4A4
+Reactome_2016	Collagen biosynthesis and modifying enzymes Homo sapiens R-HSA-1650814	3/63	1.132026e-03	2.899706e-02	0	0	1.602823e+01	1.087314e+02	COL4A2;COL24A1;COL4A4
+Reactome_2016	Axon guidance Homo sapiens R-HSA-422475	7/515	1.380812e-03	2.899706e-02	0	0	4.615429e+00	3.039298e+01	ROBO2;COL4A2;COL4A4;NUMB;SEMA3E;NRCAM;SRGAP3
+Reactome_2016	Collagen formation Homo sapiens R-HSA-1474290	3/85	2.676189e-03	4.214997e-02	0	0	1.171499e+01	6.939211e+01	COL24A1;COL4A2;COL4A4
+Reactome_2016	Signaling by Robo receptor Homo sapiens R-HSA-376176	2/32	4.844274e-03	6.103785e-02	0	0	2.106349e+01	1.122675e+02	ROBO2;SRGAP3
+Reactome_2016	NCAM1 interactions Homo sapiens R-HSA-419037	2/37	6.437093e-03	6.758948e-02	0	0	1.804989e+01	9.107392e+01	COL4A2;COL4A4
+Reactome_2016	Developmental Biology Homo sapiens R-HSA-1266738	7/786	1.359608e-02	1.223647e-01	0	0	2.967819e+00	1.275561e+01	ROBO2;COL4A2;COL4A4;NUMB;SEMA3E;NRCAM;SRGAP3
+Reactome_2016	Integrin cell surface interactions Homo sapiens R-HSA-216083	2/67	2.007824e-02	1.419552e-01	0	0	9.704518e+00	3.792641e+01	COL4A2;COL4A4
+Reactome_2016	Neurofascin interactions Homo sapiens R-HSA-447043	1/7	2.253257e-02	1.419552e-01	0	0	5.189844e+01	1.968401e+02	NRCAM
+Reactome_2016	NrCAM interactions Homo sapiens R-HSA-447038	1/7	2.253257e-02	1.419552e-01	0	0	5.189844e+01	1.968401e+02	NRCAM
+Reactome_2016	Inactivation of Cdc42 and Rac Homo sapiens R-HSA-428543	1/9	2.887814e-02	1.653930e-01	0	0	3.891992e+01	1.379583e+02	SRGAP3
+Reactome_2016	Serotonin receptors Homo sapiens R-HSA-390666	1/12	3.832051e-02	1.890192e-01	0	0	2.830114e+01	9.231180e+01	HTR1E
+Reactome_2016	L1CAM interactions Homo sapiens R-HSA-373760	2/96	3.900397e-02	1.890192e-01	0	0	6.700777e+00	2.173794e+01	NUMB;NRCAM
+Reactome_2016	Other semaphorin interactions Homo sapiens R-HSA-416700	1/19	6.000261e-02	2.420142e-01	0	0	1.728906e+01	4.864048e+01	SEMA3E
+Reactome_2016	Scavenging by Class A Receptors Homo sapiens R-HSA-3000480	1/19	6.000261e-02	2.420142e-01	0	0	1.728906e+01	4.864048e+01	COL4A2
+Reactome_2016	Extracellular matrix organization Homo sapiens R-HSA-1474244	3/283	6.454561e-02	2.420142e-01	0	0	3.396601e+00	9.307989e+00	COL24A1;COL4A2;COL4A4
+Reactome_2016	Nephrin interactions Homo sapiens R-HSA-373753	1/22	6.914693e-02	2.420142e-01	0	0	1.481696e+01	3.958384e+01	MAGI2
+Reactome_2016	SALM protein interactions at the synapse Homo sapiens R-HSA-8849932	1/22	6.914693e-02	2.420142e-01	0	0	1.481696e+01	3.958384e+01	PTPRD
+Reactome_2016	Recycling pathway of L1 Homo sapiens R-HSA-437239	1/26	8.120323e-02	2.692528e-01	0	0	1.244375e+01	3.124377e+01	NUMB
+Reactome_2016	Interaction between L1 and Ankyrins Homo sapiens R-HSA-445095	1/29	9.014443e-02	2.793172e-01	0	0	1.110882e+01	2.673161e+01	NRCAM
+Reactome_2016	Activated NOTCH1 Transmits Signal to the Nucleus Homo sapiens R-HSA-2122948	1/30	9.310575e-02	2.793172e-01	0	0	1.072522e+01	2.546187e+01	NUMB
+Reactome_2016	Cargo concentration in the ER Homo sapiens R-HSA-5694530	1/33	1.019329e-01	2.918987e-01	0	0	9.718262e+00	2.219107e+01	LMAN1
+Reactome_2016	Nuclear signaling by ERBB4 Homo sapiens R-HSA-1251985	1/39	1.193341e-01	3.268717e-01	0	0	8.181332e+00	1.739210e+01	WWOX
+Reactome_2016	Intraflagellar transport Homo sapiens R-HSA-5620924	1/41	1.250604e-01	3.282836e-01	0	0	7.771484e+00	1.615659e+01	TCTE3
+Reactome_2016	Amine ligand-binding receptors Homo sapiens R-HSA-375280	1/43	1.307501e-01	3.294902e-01	0	0	7.400670e+00	1.505642e+01	HTR1E
+Reactome_2016	Degradation of GLI1 by the proteasome Homo sapiens R-HSA-5610780	1/59	1.749747e-01	4.239772e-01	0	0	5.354795e+00	9.334017e+00	NUMB
+Reactome_2016	Semaphorin interactions Homo sapiens R-HSA-373755	1/67	1.962487e-01	4.357561e-01	0	0	4.703835e+00	7.659597e+00	SEMA3E
+Reactome_2016	COPII (Coat Protein 2) Mediated Vesicle Transport Homo sapiens R-HSA-204005	1/68	1.988696e-01	4.357561e-01	0	0	4.633396e+00	7.483424e+00	LMAN1
+Reactome_2016	Signaling by NOTCH1 Homo sapiens R-HSA-1980143	1/72	2.092696e-01	4.357561e-01	0	0	4.371479e+00	6.837569e+00	NUMB
+Reactome_2016	NCAM signaling for neurite out-growth Homo sapiens R-HSA-375165	2/266	2.141292e-01	4.357561e-01	0	0	2.365440e+00	3.645558e+00	COL4A2;COL4A4
+Reactome_2016	Binding and Uptake of Ligands by Scavenger Receptors Homo sapiens R-HSA-2173782	1/74	2.144196e-01	4.357561e-01	0	0	4.251284e+00	6.546213e+00	COL4A2
+Reactome_2016	Hedgehog 'on' state Homo sapiens R-HSA-5632684	1/85	2.421599e-01	4.767524e-01	0	0	3.692522e+00	5.236576e+00	NUMB
+Reactome_2016	Hedgehog 'off' state Homo sapiens R-HSA-5610787	1/99	2.760745e-01	5.270513e-01	0	0	3.162787e+00	4.070774e+00	NUMB
+Reactome_2016	SRP-dependent cotranslational protein targeting to membrane Homo sapiens R-HSA-1799339	1/107	2.947786e-01	5.462074e-01	0	0	2.922907e+00	3.570421e+00	SRP54
+Reactome_2016	Rho GTPase cycle Homo sapiens R-HSA-194840	1/122	3.285751e-01	5.622866e-01	0	0	2.558626e+00	2.847725e+00	SRGAP3
+Reactome_2016	Signaling by NOTCH Homo sapiens R-HSA-157118	1/122	3.285751e-01	5.622866e-01	0	0	2.558626e+00	2.847725e+00	NUMB
+Reactome_2016	Signaling by PDGF Homo sapiens R-HSA-186797	2/364	3.319202e-01	5.622866e-01	0	0	1.716478e+00	1.893036e+00	COL4A2;COL4A4
+Reactome_2016	Cell-Cell communication Homo sapiens R-HSA-1500931	1/131	3.480822e-01	5.622866e-01	0	0	2.380409e+00	2.512085e+00	MAGI2
+Reactome_2016	ER to Golgi Anterograde Transport Homo sapiens R-HSA-199977	1/131	3.480822e-01	5.622866e-01	0	0	2.380409e+00	2.512085e+00	LMAN1
+Reactome_2016	Signaling by Hedgehog Homo sapiens R-HSA-5358351	1/136	3.586772e-01	5.649166e-01	0	0	2.291667e+00	2.349720e+00	NUMB
+Reactome_2016	Translation Homo sapiens R-HSA-72766	1/151	3.894554e-01	5.984314e-01	0	0	2.060938e+00	1.943476e+00	SRP54
+Reactome_2016	Transport to the Golgi and subsequent modification Homo sapiens R-HSA-948021	1/162	4.110971e-01	6.166457e-01	0	0	1.919061e+00	1.705902e+00	LMAN1
+Reactome_2016	Assembly of the primary cilium Homo sapiens R-HSA-5617833	1/187	4.575132e-01	6.703101e-01	0	0	1.659022e+00	1.297272e+00	TCTE3
+Reactome_2016	Vesicle-mediated transport Homo sapiens R-HSA-5653656	2/492	4.774616e-01	6.836382e-01	0	0	1.259799e+00	9.313337e-01	LMAN1;COL4A2
+Reactome_2016	G alpha (i) signalling events Homo sapiens R-HSA-418594	1/240	5.443280e-01	7.620592e-01	0	0	1.287657e+00	7.831571e-01	HTR1E
+Reactome_2016	Asparagine N-linked glycosylation Homo sapiens R-HSA-446203	1/259	5.719920e-01	7.686018e-01	0	0	1.191679e+00	6.657077e-01	LMAN1
+Reactome_2016	Antigen processing: Ubiquitination & Proteasome degradation Homo sapiens R-HSA-983168	1/260	5.734013e-01	7.686018e-01	0	0	1.187017e+00	6.601828e-01	ASB3
+Reactome_2016	Neuronal System Homo sapiens R-HSA-112316	1/301	6.274099e-01	8.014169e-01	0	0	1.022656e+00	4.767165e-01	PTPRD
+Reactome_2016	Class I MHC mediated antigen processing & presentation Homo sapiens R-HSA-983169	1/305	6.323036e-01	8.014169e-01	0	0	1.008995e+00	4.625086e-01	ASB3
+Reactome_2016	Class A/1 (Rhodopsin-like receptors) Homo sapiens R-HSA-373076	1/323	6.535537e-01	8.014169e-01	0	0	9.517178e-01	4.047946e-01	HTR1E
+Reactome_2016	Organelle biogenesis and maintenance Homo sapiens R-HSA-1852241	1/326	6.569759e-01	8.014169e-01	0	0	9.427885e-01	3.960730e-01	TCTE3
+Reactome_2016	Signaling by ERBB4 Homo sapiens R-HSA-1236394	1/330	6.614870e-01	8.014169e-01	0	0	9.311360e-01	3.848059e-01	WWOX
+Reactome_2016	Signaling by Rho GTPases Homo sapiens R-HSA-194315	1/367	7.005400e-01	8.327174e-01	0	0	8.354252e-01	2.973310e-01	SRGAP3
+Reactome_2016	Membrane Trafficking Homo sapiens R-HSA-199991	1/420	7.488659e-01	8.736768e-01	0	0	7.277745e-01	2.104690e-01	LMAN1
+Reactome_2016	GPCR ligand binding Homo sapiens R-HSA-500792	1/447	7.704441e-01	8.825087e-01	0	0	6.827705e-01	1.780585e-01	HTR1E
+Reactome_2016	Post-translational protein modification Homo sapiens R-HSA-597592	1/521	8.206608e-01	9.151979e-01	0	0	5.833834e-01	1.153030e-01	LMAN1
+Reactome_2016	Signal Transduction Homo sapiens R-HSA-162582	6/2465	8.280362e-01	9.151979e-01	0	0	7.227411e-01	1.363801e-01	WWOX;HTR1E;COL4A2;COL4A4;NUMB;SRGAP3
+Reactome_2016	Metabolism of proteins Homo sapiens R-HSA-392499	2/1074	8.707263e-01	9.457889e-01	0	0	5.586058e-01	7.732646e-02	LMAN1;SRP54
+Reactome_2016	Adaptive Immune System Homo sapiens R-HSA-1280218	1/762	9.202629e-01	9.826536e-01	0	0	3.936843e-01	3.271355e-02	ASB3
+Reactome_2016	GPCR downstream signaling Homo sapiens R-HSA-388396	1/983	9.624196e-01	9.960658e-01	0	0	3.015689e-01	1.155153e-02	HTR1E
+Reactome_2016	Signaling by GPCR Homo sapiens R-HSA-372790	1/1293	9.871097e-01	9.960658e-01	0	0	2.254620e-01	2.925174e-03	HTR1E
+Reactome_2016	Immune System Homo sapiens R-HSA-168256	1/1547	9.947057e-01	9.960658e-01	0	0	1.858526e-01	9.865674e-04	ASB3
+Reactome_2016	Gene Expression Homo sapiens R-HSA-74160	1/1631	9.960658e-01	9.960658e-01	0	0	1.754697e-01	6.917025e-04	SRP54

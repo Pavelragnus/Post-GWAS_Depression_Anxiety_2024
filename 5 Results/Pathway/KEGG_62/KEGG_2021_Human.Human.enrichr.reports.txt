@@ -1,0 +1,18 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+KEGG_2021_Human	Regulation of lipolysis in adipocytes	1/55	4.837959e-02	2.322591e-01	0	0	2.170806e+01	6.574671e+01	ADORA1
+KEGG_2021_Human	Renin secretion	1/69	6.033664e-02	2.322591e-01	0	0	1.722664e+01	4.836924e+01	ADORA1
+KEGG_2021_Human	ErbB signaling pathway	1/85	7.382807e-02	2.322591e-01	0	0	1.393417e+01	3.631268e+01	NRG1
+KEGG_2021_Human	Morphine addiction	1/91	7.884002e-02	2.322591e-01	0	0	1.300131e+01	3.302767e+01	ADORA1
+KEGG_2021_Human	Sphingolipid signaling pathway	1/119	1.018924e-01	2.322591e-01	0	0	9.902293e+00	2.261524e+01	ADORA1
+KEGG_2021_Human	Purine metabolism	1/129	1.099925e-01	2.322591e-01	0	0	9.124081e+00	2.013998e+01	GDA
+KEGG_2021_Human	Apelin signaling pathway	1/137	1.164228e-01	2.322591e-01	0	0	8.583910e+00	1.845993e+01	HDAC4
+KEGG_2021_Human	cGMP-PKG signaling pathway	1/167	1.401480e-01	2.322591e-01	0	0	7.021970e+00	1.379856e+01	ADORA1
+KEGG_2021_Human	NOD-like receptor signaling pathway	1/181	1.510127e-01	2.322591e-01	0	0	6.471242e+00	1.223318e+01	ERBIN
+KEGG_2021_Human	Alcoholism	1/186	1.548614e-01	2.322591e-01	0	0	6.294754e+00	1.174113e+01	HDAC4
+KEGG_2021_Human	Neutrophil extracellular trap formation	1/189	1.571627e-01	2.322591e-01	0	0	6.193367e+00	1.146066e+01	HDAC4
+KEGG_2021_Human	Viral carcinogenesis	1/203	1.678242e-01	2.322591e-01	0	0	5.760047e+00	1.028075e+01	HDAC4
+KEGG_2021_Human	cAMP signaling pathway	1/216	1.776099e-01	2.322591e-01	0	0	5.408208e+00	9.346279e+00	ADORA1
+KEGG_2021_Human	MicroRNAs in cancer	1/310	2.452017e-01	2.977450e-01	0	0	3.745098e+00	5.264387e+00	HDAC4
+KEGG_2021_Human	Neuroactive ligand-receptor interaction	1/341	2.663173e-01	2.992231e-01	0	0	3.398270e+00	4.496139e+00	ADORA1
+KEGG_2021_Human	Amyotrophic lateral sclerosis	1/364	2.816218e-01	2.992231e-01	0	0	3.179225e+00	4.028684e+00	NRG1
+KEGG_2021_Human	Herpes simplex virus 1 infection	1/498	3.649611e-01	3.649611e-01	0	0	2.306190e+00	2.324558e+00	ZNF248

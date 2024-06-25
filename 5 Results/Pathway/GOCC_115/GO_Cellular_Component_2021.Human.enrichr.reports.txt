@@ -1,0 +1,14 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Cellular_Component_2021	Cul2-RING ubiquitin ligase complex (GO:0031462)	1/19	1.977125e-02	2.570263e-01	0	0	5.544722e+01	2.175486e+02	ZSWIM6
+GO_Cellular_Component_2021	intrinsic component of endoplasmic reticulum membrane (GO:0031227)	1/121	1.197061e-01	4.959519e-01	0	0	8.274583e+00	1.756459e+01	EXT1
+GO_Cellular_Component_2021	integral component of endoplasmic reticulum membrane (GO:0030176)	1/142	1.390394e-01	4.959519e-01	0	0	7.034752e+00	1.387955e+01	EXT1
+GO_Cellular_Component_2021	cullin-RING ubiquitin ligase complex (GO:0031461)	1/157	1.526006e-01	4.959519e-01	0	0	6.353526e+00	1.194419e+01	ZSWIM6
+GO_Cellular_Component_2021	integral component of organelle membrane (GO:0031301)	1/214	2.023010e-01	5.259825e-01	0	0	4.639906e+00	7.414564e+00	EXT1
+GO_Cellular_Component_2021	Golgi membrane (GO:0000139)	1/472	3.945569e-01	7.283636e-01	0	0	2.070913e+00	1.925932e+00	EXT1
+GO_Cellular_Component_2021	endoplasmic reticulum membrane (GO:0005789)	1/712	5.330897e-01	7.283636e-01	0	0	1.354993e+00	8.523794e-01	EXT1
+GO_Cellular_Component_2021	nucleolus (GO:0005730)	1/733	5.436551e-01	7.283636e-01	0	0	1.314686e+00	8.012224e-01	DFFB
+GO_Cellular_Component_2021	nuclear lumen (GO:0031981)	1/745	5.495898e-01	7.283636e-01	0	0	1.292675e+00	7.737732e-01	DFFB
+GO_Cellular_Component_2021	bounding membrane of organelle (GO:0098588)	1/767	5.602797e-01	7.283636e-01	0	0	1.254112e+00	7.265312e-01	EXT1
+GO_Cellular_Component_2021	intracellular non-membrane-bounded organelle (GO:0043232)	1/1158	7.144001e-01	8.442911e-01	0	0	8.133967e-01	2.735551e-01	DFFB
+GO_Cellular_Component_2021	nucleus (GO:0005634)	1/4484	9.951736e-01	9.981897e-01	0	0	1.728307e-01	8.361669e-04	DFFB
+GO_Cellular_Component_2021	intracellular membrane-bounded organelle (GO:0043231)	1/5192	9.981897e-01	9.981897e-01	0	0	1.424388e-01	2.580899e-04	DFFB

@@ -1,0 +1,10 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Cellular_Component_2021	hemidesmosome (GO:0030056)	1/7	1.114794e-02	1.003314e-01	0	0	1.073226e+02	4.825761e+02	ERBIN
+GO_Cellular_Component_2021	basolateral plasma membrane (GO:0016323)	2/151	2.422089e-02	1.089940e-01	0	0	8.867562e+00	3.299212e+01	SLC13A3;ERBIN
+GO_Cellular_Component_2021	basement membrane (GO:0005604)	1/52	7.999185e-02	2.216987e-01	0	0	1.259772e+01	3.181971e+01	ERBIN
+GO_Cellular_Component_2021	glutamatergic synapse (GO:0098978)	1/69	1.047717e-01	2.216987e-01	0	0	9.440228e+00	2.129689e+01	PTPRD
+GO_Cellular_Component_2021	collagen-containing extracellular matrix (GO:0062023)	2/380	1.231659e-01	2.216987e-01	0	0	3.455026e+00	7.235595e+00	ERBIN;MATN2
+GO_Cellular_Component_2021	cell-substrate junction (GO:0030055)	1/394	4.712237e-01	7.068356e-01	0	0	1.606747e+00	1.208952e+00	ERBIN
+GO_Cellular_Component_2021	integral component of plasma membrane (GO:0005887)	2/1454	6.867569e-01	8.829732e-01	0	0	8.501377e-01	3.194604e-01	PTPRD;ADORA1
+GO_Cellular_Component_2021	nucleus (GO:0005634)	3/4484	9.847366e-01	9.951534e-01	0	0	3.575326e-01	5.499228e-03	HDAC4;ANKRD11;ERBIN
+GO_Cellular_Component_2021	intracellular membrane-bounded organelle (GO:0043231)	3/5192	9.951534e-01	9.951534e-01	0	0	2.946352e-01	1.431447e-03	HDAC4;ANKRD11;ERBIN

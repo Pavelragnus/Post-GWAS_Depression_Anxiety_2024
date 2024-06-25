@@ -1,0 +1,22 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+KEGG_2021_Human	TGF-beta signaling pathway	2/94	3.859859e-02	5.127220e-01	0	0	6.739810e+00	2.193498e+01	SMAD9;THSD4
+KEGG_2021_Human	Mannose type O-glycan biosynthesis	1/23	7.324600e-02	5.127220e-01	0	0	1.392448e+01	3.639763e+01	LARGE1
+KEGG_2021_Human	Protein export	1/23	7.324600e-02	5.127220e-01	0	0	1.392448e+01	3.639763e+01	SRP54
+KEGG_2021_Human	Axon guidance	2/182	1.212689e-01	5.975663e-01	0	0	3.429514e+00	7.235400e+00	ROBO2;SRGAP3
+KEGG_2021_Human	Glioma	1/75	2.199281e-01	5.975663e-01	0	0	4.128898e+00	6.253028e+00	CAMK1D
+KEGG_2021_Human	Synaptic vesicle cycle	1/78	2.276547e-01	5.975663e-01	0	0	3.967433e+00	5.871505e+00	CPLX4
+KEGG_2021_Human	Taste transduction	1/86	2.478921e-01	5.975663e-01	0	0	3.592579e+00	5.010792e+00	HTR1E
+KEGG_2021_Human	Aldosterone synthesis and secretion	1/98	2.772729e-01	5.975663e-01	0	0	3.146233e+00	4.035841e+00	CAMK1D
+KEGG_2021_Human	T cell receptor signaling pathway	1/104	2.915364e-01	5.975663e-01	0	0	2.962061e+00	3.651009e+00	ITK
+KEGG_2021_Human	Serotonergic synapse	1/113	3.124133e-01	5.975663e-01	0	0	2.722802e+00	3.167785e+00	HTR1E
+KEGG_2021_Human	Leukocyte transendothelial migration	1/114	3.146953e-01	5.975663e-01	0	0	2.698570e+00	3.119954e+00	ITK
+KEGG_2021_Human	Signaling pathways regulating pluripotency of stem cells	1/143	3.777219e-01	5.975663e-01	0	0	2.144312e+00	2.087696e+00	SMAD9
+KEGG_2021_Human	Spinocerebellar ataxia	1/143	3.777219e-01	5.975663e-01	0	0	2.144312e+00	2.087696e+00	KCND3
+KEGG_2021_Human	Oxytocin signaling pathway	1/154	4.001045e-01	5.975663e-01	0	0	1.989040e+00	1.822019e+00	CAMK1D
+KEGG_2021_Human	Protein processing in endoplasmic reticulum	1/171	4.331452e-01	5.975663e-01	0	0	1.788597e+00	1.496488e+00	LMAN1
+KEGG_2021_Human	Chemokine signaling pathway	1/192	4.714942e-01	5.975663e-01	0	0	1.590254e+00	1.195630e+00	ITK
+KEGG_2021_Human	Rap1 signaling pathway	1/210	5.023226e-01	5.975663e-01	0	0	1.451969e+00	9.996993e-01	MAGI2
+KEGG_2021_Human	cAMP signaling pathway	1/216	5.121997e-01	5.975663e-01	0	0	1.411020e+00	9.440296e-01	HTR1E
+KEGG_2021_Human	Calcium signaling pathway	1/240	5.498139e-01	6.076890e-01	0	0	1.267782e+00	7.583563e-01	CAMK1D
+KEGG_2021_Human	Neuroactive ligand-receptor interaction	1/341	6.791769e-01	6.929044e-01	0	0	8.866063e-01	3.430047e-01	HTR1E
+KEGG_2021_Human	PI3K-Akt signaling pathway	1/354	6.929044e-01	6.929044e-01	0	0	8.533885e-01	3.130769e-01	MAGI2

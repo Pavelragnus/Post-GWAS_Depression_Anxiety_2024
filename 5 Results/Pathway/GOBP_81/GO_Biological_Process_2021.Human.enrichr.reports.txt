@@ -1,0 +1,276 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Biological_Process_2021	transmembrane receptor protein tyrosine phosphatase signaling pathway (GO:0007185)	2/6	2.116527e-04	5.820450e-02	0	0	1.345946e+02	1.138746e+03	PTPRD;TRIO
+GO_Biological_Process_2021	axonogenesis (GO:0007409)	5/240	2.206542e-03	1.964530e-01	0	0	5.900210e+00	3.608762e+01	ROBO2;SLIT3;SEMA3E;NRCAM;GFRA2
+GO_Biological_Process_2021	positive regulation of neurogenesis (GO:0050769)	3/72	2.605331e-03	1.964530e-01	0	0	1.182549e+01	7.036399e+01	ROBO2;PTPRD;NUMB
+GO_Biological_Process_2021	collagen fibril organization (GO:0030199)	3/89	4.737591e-03	1.964530e-01	0	0	9.479771e+00	5.073788e+01	COL24A1;COL4A2;COL4A4
+GO_Biological_Process_2021	ventricular septum morphogenesis (GO:0060412)	2/28	5.052748e-03	1.964530e-01	0	0	2.068399e+01	1.093733e+02	ROBO2;SLIT3
+GO_Biological_Process_2021	negative regulation of chemotaxis (GO:0050922)	2/32	6.565377e-03	1.964530e-01	0	0	1.792252e+01	9.007762e+01	ROBO2;SEMA3E
+GO_Biological_Process_2021	aortic valve morphogenesis (GO:0003180)	2/32	6.565377e-03	1.964530e-01	0	0	1.792252e+01	9.007762e+01	ROBO2;SLIT3
+GO_Biological_Process_2021	negative chemotaxis (GO:0050919)	2/33	6.971853e-03	1.964530e-01	0	0	1.734350e+01	8.612566e+01	SEMA3E;SLIT3
+GO_Biological_Process_2021	axon guidance (GO:0007411)	4/203	7.483271e-03	1.964530e-01	0	0	5.506700e+00	2.695577e+01	ROBO2;SLIT3;SEMA3E;GFRA2
+GO_Biological_Process_2021	aortic valve development (GO:0003176)	2/36	8.257820e-03	1.964530e-01	0	0	1.581081e+01	7.583805e+01	ROBO2;SLIT3
+GO_Biological_Process_2021	ventricular septum development (GO:0003281)	2/38	9.169706e-03	1.964530e-01	0	0	1.493093e+01	7.005369e+01	ROBO2;SLIT3
+GO_Biological_Process_2021	positive regulation of cell projection organization (GO:0031346)	3/117	1.006164e-02	1.964530e-01	0	0	7.141312e+00	3.284307e+01	PTPRD;ROBO2;TOX
+GO_Biological_Process_2021	synapse organization (GO:0050808)	3/126	1.228869e-02	1.964530e-01	0	0	6.615770e+00	2.910328e+01	PTPRD;SEMA3E;NRCAM
+GO_Biological_Process_2021	positive regulation of nervous system development (GO:0051962)	2/45	1.269427e-02	1.964530e-01	0	0	1.249591e+01	5.456472e+01	PTPRD;NUMB
+GO_Biological_Process_2021	regulation of synapse assembly (GO:0051963)	2/47	1.379364e-02	1.964530e-01	0	0	1.193934e+01	5.114273e+01	ROBO2;PTPRD
+GO_Biological_Process_2021	enzyme linked receptor protein signaling pathway (GO:0007167)	3/140	1.627367e-02	1.964530e-01	0	0	5.935506e+00	2.444364e+01	PTPRD;TRIO;GFRA2
+GO_Biological_Process_2021	sprouting angiogenesis (GO:0002040)	2/52	1.671488e-02	1.964530e-01	0	0	1.074270e+01	4.395329e+01	RNF213;SEMA3E
+GO_Biological_Process_2021	positive regulation of anion transmembrane transport (GO:1903961)	1/5	1.885787e-02	1.964530e-01	0	0	6.640000e+01	2.636628e+02	TCAF1
+GO_Biological_Process_2021	negative regulation of synapse organization (GO:1905809)	1/5	1.885787e-02	1.964530e-01	0	0	6.640000e+01	2.636628e+02	ROBO2
+GO_Biological_Process_2021	cerebral cortex neuron differentiation (GO:0021895)	1/5	1.885787e-02	1.964530e-01	0	0	6.640000e+01	2.636628e+02	TOX
+GO_Biological_Process_2021	positive regulation of DNA demethylation (GO:1901537)	1/5	1.885787e-02	1.964530e-01	0	0	6.640000e+01	2.636628e+02	TOX
+GO_Biological_Process_2021	axon choice point recognition (GO:0016198)	1/5	1.885787e-02	1.964530e-01	0	0	6.640000e+01	2.636628e+02	ROBO2
+GO_Biological_Process_2021	regulation of cellular response to osmotic stress (GO:0106049)	1/5	1.885787e-02	1.964530e-01	0	0	6.640000e+01	2.636628e+02	EFHD1
+GO_Biological_Process_2021	Roundabout signaling pathway (GO:0035385)	1/5	1.885787e-02	1.964530e-01	0	0	6.640000e+01	2.636628e+02	SLIT3
+GO_Biological_Process_2021	negative regulation of chemokine-mediated signaling pathway (GO:0070100)	1/6	2.258713e-02	1.964530e-01	0	0	5.311733e+01	2.013346e+02	SLIT3
+GO_Biological_Process_2021	negative regulation of establishment of protein localization to mitochondrion (GO:1903748)	1/6	2.258713e-02	1.964530e-01	0	0	5.311733e+01	2.013346e+02	LMAN1
+GO_Biological_Process_2021	regulation of anion channel activity (GO:0010359)	1/6	2.258713e-02	1.964530e-01	0	0	5.311733e+01	2.013346e+02	TCAF1
+GO_Biological_Process_2021	retinal ganglion cell axon guidance (GO:0031290)	1/6	2.258713e-02	1.964530e-01	0	0	5.311733e+01	2.013346e+02	ROBO2
+GO_Biological_Process_2021	regulation of DNA demethylation (GO:1901535)	1/6	2.258713e-02	1.964530e-01	0	0	5.311733e+01	2.013346e+02	TOX
+GO_Biological_Process_2021	collagen-activated tyrosine kinase receptor signaling pathway (GO:0038063)	1/7	2.630240e-02	1.964530e-01	0	0	4.426222e+01	1.610302e+02	COL4A2
+GO_Biological_Process_2021	modulation by symbiont of host apoptotic process (GO:0052150)	1/7	2.630240e-02	1.964530e-01	0	0	4.426222e+01	1.610302e+02	RNF213
+GO_Biological_Process_2021	Cdc42 protein signal transduction (GO:0032488)	1/7	2.630240e-02	1.964530e-01	0	0	4.426222e+01	1.610302e+02	RHOJ
+GO_Biological_Process_2021	forebrain neuron development (GO:0021884)	1/8	3.000373e-02	1.964530e-01	0	0	3.793714e+01	1.330241e+02	ROBO2
+GO_Biological_Process_2021	neuron fate specification (GO:0048665)	1/8	3.000373e-02	1.964530e-01	0	0	3.793714e+01	1.330241e+02	MYT1L
+GO_Biological_Process_2021	neuron projection extension involved in neuron projection guidance (GO:1902284)	1/8	3.000373e-02	1.964530e-01	0	0	3.793714e+01	1.330241e+02	SLIT3
+GO_Biological_Process_2021	regulation of transcription from RNA polymerase II promoter in response to oxidative stress (GO:0043619)	1/8	3.000373e-02	1.964530e-01	0	0	3.793714e+01	1.330241e+02	CHD6
+GO_Biological_Process_2021	axon extension involved in axon guidance (GO:0048846)	1/8	3.000373e-02	1.964530e-01	0	0	3.793714e+01	1.330241e+02	SLIT3
+GO_Biological_Process_2021	regulation of chemokine-mediated signaling pathway (GO:0070099)	1/8	3.000373e-02	1.964530e-01	0	0	3.793714e+01	1.330241e+02	SLIT3
+GO_Biological_Process_2021	natural killer cell differentiation (GO:0001779)	1/8	3.000373e-02	1.964530e-01	0	0	3.793714e+01	1.330241e+02	TOX
+GO_Biological_Process_2021	negative regulation by symbiont of host apoptotic process (GO:0033668)	1/8	3.000373e-02	1.964530e-01	0	0	3.793714e+01	1.330241e+02	RNF213
+GO_Biological_Process_2021	negative regulation by symbiont of host programmed cell death (GO:0052041)	1/8	3.000373e-02	1.964530e-01	0	0	3.793714e+01	1.330241e+02	RNF213
+GO_Biological_Process_2021	regulation of extent of cell growth (GO:0061387)	1/8	3.000373e-02	1.964530e-01	0	0	3.793714e+01	1.330241e+02	NRCAM
+GO_Biological_Process_2021	neuronal ion channel clustering (GO:0045161)	1/9	3.369118e-02	2.069353e-01	0	0	3.319333e+01	1.125426e+02	NRCAM
+GO_Biological_Process_2021	collagen-activated signaling pathway (GO:0038065)	1/9	3.369118e-02	2.069353e-01	0	0	3.319333e+01	1.125426e+02	COL4A2
+GO_Biological_Process_2021	cellular response to hormone stimulus (GO:0032870)	2/76	3.389234e-02	2.069353e-01	0	0	7.249817e+00	2.453749e+01	ROBO2;SLIT3
+GO_Biological_Process_2021	negative regulation of blood vessel morphogenesis (GO:2000181)	2/78	3.553951e-02	2.069353e-01	0	0	7.058321e+00	2.355440e+01	COL4A2;SEMA3E
+GO_Biological_Process_2021	regulation of glycoprotein biosynthetic process (GO:0010559)	1/10	3.736480e-02	2.069353e-01	0	0	2.950370e+01	9.697945e+01	NECAB1
+GO_Biological_Process_2021	neuron projection fasciculation (GO:0106030)	1/10	3.736480e-02	2.069353e-01	0	0	2.950370e+01	9.697945e+01	NRCAM
+GO_Biological_Process_2021	presynaptic membrane assembly (GO:0097105)	1/10	3.736480e-02	2.069353e-01	0	0	2.950370e+01	9.697945e+01	PTPRD
+GO_Biological_Process_2021	regulation of amyloid precursor protein biosynthetic process (GO:0042984)	1/11	4.102463e-02	2.069353e-01	0	0	2.655200e+01	8.479601e+01	NECAB1
+GO_Biological_Process_2021	hematopoietic stem cell proliferation (GO:0071425)	1/11	4.102463e-02	2.069353e-01	0	0	2.655200e+01	8.479601e+01	MECOM
+GO_Biological_Process_2021	presynaptic membrane organization (GO:0097090)	1/11	4.102463e-02	2.069353e-01	0	0	2.655200e+01	8.479601e+01	PTPRD
+GO_Biological_Process_2021	cell proliferation in forebrain (GO:0021846)	1/11	4.102463e-02	2.069353e-01	0	0	2.655200e+01	8.479601e+01	NUMB
+GO_Biological_Process_2021	generation of neurons (GO:0048699)	3/202	4.170081e-02	2.069353e-01	0	0	4.073449e+00	1.294231e+01	PTPRD;MYT1L;NRCAM
+GO_Biological_Process_2021	regulation of angiogenesis (GO:0045765)	3/203	4.221407e-02	2.069353e-01	0	0	4.052877e+00	1.282736e+01	COL4A2;RHOJ;SEMA3E
+GO_Biological_Process_2021	negative regulation of angiogenesis (GO:0016525)	2/87	4.332176e-02	2.069353e-01	0	0	6.308108e+00	1.980178e+01	COL4A2;SEMA3E
+GO_Biological_Process_2021	axonal fasciculation (GO:0007413)	1/12	4.467073e-02	2.069353e-01	0	0	2.413697e+01	7.502824e+01	NRCAM
+GO_Biological_Process_2021	early endosome to Golgi transport (GO:0034498)	1/12	4.467073e-02	2.069353e-01	0	0	2.413697e+01	7.502824e+01	LMAN1
+GO_Biological_Process_2021	supramolecular fiber organization (GO:0097435)	4/351	4.467713e-02	2.069353e-01	0	0	3.134326e+00	9.742405e+00	COL24A1;COL4A2;COL4A4;STMN4
+GO_Biological_Process_2021	regulation of T cell differentiation in thymus (GO:0033081)	1/13	4.830315e-02	2.069353e-01	0	0	2.212444e+01	6.704278e+01	TOX
+GO_Biological_Process_2021	extracellular structure organization (GO:0043062)	3/216	4.917519e-02	2.069353e-01	0	0	3.803010e+00	1.145606e+01	COL24A1;COL4A2;COL4A4
+GO_Biological_Process_2021	external encapsulating structure organization (GO:0045229)	3/217	4.973265e-02	2.069353e-01	0	0	3.785047e+00	1.135928e+01	COL24A1;COL4A2;COL4A4
+GO_Biological_Process_2021	hemopoiesis (GO:0030097)	2/94	4.977096e-02	2.069353e-01	0	0	5.826087e+00	1.748015e+01	MECOM;TOX
+GO_Biological_Process_2021	synaptic membrane adhesion (GO:0099560)	1/14	5.192195e-02	2.069353e-01	0	0	2.042154e+01	6.040719e+01	PTPRD
+GO_Biological_Process_2021	neuron fate commitment (GO:0048663)	1/14	5.192195e-02	2.069353e-01	0	0	2.042154e+01	6.040719e+01	MYT1L
+GO_Biological_Process_2021	aorta development (GO:0035904)	1/14	5.192195e-02	2.069353e-01	0	0	2.042154e+01	6.040719e+01	ROBO2
+GO_Biological_Process_2021	atrioventricular valve development (GO:0003171)	1/14	5.192195e-02	2.069353e-01	0	0	2.042154e+01	6.040719e+01	SLIT3
+GO_Biological_Process_2021	branching involved in blood vessel morphogenesis (GO:0001569)	1/14	5.192195e-02	2.069353e-01	0	0	2.042154e+01	6.040719e+01	SEMA3E
+GO_Biological_Process_2021	heterochromatin organization (GO:0070828)	1/14	5.192195e-02	2.069353e-01	0	0	2.042154e+01	6.040719e+01	MECOM
+GO_Biological_Process_2021	regulation of non-canonical Wnt signaling pathway (GO:2000050)	1/15	5.552716e-02	2.181424e-01	0	0	1.896190e+01	5.481665e+01	RNF213
+GO_Biological_Process_2021	regulation of neurotransmitter transport (GO:0051588)	1/16	5.911884e-02	2.277750e-01	0	0	1.769689e+01	5.005044e+01	CPLX4
+GO_Biological_Process_2021	pulmonary valve morphogenesis (GO:0003184)	1/17	6.269704e-02	2.277750e-01	0	0	1.659000e+01	4.594503e+01	ROBO2
+GO_Biological_Process_2021	mesonephric tubule development (GO:0072164)	1/17	6.269704e-02	2.277750e-01	0	0	1.659000e+01	4.594503e+01	ROBO2
+GO_Biological_Process_2021	protein O-linked mannosylation (GO:0035269)	1/18	6.626182e-02	2.277750e-01	0	0	1.561333e+01	4.237680e+01	TMTC1
+GO_Biological_Process_2021	pulmonary valve development (GO:0003177)	1/18	6.626182e-02	2.277750e-01	0	0	1.561333e+01	4.237680e+01	ROBO2
+GO_Biological_Process_2021	positive regulation of cell migration involved in sprouting angiogenesis (GO:0090050)	1/18	6.626182e-02	2.277750e-01	0	0	1.561333e+01	4.237680e+01	RHOJ
+GO_Biological_Process_2021	microtubule depolymerization (GO:0007019)	1/18	6.626182e-02	2.277750e-01	0	0	1.561333e+01	4.237680e+01	STMN4
+GO_Biological_Process_2021	presynapse assembly (GO:0099054)	1/18	6.626182e-02	2.277750e-01	0	0	1.561333e+01	4.237680e+01	PTPRD
+GO_Biological_Process_2021	regulation of presynapse assembly (GO:1905606)	1/18	6.626182e-02	2.277750e-01	0	0	1.561333e+01	4.237680e+01	PTPRD
+GO_Biological_Process_2021	regulation of presynapse organization (GO:0099174)	1/18	6.626182e-02	2.277750e-01	0	0	1.561333e+01	4.237680e+01	PTPRD
+GO_Biological_Process_2021	atrioventricular valve morphogenesis (GO:0003181)	1/19	6.981321e-02	2.313088e-01	0	0	1.474519e+01	3.925068e+01	SLIT3
+GO_Biological_Process_2021	ureteric bud development (GO:0001657)	1/19	6.981321e-02	2.313088e-01	0	0	1.474519e+01	3.925068e+01	ROBO2
+GO_Biological_Process_2021	negative regulation of nervous system development (GO:0051961)	1/19	6.981321e-02	2.313088e-01	0	0	1.474519e+01	3.925068e+01	ROBO2
+GO_Biological_Process_2021	negative regulation of axon extension involved in axon guidance (GO:0048843)	1/20	7.335128e-02	2.373130e-01	0	0	1.396842e+01	3.649244e+01	SEMA3E
+GO_Biological_Process_2021	positive regulation of dendrite morphogenesis (GO:0050775)	1/20	7.335128e-02	2.373130e-01	0	0	1.396842e+01	3.649244e+01	PTPRD
+GO_Biological_Process_2021	positive regulation of transcription from RNA polymerase II promoter involved in cellular response to chemical stimulus (GO:1901522)	1/21	7.687606e-02	2.375384e-01	0	0	1.326933e+01	3.404328e+01	CHD6
+GO_Biological_Process_2021	negative regulation of protein localization to cell periphery (GO:1904376)	1/21	7.687606e-02	2.375384e-01	0	0	1.326933e+01	3.404328e+01	NUMB
+GO_Biological_Process_2021	negative regulation of protein localization to plasma membrane (GO:1903077)	1/21	7.687606e-02	2.375384e-01	0	0	1.326933e+01	3.404328e+01	NUMB
+GO_Biological_Process_2021	cellular response to estradiol stimulus (GO:0071392)	1/21	7.687606e-02	2.375384e-01	0	0	1.326933e+01	3.404328e+01	FAM210B
+GO_Biological_Process_2021	cellular response to organic substance (GO:0071310)	2/123	7.969932e-02	2.377053e-01	0	0	4.423275e+00	1.118865e+01	ROBO2;SLIT3
+GO_Biological_Process_2021	protein mannosylation (GO:0035268)	1/22	8.038761e-02	2.377053e-01	0	0	1.263683e+01	3.185611e+01	TMTC1
+GO_Biological_Process_2021	positive regulation of neural precursor cell proliferation (GO:2000179)	1/22	8.038761e-02	2.377053e-01	0	0	1.263683e+01	3.185611e+01	TOX
+GO_Biological_Process_2021	cell projection assembly (GO:0030031)	1/22	8.038761e-02	2.377053e-01	0	0	1.263683e+01	3.185611e+01	RHOJ
+GO_Biological_Process_2021	artery development (GO:0060840)	1/23	8.388598e-02	2.378919e-01	0	0	1.206182e+01	2.989277e+01	ROBO2
+GO_Biological_Process_2021	negative regulation of intracellular protein transport (GO:0090317)	1/23	8.388598e-02	2.378919e-01	0	0	1.206182e+01	2.989277e+01	LMAN1
+GO_Biological_Process_2021	regulation of neural precursor cell proliferation (GO:2000177)	1/23	8.388598e-02	2.378919e-01	0	0	1.206182e+01	2.989277e+01	TOX
+GO_Biological_Process_2021	positive regulation of protein targeting to membrane (GO:0090314)	1/24	8.737121e-02	2.378919e-01	0	0	1.153681e+01	2.812201e+01	TCAF1
+GO_Biological_Process_2021	regulation of axon extension involved in axon guidance (GO:0048841)	1/24	8.737121e-02	2.378919e-01	0	0	1.153681e+01	2.812201e+01	SEMA3E
+GO_Biological_Process_2021	axon extension (GO:0048675)	1/24	8.737121e-02	2.378919e-01	0	0	1.153681e+01	2.812201e+01	SLIT3
+GO_Biological_Process_2021	positive regulation of transcription from RNA polymerase II promoter in response to stress (GO:0036003)	1/24	8.737121e-02	2.378919e-01	0	0	1.153681e+01	2.812201e+01	CHD6
+GO_Biological_Process_2021	protein exit from endoplasmic reticulum (GO:0032527)	1/24	8.737121e-02	2.378919e-01	0	0	1.153681e+01	2.812201e+01	LMAN1
+GO_Biological_Process_2021	nervous system development (GO:0007399)	4/447	9.039398e-02	2.395373e-01	0	0	2.443065e+00	5.872096e+00	ROBO2;MYT1L;NRCAM;GFRA2
+GO_Biological_Process_2021	negative regulation of cell junction assembly (GO:1901889)	1/25	9.084336e-02	2.395373e-01	0	0	1.105556e+01	2.651806e+01	ROBO2
+GO_Biological_Process_2021	outflow tract septum morphogenesis (GO:0003148)	1/25	9.084336e-02	2.395373e-01	0	0	1.105556e+01	2.651806e+01	ROBO2
+GO_Biological_Process_2021	metanephros development (GO:0001656)	1/26	9.430248e-02	2.395373e-01	0	0	1.061280e+01	2.505945e+01	ROBO2
+GO_Biological_Process_2021	positive regulation of ion transmembrane transporter activity (GO:0032414)	1/26	9.430248e-02	2.395373e-01	0	0	1.061280e+01	2.505945e+01	TCAF1
+GO_Biological_Process_2021	negative regulation of protein localization to membrane (GO:1905476)	1/26	9.430248e-02	2.395373e-01	0	0	1.061280e+01	2.505945e+01	NUMB
+GO_Biological_Process_2021	positive regulation of erythrocyte differentiation (GO:0045648)	1/27	9.774860e-02	2.395373e-01	0	0	1.020410e+01	2.372818e+01	FAM210B
+GO_Biological_Process_2021	microtubule polymerization or depolymerization (GO:0031109)	1/27	9.774860e-02	2.395373e-01	0	0	1.020410e+01	2.372818e+01	STMN4
+GO_Biological_Process_2021	response to glucocorticoid (GO:0051384)	1/27	9.774860e-02	2.395373e-01	0	0	1.020410e+01	2.372818e+01	SLIT3
+GO_Biological_Process_2021	neuron projection morphogenesis (GO:0048812)	2/140	9.925834e-02	2.395373e-01	0	0	3.875049e+00	8.951477e+00	TRIO;NRCAM
+GO_Biological_Process_2021	regulation of small GTPase mediated signal transduction (GO:0051056)	2/141	1.004479e-01	2.395373e-01	0	0	3.846976e+00	8.840798e+00	TRIO;RHOJ
+GO_Biological_Process_2021	positive regulation of synapse assembly (GO:0051965)	1/28	1.011818e-01	2.395373e-01	0	0	9.825679e+00	2.250902e+01	PTPRD
+GO_Biological_Process_2021	regulation of microtubule polymerization or depolymerization (GO:0031110)	1/28	1.011818e-01	2.395373e-01	0	0	9.825679e+00	2.250902e+01	STMN4
+GO_Biological_Process_2021	response to ketone (GO:1901654)	1/28	1.011818e-01	2.395373e-01	0	0	9.825679e+00	2.250902e+01	SLIT3
+GO_Biological_Process_2021	protein depolymerization (GO:0051261)	1/28	1.011818e-01	2.395373e-01	0	0	9.825679e+00	2.250902e+01	STMN4
+GO_Biological_Process_2021	neuron development (GO:0048666)	2/143	1.028391e-01	2.395373e-01	0	0	3.792026e+00	8.625302e+00	MYT1L;STMN4
+GO_Biological_Process_2021	regulation of protein targeting to membrane (GO:0090313)	1/29	1.046021e-01	2.395373e-01	0	0	9.474286e+00	2.138907e+01	TCAF1
+GO_Biological_Process_2021	extracellular matrix organization (GO:0030198)	3/300	1.060622e-01	2.395373e-01	0	0	2.715788e+00	6.093495e+00	COL24A1;COL4A2;COL4A4
+GO_Biological_Process_2021	protein N-linked glycosylation via asparagine (GO:0018279)	1/30	1.080095e-01	2.395373e-01	0	0	9.147126e+00	2.035726e+01	LMAN1
+GO_Biological_Process_2021	regulation of striated muscle contraction (GO:0006942)	1/30	1.080095e-01	2.395373e-01	0	0	9.147126e+00	2.035726e+01	ASB3
+GO_Biological_Process_2021	synaptic vesicle cycle (GO:0099504)	1/30	1.080095e-01	2.395373e-01	0	0	9.147126e+00	2.035726e+01	CPLX4
+GO_Biological_Process_2021	response to alcohol (GO:0097305)	1/30	1.080095e-01	2.395373e-01	0	0	9.147126e+00	2.035726e+01	SLIT3
+GO_Biological_Process_2021	cell projection organization (GO:0030030)	1/30	1.080095e-01	2.395373e-01	0	0	9.147126e+00	2.035726e+01	RHOJ
+GO_Biological_Process_2021	negative regulation of axon extension (GO:0030517)	1/31	1.114042e-01	2.406867e-01	0	0	8.841778e+00	1.940408e+01	SEMA3E
+GO_Biological_Process_2021	peptidyl-asparagine modification (GO:0018196)	1/31	1.114042e-01	2.406867e-01	0	0	8.841778e+00	1.940408e+01	LMAN1
+GO_Biological_Process_2021	regulation of developmental growth (GO:0048638)	1/31	1.114042e-01	2.406867e-01	0	0	8.841778e+00	1.940408e+01	NRCAM
+GO_Biological_Process_2021	negative regulation of cell-matrix adhesion (GO:0001953)	1/32	1.147861e-01	2.406867e-01	0	0	8.556129e+00	1.852132e+01	SEMA3E
+GO_Biological_Process_2021	regulation of cell migration involved in sprouting angiogenesis (GO:0090049)	1/32	1.147861e-01	2.406867e-01	0	0	8.556129e+00	1.852132e+01	RHOJ
+GO_Biological_Process_2021	regulation of dendrite morphogenesis (GO:0048814)	1/32	1.147861e-01	2.406867e-01	0	0	8.556129e+00	1.852132e+01	PTPRD
+GO_Biological_Process_2021	endodermal cell differentiation (GO:0035987)	1/32	1.147861e-01	2.406867e-01	0	0	8.556129e+00	1.852132e+01	COL4A2
+GO_Biological_Process_2021	positive regulation of organelle organization (GO:0010638)	1/33	1.181553e-01	2.406867e-01	0	0	8.288333e+00	1.770185e+01	LMAN1
+GO_Biological_Process_2021	regulation of sprouting angiogenesis (GO:1903670)	1/33	1.181553e-01	2.406867e-01	0	0	8.288333e+00	1.770185e+01	RHOJ
+GO_Biological_Process_2021	negative regulation of JNK cascade (GO:0046329)	1/33	1.181553e-01	2.406867e-01	0	0	8.288333e+00	1.770185e+01	MECOM
+GO_Biological_Process_2021	regulation of neurotransmitter secretion (GO:0046928)	1/33	1.181553e-01	2.406867e-01	0	0	8.288333e+00	1.770185e+01	CPLX4
+GO_Biological_Process_2021	central nervous system neuron differentiation (GO:0021953)	1/34	1.215118e-01	2.457040e-01	0	0	8.036768e+00	1.693945e+01	TOX
+GO_Biological_Process_2021	semaphorin-plexin signaling pathway (GO:0071526)	1/35	1.248558e-01	2.460146e-01	0	0	7.800000e+00	1.622865e+01	SEMA3E
+GO_Biological_Process_2021	negative regulation of fat cell differentiation (GO:0045599)	1/36	1.281871e-01	2.460146e-01	0	0	7.576762e+00	1.556467e+01	TRIO
+GO_Biological_Process_2021	membrane assembly (GO:0071709)	1/36	1.281871e-01	2.460146e-01	0	0	7.576762e+00	1.556467e+01	PTPRD
+GO_Biological_Process_2021	regulation of cardiac muscle contraction (GO:0055117)	1/36	1.281871e-01	2.460146e-01	0	0	7.576762e+00	1.556467e+01	ASB3
+GO_Biological_Process_2021	endoderm formation (GO:0001706)	1/36	1.281871e-01	2.460146e-01	0	0	7.576762e+00	1.556467e+01	COL4A2
+GO_Biological_Process_2021	positive regulation of myeloid cell differentiation (GO:0045639)	1/37	1.315060e-01	2.460146e-01	0	0	7.365926e+00	1.494328e+01	FAM210B
+GO_Biological_Process_2021	negative regulation of stress-activated MAPK cascade (GO:0032873)	1/37	1.315060e-01	2.460146e-01	0	0	7.365926e+00	1.494328e+01	MECOM
+GO_Biological_Process_2021	neural crest cell migration (GO:0001755)	1/37	1.315060e-01	2.460146e-01	0	0	7.365926e+00	1.494328e+01	SEMA3E
+GO_Biological_Process_2021	regulation of actin cytoskeleton reorganization (GO:2000249)	1/37	1.315060e-01	2.460146e-01	0	0	7.365926e+00	1.494328e+01	SEMA3E
+GO_Biological_Process_2021	regulation of microtubule cytoskeleton organization (GO:0070507)	1/37	1.315060e-01	2.460146e-01	0	0	7.365926e+00	1.494328e+01	STMN4
+GO_Biological_Process_2021	regulation of erythrocyte differentiation (GO:0045646)	1/37	1.315060e-01	2.460146e-01	0	0	7.365926e+00	1.494328e+01	FAM210B
+GO_Biological_Process_2021	positive regulation of cell development (GO:0010720)	1/38	1.348124e-01	2.466185e-01	0	0	7.166486e+00	1.436072e+01	NUMB
+GO_Biological_Process_2021	regulation of axon extension (GO:0030516)	1/38	1.348124e-01	2.466185e-01	0	0	7.166486e+00	1.436072e+01	NRCAM
+GO_Biological_Process_2021	response to estradiol (GO:0032355)	1/38	1.348124e-01	2.466185e-01	0	0	7.166486e+00	1.436072e+01	FAM210B
+GO_Biological_Process_2021	cell-cell adhesion via plasma-membrane adhesion molecules (GO:0098742)	2/170	1.365175e-01	2.466185e-01	0	0	3.178250e+00	6.328855e+00	PTPRD;ROBO2
+GO_Biological_Process_2021	neuron projection development (GO:0031175)	2/171	1.378089e-01	2.466185e-01	0	0	3.159284e+00	6.261345e+00	TRIO;STMN4
+GO_Biological_Process_2021	regulation of protein targeting to mitochondrion (GO:1903214)	1/39	1.381063e-01	2.466185e-01	0	0	6.977544e+00	1.381366e+01	LMAN1
+GO_Biological_Process_2021	regulation of ion transmembrane transporter activity (GO:0032412)	1/39	1.381063e-01	2.466185e-01	0	0	6.977544e+00	1.381366e+01	TCAF1
+GO_Biological_Process_2021	negative regulation of cell-substrate adhesion (GO:0010812)	1/40	1.413879e-01	2.481992e-01	0	0	6.798291e+00	1.329914e+01	SEMA3E
+GO_Biological_Process_2021	synaptic vesicle exocytosis (GO:0016079)	1/40	1.413879e-01	2.481992e-01	0	0	6.798291e+00	1.329914e+01	CPLX4
+GO_Biological_Process_2021	neuron differentiation (GO:0030182)	2/174	1.416992e-01	2.481992e-01	0	0	3.103708e+00	6.064797e+00	PTPRD;MYT1L
+GO_Biological_Process_2021	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules (GO:0007157)	1/42	1.479142e-01	2.565969e-01	0	0	6.466016e+00	1.235735e+01	PTPRD
+GO_Biological_Process_2021	signal release from synapse (GO:0099643)	1/43	1.511589e-01	2.565969e-01	0	0	6.311746e+00	1.192556e+01	CPLX4
+GO_Biological_Process_2021	positive regulation of neuron differentiation (GO:0045666)	1/43	1.511589e-01	2.565969e-01	0	0	6.311746e+00	1.192556e+01	NRCAM
+GO_Biological_Process_2021	positive regulation of axonogenesis (GO:0050772)	1/43	1.511589e-01	2.565969e-01	0	0	6.311746e+00	1.192556e+01	ROBO2
+GO_Biological_Process_2021	natural killer cell activation (GO:0030101)	1/43	1.511589e-01	2.565969e-01	0	0	6.311746e+00	1.192556e+01	TOX
+GO_Biological_Process_2021	neurotransmitter secretion (GO:0007269)	1/44	1.543914e-01	2.573191e-01	0	0	6.164651e+00	1.151720e+01	CPLX4
+GO_Biological_Process_2021	branching morphogenesis of an epithelial tube (GO:0048754)	1/44	1.543914e-01	2.573191e-01	0	0	6.164651e+00	1.151720e+01	SEMA3E
+GO_Biological_Process_2021	homotypic cell-cell adhesion (GO:0034109)	1/44	1.543914e-01	2.573191e-01	0	0	6.164651e+00	1.151720e+01	MEGF11
+GO_Biological_Process_2021	positive regulation of Notch signaling pathway (GO:0045747)	1/45	1.576118e-01	2.595404e-01	0	0	6.024242e+00	1.113051e+01	ROBO2
+GO_Biological_Process_2021	neural crest cell development (GO:0014032)	1/45	1.576118e-01	2.595404e-01	0	0	6.024242e+00	1.113051e+01	SEMA3E
+GO_Biological_Process_2021	positive regulation of blood vessel endothelial cell migration (GO:0043536)	1/48	1.672006e-01	2.736914e-01	0	0	5.638865e+00	1.008546e+01	RHOJ
+GO_Biological_Process_2021	positive regulation of cell morphogenesis involved in differentiation (GO:0010770)	1/50	1.735331e-01	2.807154e-01	0	0	5.408163e+00	9.471785e+00	PTPRD
+GO_Biological_Process_2021	neuron migration (GO:0001764)	1/50	1.735331e-01	2.807154e-01	0	0	5.408163e+00	9.471785e+00	NRCAM
+GO_Biological_Process_2021	regulation of axonogenesis (GO:0050770)	1/51	1.766816e-01	2.824851e-01	0	0	5.299733e+00	9.186590e+00	ROBO2
+GO_Biological_Process_2021	regulation of epithelial cell migration (GO:0010632)	1/51	1.766816e-01	2.824851e-01	0	0	5.299733e+00	9.186590e+00	RHOJ
+GO_Biological_Process_2021	ameboidal-type cell migration (GO:0001667)	1/52	1.798182e-01	2.841954e-01	0	0	5.195556e+00	8.914581e+00	SEMA3E
+GO_Biological_Process_2021	plasma membrane bounded cell projection morphogenesis (GO:0120039)	1/52	1.798182e-01	2.841954e-01	0	0	5.195556e+00	8.914581e+00	TRIO
+GO_Biological_Process_2021	negative regulation of cytokine-mediated signaling pathway (GO:0001960)	1/55	1.891574e-01	2.972474e-01	0	0	4.906173e+00	8.169640e+00	SLIT3
+GO_Biological_Process_2021	Rho protein signal transduction (GO:0007266)	1/56	1.922471e-01	3.003861e-01	0	0	4.816727e+00	7.942657e+00	RHOJ
+GO_Biological_Process_2021	positive regulation of cell junction assembly (GO:1901890)	1/57	1.953252e-01	3.034713e-01	0	0	4.730476e+00	7.725291e+00	PTPRD
+GO_Biological_Process_2021	regulation of secretion by cell (GO:1903530)	1/59	2.014466e-01	3.110680e-01	0	0	4.566897e+00	7.317222e+00	CPLX4
+GO_Biological_Process_2021	regulation of cell migration (GO:0030334)	3/408	2.024770e-01	3.110680e-01	0	0	1.980619e+00	3.163304e+00	TCAF1;NUMB;SEMA3E
+GO_Biological_Process_2021	homophilic cell adhesion via plasma membrane adhesion molecules (GO:0007156)	1/60	2.044901e-01	3.116647e-01	0	0	4.489266e+00	7.125522e+00	ROBO2
+GO_Biological_Process_2021	positive regulation of cell motility (GO:2000147)	2/221	2.051321e-01	3.116647e-01	0	0	2.431815e+00	3.852242e+00	NUMB;SEMA3E
+GO_Biological_Process_2021	regulation of neurogenesis (GO:0050767)	1/62	2.105428e-01	3.157355e-01	0	0	4.341639e+00	6.764563e+00	NUMB
+GO_Biological_Process_2021	positive regulation of DNA metabolic process (GO:0051054)	1/63	2.135520e-01	3.157355e-01	0	0	4.271398e+00	6.594503e+00	TOX
+GO_Biological_Process_2021	COPII vesicle coating (GO:0048208)	1/63	2.135520e-01	3.157355e-01	0	0	4.271398e+00	6.594503e+00	LMAN1
+GO_Biological_Process_2021	vesicle coating (GO:0006901)	1/63	2.135520e-01	3.157355e-01	0	0	4.271398e+00	6.594503e+00	LMAN1
+GO_Biological_Process_2021	vesicle targeting, rough ER to cis-Golgi (GO:0048207)	1/63	2.135520e-01	3.157355e-01	0	0	4.271398e+00	6.594503e+00	LMAN1
+GO_Biological_Process_2021	regulation of cell-matrix adhesion (GO:0001952)	1/65	2.195366e-01	3.211307e-01	0	0	4.137500e+00	6.273427e+00	SEMA3E
+GO_Biological_Process_2021	protein autoubiquitination (GO:0051865)	1/65	2.195366e-01	3.211307e-01	0	0	4.137500e+00	6.273427e+00	RNF213
+GO_Biological_Process_2021	protein N-linked glycosylation (GO:0006487)	1/67	2.254763e-01	3.280740e-01	0	0	4.011717e+00	5.975614e+00	LMAN1
+GO_Biological_Process_2021	synapse assembly (GO:0007416)	1/69	2.313713e-01	3.348796e-01	0	0	3.893333e+00	5.698794e+00	NRCAM
+GO_Biological_Process_2021	kidney development (GO:0001822)	1/70	2.343022e-01	3.355891e-01	0	0	3.836715e+00	5.567623e+00	ROBO2
+GO_Biological_Process_2021	COPII-coated vesicle budding (GO:0090114)	1/70	2.343022e-01	3.355891e-01	0	0	3.836715e+00	5.567623e+00	LMAN1
+GO_Biological_Process_2021	cell junction organization (GO:0034330)	1/72	2.401310e-01	3.421556e-01	0	0	3.728263e+00	5.318631e+00	SEMA3E
+GO_Biological_Process_2021	endoplasmic reticulum organization (GO:0007029)	1/73	2.430289e-01	3.444998e-01	0	0	3.676296e+00	5.200396e+00	LMAN1
+GO_Biological_Process_2021	cell morphogenesis involved in neuron differentiation (GO:0048667)	1/76	2.516574e-01	3.549015e-01	0	0	3.528711e+00	4.868515e+00	NRCAM
+GO_Biological_Process_2021	axon development (GO:0061564)	1/79	2.601889e-01	3.616405e-01	0	0	3.392479e+00	4.567455e+00	NRCAM
+GO_Biological_Process_2021	regulation of neuron differentiation (GO:0045664)	1/79	2.601889e-01	3.616405e-01	0	0	3.392479e+00	4.567455e+00	NRCAM
+GO_Biological_Process_2021	regulation of fat cell differentiation (GO:0045598)	1/80	2.630113e-01	3.616405e-01	0	0	3.349367e+00	4.473275e+00	TRIO
+GO_Biological_Process_2021	regulation of organelle organization (GO:0033043)	1/80	2.630113e-01	3.616405e-01	0	0	3.349367e+00	4.473275e+00	LMAN1
+GO_Biological_Process_2021	regulation of protein localization to plasma membrane (GO:1903076)	1/80	2.630113e-01	3.616405e-01	0	0	3.349367e+00	4.473275e+00	NUMB
+GO_Biological_Process_2021	central nervous system development (GO:0007417)	2/268	2.710525e-01	3.708429e-01	0	0	1.997358e+00	2.607437e+00	ROBO2;NRCAM
+GO_Biological_Process_2021	positive regulation of cell migration (GO:0030335)	2/269	2.724624e-01	3.709266e-01	0	0	1.989776e+00	2.587216e+00	NUMB;SEMA3E
+GO_Biological_Process_2021	lymphocyte differentiation (GO:0030098)	1/84	2.741951e-01	3.714466e-01	0	0	3.187309e+00	4.124108e+00	TOX
+GO_Biological_Process_2021	positive regulation of neuron projection development (GO:0010976)	1/88	2.852114e-01	3.826007e-01	0	0	3.040153e+00	3.813947e+00	TOX
+GO_Biological_Process_2021	retrograde transport, endosome to Golgi (GO:0042147)	1/88	2.852114e-01	3.826007e-01	0	0	3.040153e+00	3.813947e+00	LMAN1
+GO_Biological_Process_2021	regulation of endothelial cell migration (GO:0010594)	1/89	2.879396e-01	3.843854e-01	0	0	3.005455e+00	3.741804e+00	RHOJ
+GO_Biological_Process_2021	protein complex oligomerization (GO:0051259)	1/90	2.906576e-01	3.861393e-01	0	0	2.971536e+00	3.671658e+00	RNF213
+GO_Biological_Process_2021	regulation of actin cytoskeleton organization (GO:0032956)	1/91	2.933652e-01	3.878627e-01	0	0	2.938370e+00	3.603432e+00	SEMA3E
+GO_Biological_Process_2021	regulation of heart contraction (GO:0008016)	1/93	2.987500e-01	3.930922e-01	0	0	2.874203e+00	3.472463e+00	ASB3
+GO_Biological_Process_2021	negative regulation of cell death (GO:0060548)	1/94	3.014272e-01	3.947261e-01	0	0	2.843154e+00	3.409586e+00	MECOM
+GO_Biological_Process_2021	positive regulation of protein localization to membrane (GO:1905477)	1/101	3.198873e-01	4.163536e-01	0	0	2.643200e+00	3.012684e+00	TCAF1
+GO_Biological_Process_2021	protein O-linked glycosylation (GO:0006493)	1/102	3.224848e-01	4.163536e-01	0	0	2.616898e+00	2.961541e+00	TMTC1
+GO_Biological_Process_2021	cell junction assembly (GO:0034329)	1/102	3.224848e-01	4.163536e-01	0	0	2.616898e+00	2.961541e+00	NRCAM
+GO_Biological_Process_2021	regulation of JNK cascade (GO:0046328)	1/105	3.302188e-01	4.243466e-01	0	0	2.541026e+00	2.815456e+00	MECOM
+GO_Biological_Process_2021	modulation of chemical synaptic transmission (GO:0050804)	1/109	3.403955e-01	4.353896e-01	0	0	2.446420e+00	2.636377e+00	CPLX4
+GO_Biological_Process_2021	negative regulation of cell motility (GO:2000146)	1/114	3.529019e-01	4.472260e-01	0	0	2.337581e+00	2.434743e+00	TCAF1
+GO_Biological_Process_2021	positive regulation of cellular component organization (GO:0051130)	1/114	3.529019e-01	4.472260e-01	0	0	2.337581e+00	2.434743e+00	LMAN1
+GO_Biological_Process_2021	protein homooligomerization (GO:0051260)	1/121	3.700187e-01	4.667667e-01	0	0	2.200444e+00	2.187686e+00	RNF213
+GO_Biological_Process_2021	negative regulation of cell growth (GO:0030308)	1/126	3.819707e-01	4.774633e-01	0	0	2.111893e+00	2.032510e+00	SLIT3
+GO_Biological_Process_2021	negative regulation of growth (GO:0045926)	1/126	3.819707e-01	4.774633e-01	0	0	2.111893e+00	2.032510e+00	SLIT3
+GO_Biological_Process_2021	plasma membrane bounded cell projection organization (GO:0120036)	1/128	3.866885e-01	4.811735e-01	0	0	2.078425e+00	1.974786e+00	STMN4
+GO_Biological_Process_2021	Golgi organization (GO:0007030)	1/130	3.913709e-01	4.848063e-01	0	0	2.045995e+00	1.919347e+00	LMAN1
+GO_Biological_Process_2021	protein localization to plasma membrane (GO:0072659)	1/136	4.052072e-01	4.996950e-01	0	0	1.954469e+00	1.765583e+00	ASB3
+GO_Biological_Process_2021	protein dephosphorylation (GO:0006470)	1/139	4.120085e-01	5.058140e-01	0	0	1.911691e+00	1.695118e+00	PTPRD
+GO_Biological_Process_2021	chromatin organization (GO:0006325)	1/142	4.187331e-01	5.117849e-01	0	0	1.870733e+00	1.628513e+00	MECOM
+GO_Biological_Process_2021	negative regulation of cell migration (GO:0030336)	1/144	4.231739e-01	5.149240e-01	0	0	1.844382e+00	1.586117e+00	TCAF1
+GO_Biological_Process_2021	positive regulation of intracellular protein transport (GO:0090316)	1/148	4.319553e-01	5.232939e-01	0	0	1.793832e+00	1.505802e+00	TCAF1
+GO_Biological_Process_2021	cellular response to organic cyclic compound (GO:0071407)	1/150	4.362964e-01	5.239367e-01	0	0	1.769575e+00	1.467745e+00	FAM210B
+GO_Biological_Process_2021	brain development (GO:0007420)	1/150	4.362964e-01	5.239367e-01	0	0	1.769575e+00	1.467745e+00	ROBO2
+GO_Biological_Process_2021	dephosphorylation (GO:0016311)	1/153	4.427467e-01	5.293711e-01	0	0	1.734386e+00	1.413104e+00	PTPRD
+GO_Biological_Process_2021	transmembrane receptor protein tyrosine kinase signaling pathway (GO:0007169)	2/404	4.560180e-01	5.428786e-01	0	0	1.312492e+00	1.030599e+00	COL4A2;GFRA2
+GO_Biological_Process_2021	regulation of neuron projection development (GO:0010975)	1/165	4.678276e-01	5.545371e-01	0	0	1.606504e+00	1.220389e+00	TOX
+GO_Biological_Process_2021	regulation of intracellular signal transduction (GO:1902531)	2/437	4.971099e-01	5.848064e-01	0	0	1.210873e+00	8.463326e-01	TRIO;RHOJ
+GO_Biological_Process_2021	regulated exocytosis (GO:0045055)	1/180	4.976171e-01	5.848064e-01	0	0	1.470764e+00	1.026482e+00	CPLX4
+GO_Biological_Process_2021	endoplasmic reticulum to Golgi vesicle-mediated transport (GO:0006888)	1/185	5.071764e-01	5.935043e-01	0	0	1.430435e+00	9.711171e-01	LMAN1
+GO_Biological_Process_2021	negative regulation of cell differentiation (GO:0045596)	1/191	5.184109e-01	6.015316e-01	0	0	1.384842e+00	9.098235e-01	TRIO
+GO_Biological_Process_2021	negative regulation of Wnt signaling pathway (GO:0030178)	1/191	5.184109e-01	6.015316e-01	0	0	1.384842e+00	9.098235e-01	RNF213
+GO_Biological_Process_2021	regulation of programmed cell death (GO:0043067)	1/194	5.239329e-01	6.053847e-01	0	0	1.363109e+00	8.811021e-01	MECOM
+GO_Biological_Process_2021	endomembrane system organization (GO:0010256)	1/199	5.329979e-01	6.122755e-01	0	0	1.328350e+00	8.358482e-01	LMAN1
+GO_Biological_Process_2021	regulation of macromolecule metabolic process (GO:0060255)	1/200	5.347903e-01	6.122755e-01	0	0	1.321608e+00	8.271688e-01	PRDM10
+GO_Biological_Process_2021	modification-dependent protein catabolic process (GO:0019941)	1/201	5.365760e-01	6.122755e-01	0	0	1.314933e+00	8.186080e-01	RNF213
+GO_Biological_Process_2021	phosphate-containing compound metabolic process (GO:0006796)	1/212	5.557772e-01	6.315650e-01	0	0	1.245687e+00	7.317015e-01	PTPRD
+GO_Biological_Process_2021	regulation of cell growth (GO:0001558)	1/217	5.642434e-01	6.385470e-01	0	0	1.216543e+00	6.961907e-01	SLIT3
+GO_Biological_Process_2021	cellular response to lipid (GO:0071396)	1/219	5.675851e-01	6.396963e-01	0	0	1.205260e+00	6.826165e-01	FAM210B
+GO_Biological_Process_2021	positive regulation of cell differentiation (GO:0045597)	1/258	6.279188e-01	7.048069e-01	0	0	1.020337e+00	4.748082e-01	NRCAM
+GO_Biological_Process_2021	cellular component assembly (GO:0022607)	1/261	6.321997e-01	7.067273e-01	0	0	1.008410e+00	4.624065e-01	RHOJ
+GO_Biological_Process_2021	protein-containing complex assembly (GO:0065003)	1/267	6.406161e-01	7.132365e-01	0	0	9.853634e-01	4.388069e-01	LMAN1
+GO_Biological_Process_2021	positive regulation of programmed cell death (GO:0043068)	1/286	6.660338e-01	7.385455e-01	0	0	9.187836e-01	3.734073e-01	TRIO
+GO_Biological_Process_2021	regulation of cell cycle (GO:0051726)	1/296	6.786903e-01	7.495576e-01	0	0	8.871864e-01	3.438649e-01	MECOM
+GO_Biological_Process_2021	MAPK cascade (GO:0000165)	1/303	6.872671e-01	7.559938e-01	0	0	8.663135e-01	3.248955e-01	GFRA2
+GO_Biological_Process_2021	positive regulation of apoptotic process (GO:0043065)	1/310	6.956178e-01	7.621311e-01	0	0	8.463862e-01	3.072000e-01	TRIO
+GO_Biological_Process_2021	protein polyubiquitination (GO:0000209)	1/314	7.002905e-01	7.642058e-01	0	0	8.353994e-01	2.976195e-01	RNF213
+GO_Biological_Process_2021	cellular response to oxygen-containing compound (GO:1901701)	1/323	7.105466e-01	7.723333e-01	0	0	8.116770e-01	2.773668e-01	FAM210B
+GO_Biological_Process_2021	intracellular protein transport (GO:0006886)	1/336	7.247524e-01	7.846729e-01	0	0	7.796617e-01	2.509927e-01	LMAN1
+GO_Biological_Process_2021	post-translational protein modification (GO:0043687)	1/345	7.341819e-01	7.917648e-01	0	0	7.589147e-01	2.345035e-01	ASB3
+GO_Biological_Process_2021	ubiquitin-dependent protein catabolic process (GO:0006511)	1/354	7.432924e-01	7.984587e-01	0	0	7.392257e-01	2.193029e-01	RNF213
+GO_Biological_Process_2021	negative regulation of programmed cell death (GO:0043069)	1/381	7.688152e-01	8.226622e-01	0	0	6.857544e-01	1.802880e-01	MECOM
+GO_Biological_Process_2021	protein modification by small protein conjugation (GO:0032446)	1/409	7.926380e-01	8.448660e-01	0	0	6.377778e-01	1.482124e-01	RNF213
+GO_Biological_Process_2021	organelle organization (GO:0006996)	1/420	8.013191e-01	8.508214e-01	0	0	6.206842e-01	1.374791e-01	LMAN1
+GO_Biological_Process_2021	negative regulation of nucleic acid-templated transcription (GO:1903507)	1/464	8.325987e-01	8.806332e-01	0	0	5.604320e-01	1.026731e-01	MECOM
+GO_Biological_Process_2021	positive regulation of cell population proliferation (GO:0008284)	1/474	8.389995e-01	8.840034e-01	0	0	5.483016e-01	9.625167e-02	TOX
+GO_Biological_Process_2021	negative regulation of apoptotic process (GO:0043066)	1/485	8.457618e-01	8.877270e-01	0	0	5.355372e-01	8.971188e-02	RNF213
+GO_Biological_Process_2021	positive regulation of nucleic acid-templated transcription (GO:1903508)	1/511	8.606510e-01	8.999203e-01	0	0	5.075556e-01	7.616691e-02	MECOM
+GO_Biological_Process_2021	protein ubiquitination (GO:0016567)	1/525	8.680712e-01	9.042409e-01	0	0	4.936387e-01	6.984074e-02	RNF213
+GO_Biological_Process_2021	negative regulation of cellular macromolecule biosynthetic process (GO:2000113)	1/547	8.789510e-01	9.109473e-01	0	0	4.732112e-01	6.105660e-02	MECOM
+GO_Biological_Process_2021	negative regulation of transcription, DNA-templated (GO:0045892)	2/948	8.811345e-01	9.109473e-01	0	0	5.421976e-01	6.861241e-02	MECOM;MYT1L
+GO_Biological_Process_2021	negative regulation of cellular process (GO:0048523)	1/566	8.876312e-01	9.142269e-01	0	0	4.568496e-01	5.445598e-02	SLIT3
+GO_Biological_Process_2021	cellular protein modification process (GO:0006464)	2/1025	9.067591e-01	9.304431e-01	0	0	4.993527e-01	4.887587e-02	PTPRD;ASB3
+GO_Biological_Process_2021	negative regulation of transcription by RNA polymerase II (GO:0000122)	1/684	9.293292e-01	9.500578e-01	0	0	3.756174e-01	2.752983e-02	MYT1L
+GO_Biological_Process_2021	regulation of apoptotic process (GO:0042981)	1/742	9.437927e-01	9.581047e-01	0	0	3.451732e-01	1.996782e-02	TRIO
+GO_Biological_Process_2021	positive regulation of transcription, DNA-templated (GO:0045893)	2/1183	9.441686e-01	9.581047e-01	0	0	4.289310e-01	2.464231e-02	MECOM;PRDM10
+GO_Biological_Process_2021	positive regulation of transcription by RNA polymerase II (GO:0045944)	1/908	9.709259e-01	9.812077e-01	0	0	2.795590e-01	8.248427e-03	PRDM10
+GO_Biological_Process_2021	regulation of transcription by RNA polymerase II (GO:0006357)	4/2206	9.740716e-01	9.812077e-01	0	0	4.471188e-01	1.174600e-02	MECOM;MYT1L;TOX;PRDM10
+GO_Biological_Process_2021	regulation of gene expression (GO:0010468)	1/1079	9.853447e-01	9.889408e-01	0	0	2.330983e-01	3.441416e-03	PRDM10
+GO_Biological_Process_2021	regulation of transcription, DNA-templated (GO:0006355)	3/2244	9.934449e-01	9.934449e-01	0	0	3.242743e-01	2.132634e-03	MECOM;MYT1L;TOX

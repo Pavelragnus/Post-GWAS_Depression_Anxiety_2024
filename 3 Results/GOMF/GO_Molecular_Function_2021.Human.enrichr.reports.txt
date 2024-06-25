@@ -1,0 +1,10 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Molecular_Function_2021	outward rectifier potassium channel activity (GO:0015271)	1/11	2.198311e-03	8.990408e-03	0	0	6.662000e+02	4.077188e+03	KCND3
+GO_Molecular_Function_2021	voltage-gated potassium channel activity involved in ventricular cardiac muscle cell action potential repolarization (GO:1902282)	1/12	2.397979e-03	8.990408e-03	0	0	6.056061e+02	3.653700e+03	KCND3
+GO_Molecular_Function_2021	voltage-gated potassium channel activity involved in cardiac muscle cell action potential repolarization (GO:0086008)	1/15	2.996803e-03	8.990408e-03	0	0	4.757619e+02	2.764276e+03	KCND3
+GO_Molecular_Function_2021	kinase activator activity (GO:0019209)	1/31	6.185986e-03	1.391847e-02	0	0	2.218444e+02	1.128183e+03	MOB1B
+GO_Molecular_Function_2021	voltage-gated potassium channel activity (GO:0005249)	1/82	1.630050e-02	2.476364e-02	0	0	8.195473e+01	3.373716e+02	KCND3
+GO_Molecular_Function_2021	potassium channel activity (GO:0005267)	1/91	1.807736e-02	2.476364e-02	0	0	7.372593e+01	2.958691e+02	KCND3
+GO_Molecular_Function_2021	voltage-gated cation channel activity (GO:0022843)	1/97	1.926061e-02	2.476364e-02	0	0	6.909722e+01	2.729128e+02	KCND3
+GO_Molecular_Function_2021	GTPase binding (GO:0051020)	1/201	3.960075e-02	4.455084e-02	0	0	3.299333e+01	1.065324e+02	ATG16L1
+GO_Molecular_Function_2021	kinase binding (GO:0019900)	1/461	8.906704e-02	8.906704e-02	0	0	1.415652e+01	3.423565e+01	MOB1B

@@ -1,0 +1,34 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Cellular_Component_2021	RISC complex (GO:0016442)	1/13	2.506278e-02	4.625978e-01	0	0	4.374781e+01	1.612707e+02	LIMD1
+GO_Cellular_Component_2021	Cul2-RING ubiquitin ligase complex (GO:0031462)	1/19	3.642280e-02	4.625978e-01	0	0	2.915643e+01	9.658244e+01	ZSWIM6
+GO_Cellular_Component_2021	autophagosome membrane (GO:0000421)	1/22	4.205435e-02	4.625978e-01	0	0	2.498747e+01	7.918010e+01	ATG16L1
+GO_Cellular_Component_2021	vacuolar membrane (GO:0005774)	1/45	8.417703e-02	5.039551e-01	0	0	1.191208e+01	2.948041e+01	ATG16L1
+GO_Cellular_Component_2021	autophagosome (GO:0005776)	1/69	1.262060e-01	5.039551e-01	0	0	7.698529e+00	1.593472e+01	ATG16L1
+GO_Cellular_Component_2021	tertiary granule membrane (GO:0070821)	1/73	1.330257e-01	5.039551e-01	0	0	7.269371e+00	1.466387e+01	PTPRB
+GO_Cellular_Component_2021	voltage-gated potassium channel complex (GO:0008076)	1/73	1.330257e-01	5.039551e-01	0	0	7.269371e+00	1.466387e+01	KCND3
+GO_Cellular_Component_2021	P-body (GO:0000932)	1/80	1.448355e-01	5.039551e-01	0	0	6.622918e+00	1.279652e+01	LIMD1
+GO_Cellular_Component_2021	potassium channel complex (GO:0034705)	1/80	1.448355e-01	5.039551e-01	0	0	6.622918e+00	1.279652e+01	KCND3
+GO_Cellular_Component_2021	specific granule membrane (GO:0035579)	1/91	1.630777e-01	5.039551e-01	0	0	5.810234e+00	1.053703e+01	PTPRB
+GO_Cellular_Component_2021	intrinsic component of endoplasmic reticulum membrane (GO:0031227)	1/121	2.109234e-01	5.039551e-01	0	0	4.351096e+00	6.771438e+00	EXT1
+GO_Cellular_Component_2021	adherens junction (GO:0005912)	1/132	2.277902e-01	5.039551e-01	0	0	3.983528e+00	5.892952e+00	LIMD1
+GO_Cellular_Component_2021	asymmetric synapse (GO:0032279)	1/133	2.293061e-01	5.039551e-01	0	0	3.953150e+00	5.821795e+00	KCND3
+GO_Cellular_Component_2021	postsynaptic density (GO:0014069)	1/138	2.368417e-01	5.039551e-01	0	0	3.807914e+00	5.484779e+00	KCND3
+GO_Cellular_Component_2021	integral component of endoplasmic reticulum membrane (GO:0030176)	1/142	2.428185e-01	5.039551e-01	0	0	3.699141e+00	5.235916e+00	EXT1
+GO_Cellular_Component_2021	cullin-RING ubiquitin ligase complex (GO:0031461)	1/157	2.648280e-01	5.039551e-01	0	0	3.340924e+00	4.439001e+00	ZSWIM6
+GO_Cellular_Component_2021	specific granule (GO:0042581)	1/160	2.691545e-01	5.039551e-01	0	0	3.277392e+00	4.301477e+00	PTPRB
+GO_Cellular_Component_2021	tertiary granule (GO:0070820)	1/164	2.748846e-01	5.039551e-01	0	0	3.196319e+00	4.127739e+00	PTPRB
+GO_Cellular_Component_2021	axon (GO:0030424)	1/204	3.298302e-01	5.658175e-01	0	0	2.561317e+00	2.840955e+00	NFIB
+GO_Cellular_Component_2021	integral component of organelle membrane (GO:0031301)	1/214	3.429197e-01	5.658175e-01	0	0	2.439832e+00	2.611252e+00	EXT1
+GO_Cellular_Component_2021	cell-cell junction (GO:0005911)	1/271	4.129067e-01	6.245724e-01	0	0	1.919201e+00	1.697598e+00	LIMD1
+GO_Cellular_Component_2021	secretory granule membrane (GO:0030667)	1/274	4.163816e-01	6.245724e-01	0	0	1.897821e+00	1.662782e+00	PTPRB
+GO_Cellular_Component_2021	focal adhesion (GO:0005925)	1/387	5.336306e-01	7.426162e-01	0	0	1.334538e+00	8.381583e-01	LIMD1
+GO_Cellular_Component_2021	cell-substrate junction (GO:0030055)	1/394	5.400845e-01	7.426162e-01	0	0	1.310299e+00	8.071828e-01	LIMD1
+GO_Cellular_Component_2021	Golgi membrane (GO:0000139)	1/472	6.063643e-01	8.004008e-01	0	0	1.088948e+00	5.447730e-01	EXT1
+GO_Cellular_Component_2021	endoplasmic reticulum membrane (GO:0005789)	1/712	7.570942e-01	8.652197e-01	0	0	7.124880e-01	1.982623e-01	EXT1
+GO_Cellular_Component_2021	nucleolus (GO:0005730)	1/733	7.672075e-01	8.652197e-01	0	0	6.912928e-01	1.831912e-01	DFFB
+GO_Cellular_Component_2021	nuclear lumen (GO:0031981)	1/745	7.728011e-01	8.652197e-01	0	0	6.797184e-01	1.751862e-01	DFFB
+GO_Cellular_Component_2021	bounding membrane of organelle (GO:0098588)	1/767	7.827179e-01	8.652197e-01	0	0	6.594407e-01	1.615517e-01	EXT1
+GO_Cellular_Component_2021	integral component of plasma membrane (GO:0005887)	2/1454	7.865634e-01	8.652197e-01	0	0	6.890403e-01	1.654262e-01	PTPRB;KCND3
+GO_Cellular_Component_2021	intracellular non-membrane-bounded organelle (GO:0043232)	1/1158	9.025461e-01	9.607749e-01	0	0	4.276941e-01	4.385383e-02	DFFB
+GO_Cellular_Component_2021	nucleus (GO:0005634)	4/4484	9.852883e-01	9.959696e-01	0	0	3.949235e-01	5.853170e-03	DFFB;NFIB;MTUS2;LIMD1
+GO_Cellular_Component_2021	intracellular membrane-bounded organelle (GO:0043231)	4/5192	9.959696e-01	9.959696e-01	0	0	3.254323e-01	1.314283e-03	DFFB;NFIB;MTUS2;LIMD1

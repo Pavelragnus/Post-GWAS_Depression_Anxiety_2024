@@ -1,0 +1,18 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Molecular_Function_2021	mannose binding (GO:0005537)	1/15	2.886387e-02	1.157307e-01	0	0	3.749436e+01	1.329237e+02	LMAN1
+GO_Molecular_Function_2021	transmembrane receptor protein tyrosine phosphatase activity (GO:0005001)	1/16	3.075900e-02	1.157307e-01	0	0	3.499298e+01	1.218306e+02	PTPRD
+GO_Molecular_Function_2021	transmembrane receptor protein phosphatase activity (GO:0019198)	1/16	3.075900e-02	1.157307e-01	0	0	3.499298e+01	1.218306e+02	PTPRD
+GO_Molecular_Function_2021	ankyrin binding (GO:0030506)	1/19	3.642280e-02	1.157307e-01	0	0	2.915643e+01	9.658244e+01	NRCAM
+GO_Molecular_Function_2021	mannosyltransferase activity (GO:0000030)	1/22	4.205435e-02	1.157307e-01	0	0	2.498747e+01	7.918010e+01	TMTC1
+GO_Molecular_Function_2021	semaphorin receptor binding (GO:0030215)	1/23	4.392440e-02	1.157307e-01	0	0	2.385048e+01	7.453955e+01	SEMA3E
+GO_Molecular_Function_2021	chemorepellent activity (GO:0045499)	1/25	4.765382e-02	1.157307e-01	0	0	2.186075e+01	6.653957e+01	SEMA3E
+GO_Molecular_Function_2021	protein tyrosine phosphatase activity (GO:0004725)	1/74	1.347225e-01	2.862852e-01	0	0	7.169430e+00	1.437140e+01	PTPRD
+GO_Molecular_Function_2021	hexosyltransferase activity (GO:0016758)	1/119	2.078184e-01	3.925458e-01	0	0	4.425290e+00	6.952532e+00	TMTC1
+GO_Molecular_Function_2021	DNA-binding transcription repressor activity, RNA polymerase II-specific (GO:0001227)	1/256	3.952272e-01	6.137395e-01	0	0	2.033643e+00	1.887819e+00	MYT1L
+GO_Molecular_Function_2021	mRNA binding (GO:0003729)	1/263	4.035412e-01	6.137395e-01	0	0	1.978606e+00	1.795538e+00	SLC4A1AP
+GO_Molecular_Function_2021	receptor ligand activity (GO:0048018)	1/307	4.533078e-01	6.137395e-01	0	0	1.690316e+00	1.337351e+00	SEMA3E
+GO_Molecular_Function_2021	cadherin binding (GO:0045296)	1/322	4.693302e-01	6.137395e-01	0	0	1.610100e+00	1.217958e+00	NUMB
+GO_Molecular_Function_2021	RNA polymerase II cis-regulatory region sequence-specific DNA binding (GO:0000978)	1/1149	9.007123e-01	9.419016e-01	0	0	4.312534e-01	4.509592e-02	MYT1L
+GO_Molecular_Function_2021	cis-regulatory region sequence-specific DNA binding (GO:0000987)	1/1149	9.007123e-01	9.419016e-01	0	0	4.312534e-01	4.509592e-02	MYT1L
+GO_Molecular_Function_2021	RNA polymerase II transcription regulatory region sequence-specific DNA binding (GO:0000977)	1/1359	9.358842e-01	9.419016e-01	0	0	3.604953e-01	2.388770e-02	MYT1L
+GO_Molecular_Function_2021	RNA binding (GO:0003723)	1/1406	9.419016e-01	9.419016e-01	0	0	3.475557e-01	2.080276e-02	SLC4A1AP

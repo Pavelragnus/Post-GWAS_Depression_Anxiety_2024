@@ -1,0 +1,10 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Cellular_Component_2021	autophagosome (GO:0005776)	1/69	8.598753e-02	5.893551e-01	0	0	1.170941e+01	2.872966e+01	TBC1D5
+GO_Cellular_Component_2021	lytic vacuole membrane (GO:0098852)	1/267	2.950702e-01	5.893551e-01	0	0	2.963609e+00	3.617209e+00	ITFG2
+GO_Cellular_Component_2021	endosome membrane (GO:0010008)	1/325	3.470393e-01	5.893551e-01	0	0	2.425926e+00	2.567400e+00	TBC1D5
+GO_Cellular_Component_2021	lysosomal membrane (GO:0005765)	1/330	3.513427e-01	5.893551e-01	0	0	2.388450e+00	2.498303e+00	ITFG2
+GO_Cellular_Component_2021	collagen-containing extracellular matrix (GO:0062023)	1/380	3.929034e-01	5.893551e-01	0	0	2.068074e+00	1.931977e+00	MATN2
+GO_Cellular_Component_2021	cytoplasmic vesicle membrane (GO:0030659)	1/380	3.929034e-01	5.893551e-01	0	0	2.068074e+00	1.931977e+00	TBC1D5
+GO_Cellular_Component_2021	lysosome (GO:0005764)	1/477	4.663476e-01	5.995898e-01	0	0	1.638487e+00	1.249878e+00	ITFG2
+GO_Cellular_Component_2021	bounding membrane of organelle (GO:0098588)	1/767	6.384551e-01	7.182620e-01	0	0	1.003029e+00	4.500629e-01	TBC1D5
+GO_Cellular_Component_2021	intracellular membrane-bounded organelle (GO:0043231)	1/5192	9.995960e-01	9.995960e-01	0	0	1.139125e-01	4.603310e-05	TBC1D5

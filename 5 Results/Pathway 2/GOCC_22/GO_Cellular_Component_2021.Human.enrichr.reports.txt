@@ -1,0 +1,4 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Cellular_Component_2021	autophagosome membrane (GO:0000421)	1/22	2.198806e-03	6.596417e-03	0	0	9.512857e+02	5.821717e+03	ATG16L1
+GO_Cellular_Component_2021	vacuolar membrane (GO:0005774)	1/45	4.494987e-03	6.742480e-03	0	0	4.535000e+02	2.451073e+03	ATG16L1
+GO_Cellular_Component_2021	autophagosome (GO:0005776)	1/69	6.888187e-03	6.888187e-03	0	0	2.930882e+02	1.458978e+03	ATG16L1

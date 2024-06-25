@@ -1,0 +1,22 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+KEGG_2021_Human	Shigellosis	2/246	2.024993e-02	2.098281e-01	0	0	1.011168e+01	3.943155e+01	ATG16L1;ACTR3B
+KEGG_2021_Human	Mucin type O-glycan biosynthesis	1/36	3.192218e-02	2.098281e-01	0	0	3.352437e+01	1.154732e+02	GALNTL6
+KEGG_2021_Human	Other types of O-glycan biosynthesis	1/47	4.148262e-02	2.098281e-01	0	0	2.549361e+01	8.113291e+01	GALNTL6
+KEGG_2021_Human	Adherens junction	1/71	6.203316e-02	2.098281e-01	0	0	1.673277e+01	4.651855e+01	PTPRB
+KEGG_2021_Human	Bacterial invasion of epithelial cells	1/77	6.710539e-02	2.098281e-01	0	0	1.540712e+01	4.162220e+01	ACTR3B
+KEGG_2021_Human	ErbB signaling pathway	1/85	7.382807e-02	2.098281e-01	0	0	1.393417e+01	3.631268e+01	NRG1
+KEGG_2021_Human	Fc gamma R-mediated phagocytosis	1/97	8.382636e-02	2.098281e-01	0	0	1.218505e+01	3.020683e+01	ACTR3B
+KEGG_2021_Human	Protein digestion and absorption	1/103	8.878720e-02	2.098281e-01	0	0	1.146482e+01	2.776221e+01	COL24A1
+KEGG_2021_Human	Yersinia infection	1/137	1.164228e-01	2.098281e-01	0	0	8.583910e+00	1.845993e+01	ACTR3B
+KEGG_2021_Human	Autophagy	1/137	1.164228e-01	2.098281e-01	0	0	8.583910e+00	1.845993e+01	ATG16L1
+KEGG_2021_Human	Spinocerebellar ataxia	1/143	1.212168e-01	2.098281e-01	0	0	8.218724e+00	1.734294e+01	KCND3
+KEGG_2021_Human	Tight junction	1/169	1.417081e-01	2.098281e-01	0	0	6.937675e+00	1.355612e+01	ACTR3B
+KEGG_2021_Human	NOD-like receptor signaling pathway	1/181	1.510127e-01	2.098281e-01	0	0	6.471242e+00	1.223318e+01	ATG16L1
+KEGG_2021_Human	Transcriptional misregulation in cancer	1/192	1.594581e-01	2.098281e-01	0	0	6.095165e+00	1.119056e+01	ETV6
+KEGG_2021_Human	Pathogenic Escherichia coli infection	1/197	1.632707e-01	2.098281e-01	0	0	5.938175e+00	1.076203e+01	ACTR3B
+KEGG_2021_Human	Viral carcinogenesis	1/203	1.678242e-01	2.098281e-01	0	0	5.760047e+00	1.028075e+01	VAC14
+KEGG_2021_Human	Regulation of actin cytoskeleton	1/218	1.791057e-01	2.098281e-01	0	0	5.357821e+00	9.214267e+00	ACTR3B
+KEGG_2021_Human	Human T-cell leukemia virus 1 infection	1/219	1.798527e-01	2.098281e-01	0	0	5.332974e+00	9.149341e+00	VAC14
+KEGG_2021_Human	Salmonella infection	1/249	2.019649e-01	2.143521e-01	0	0	4.680740e+00	7.487599e+00	ACTR3B
+KEGG_2021_Human	Endocytosis	1/252	2.041449e-01	2.143521e-01	0	0	4.624092e+00	7.347337e+00	ACTR3B
+KEGG_2021_Human	Amyotrophic lateral sclerosis	1/364	2.816218e-01	2.816218e-01	0	0	3.179225e+00	4.028684e+00	NRG1

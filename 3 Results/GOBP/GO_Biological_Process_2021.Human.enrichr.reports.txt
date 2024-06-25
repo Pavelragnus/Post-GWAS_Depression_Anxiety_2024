@@ -1,0 +1,24 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Biological_Process_2021	ventricular cardiac muscle cell membrane repolarization (GO:0099625)	1/8	1.599128e-03	1.050230e-02	0	0	9.518571e+02	6.128339e+03	KCND3
+GO_Biological_Process_2021	protein O-linked glycosylation via threonine (GO:0018243)	1/9	1.798886e-03	1.050230e-02	0	0	8.328333e+02	5.263996e+03	GALNTL6
+GO_Biological_Process_2021	cardiac muscle cell membrane repolarization (GO:0099622)	1/11	2.198311e-03	1.050230e-02	0	0	6.662000e+02	4.077188e+03	KCND3
+GO_Biological_Process_2021	membrane repolarization during action potential (GO:0086011)	1/14	2.797225e-03	1.050230e-02	0	0	5.123846e+02	3.012375e+03	KCND3
+GO_Biological_Process_2021	potassium ion export across plasma membrane (GO:0097623)	1/14	2.797225e-03	1.050230e-02	0	0	5.123846e+02	3.012375e+03	KCND3
+GO_Biological_Process_2021	membrane repolarization during cardiac muscle cell action potential (GO:0086013)	1/15	2.996803e-03	1.050230e-02	0	0	4.757619e+02	2.764276e+03	KCND3
+GO_Biological_Process_2021	membrane repolarization (GO:0086009)	1/16	3.196351e-03	1.050230e-02	0	0	4.440222e+02	2.551239e+03	KCND3
+GO_Biological_Process_2021	hippo signaling (GO:0035329)	1/26	5.190188e-03	1.468563e-02	0	0	2.662800e+02	1.400895e+03	MOB1B
+GO_Biological_Process_2021	cardiac muscle cell action potential (GO:0086001)	1/30	5.986886e-03	1.468563e-02	0	0	2.295057e+02	1.174653e+03	KCND3
+GO_Biological_Process_2021	metal ion export (GO:0070839)	1/32	6.385056e-03	1.468563e-02	0	0	2.146774e+02	1.084936e+03	KCND3
+GO_Biological_Process_2021	regulation of protein autophosphorylation (GO:0031952)	1/37	7.379957e-03	1.490727e-02	0	0	1.848148e+02	9.072536e+02	MOB1B
+GO_Biological_Process_2021	regulation of heart rate by cardiac conduction (GO:0086091)	1/39	7.777708e-03	1.490727e-02	0	0	1.750702e+02	8.502272e+02	KCND3
+GO_Biological_Process_2021	autophagosome organization (GO:1905037)	1/56	1.115377e-02	1.897564e-02	0	0	1.208545e+02	5.433593e+02	ATG16L1
+GO_Biological_Process_2021	autophagosome assembly (GO:0000045)	1/58	1.155039e-02	1.897564e-02	0	0	1.166023e+02	5.201673e+02	ATG16L1
+GO_Biological_Process_2021	peptidyl-threonine modification (GO:0018210)	1/67	1.333369e-02	2.044499e-02	0	0	1.006566e+02	4.345808e+02	GALNTL6
+GO_Biological_Process_2021	protein O-linked glycosylation (GO:0006493)	1/102	2.024582e-02	2.910337e-02	0	0	6.566007e+01	2.560616e+02	GALNTL6
+GO_Biological_Process_2021	macroautophagy (GO:0016236)	1/120	2.378647e-02	3.089574e-02	0	0	5.567787e+01	2.081594e+02	ATG16L1
+GO_Biological_Process_2021	potassium ion transport (GO:0006813)	1/122	2.417928e-02	3.089574e-02	0	0	5.475207e+01	2.038014e+02	KCND3
+GO_Biological_Process_2021	potassium ion transmembrane transport (GO:0071805)	1/139	2.751339e-02	3.330568e-02	0	0	4.796618e+01	1.723465e+02	KCND3
+GO_Biological_Process_2021	cation transport (GO:0006812)	1/174	3.435083e-02	3.950346e-02	0	0	3.819461e+01	1.287589e+02	KCND3
+GO_Biological_Process_2021	regulation of protein phosphorylation (GO:0001932)	1/266	5.215163e-02	5.612817e-02	0	0	2.481887e+01	7.330500e+01	MOB1B
+GO_Biological_Process_2021	inorganic cation transmembrane transport (GO:0098662)	1/274	5.368781e-02	5.612817e-02	0	0	2.408181e+01	7.042891e+01	KCND3
+GO_Biological_Process_2021	organelle assembly (GO:0070925)	1/425	8.233449e-02	8.233449e-02	0	0	1.538679e+01	3.842028e+01	ATG16L1

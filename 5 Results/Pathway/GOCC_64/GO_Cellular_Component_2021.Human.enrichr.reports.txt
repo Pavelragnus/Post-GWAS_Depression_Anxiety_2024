@@ -1,0 +1,21 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Cellular_Component_2021	Cul2-RING ubiquitin ligase complex (GO:0031462)	1/19	4.282575e-02	8.565150e-01	0	0	2.461235e+01	7.754404e+01	ZSWIM6
+GO_Cellular_Component_2021	autophagosome (GO:0005776)	1/69	1.471345e-01	9.585530e-01	0	0	6.498693e+00	1.245415e+01	TBC1D5
+GO_Cellular_Component_2021	intrinsic component of endoplasmic reticulum membrane (GO:0031227)	1/121	2.438081e-01	9.585530e-01	0	0	3.672963e+00	5.183924e+00	EXT1
+GO_Cellular_Component_2021	integral component of endoplasmic reticulum membrane (GO:0030176)	1/142	2.797341e-01	9.585530e-01	0	0	3.122616e+00	3.977950e+00	EXT1
+GO_Cellular_Component_2021	cullin-RING ubiquitin ligase complex (GO:0031461)	1/157	3.043677e-01	9.585530e-01	0	0	2.820228e+00	3.354714e+00	ZSWIM6
+GO_Cellular_Component_2021	integral component of organelle membrane (GO:0031301)	1/214	3.906801e-01	9.585530e-01	0	0	2.059572e+00	1.935723e+00	EXT1
+GO_Cellular_Component_2021	lytic vacuole membrane (GO:0098852)	1/267	4.614829e-01	9.585530e-01	0	0	1.644779e+00	1.271924e+00	ITFG2
+GO_Cellular_Component_2021	endosome membrane (GO:0010008)	1/325	5.297518e-01	9.585530e-01	0	0	1.346365e+00	8.554084e-01	TBC1D5
+GO_Cellular_Component_2021	bounding membrane of organelle (GO:0098588)	2/767	5.311709e-01	9.585530e-01	0	0	1.140166e+00	7.213507e-01	EXT1;TBC1D5
+GO_Cellular_Component_2021	lysosomal membrane (GO:0005765)	1/330	5.352239e-01	9.585530e-01	0	0	1.325566e+00	8.285715e-01	ITFG2
+GO_Cellular_Component_2021	collagen-containing extracellular matrix (GO:0062023)	1/380	5.866298e-01	9.585530e-01	0	0	1.147757e+00	6.121694e-01	MATN2
+GO_Cellular_Component_2021	cytoplasmic vesicle membrane (GO:0030659)	1/380	5.866298e-01	9.585530e-01	0	0	1.147757e+00	6.121694e-01	TBC1D5
+GO_Cellular_Component_2021	Golgi membrane (GO:0000139)	1/472	6.670841e-01	9.585530e-01	0	0	9.192262e-01	3.721388e-01	EXT1
+GO_Cellular_Component_2021	lysosome (GO:0005764)	1/477	6.709871e-01	9.585530e-01	0	0	9.093371e-01	3.628303e-01	ITFG2
+GO_Cellular_Component_2021	endoplasmic reticulum membrane (GO:0005789)	1/712	8.116338e-01	9.716681e-01	0	0	6.014377e-01	1.255237e-01	EXT1
+GO_Cellular_Component_2021	nucleolus (GO:0005730)	1/733	8.208507e-01	9.716681e-01	0	0	5.835458e-01	1.152001e-01	DFFB
+GO_Cellular_Component_2021	nuclear lumen (GO:0031981)	1/745	8.259179e-01	9.716681e-01	0	0	5.737754e-01	1.097403e-01	DFFB
+GO_Cellular_Component_2021	intracellular non-membrane-bounded organelle (GO:0043232)	1/1158	9.358658e-01	9.999885e-01	0	0	3.610295e-01	2.393018e-02	DFFB
+GO_Cellular_Component_2021	intracellular membrane-bounded organelle (GO:0043231)	2/5192	9.999801e-01	9.999885e-01	0	0	1.293046e-01	2.575283e-06	DFFB;TBC1D5
+GO_Cellular_Component_2021	nucleus (GO:0005634)	1/4484	9.999885e-01	9.999885e-01	0	0	7.668972e-02	8.787425e-07	DFFB

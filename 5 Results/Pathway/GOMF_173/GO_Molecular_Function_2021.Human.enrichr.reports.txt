@@ -1,0 +1,65 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Molecular_Function_2021	transmembrane receptor protein phosphatase activity (GO:0019198)	2/16	1.287014e-03	4.118444e-02	0	0	4.377802e+01	2.913616e+02	PTPRD;PTPRB
+GO_Molecular_Function_2021	transmembrane receptor protein tyrosine phosphatase activity (GO:0005001)	2/16	1.287014e-03	4.118444e-02	0	0	4.377802e+01	2.913616e+02	PTPRD;PTPRB
+GO_Molecular_Function_2021	chemorepellent activity (GO:0045499)	2/25	3.155605e-03	6.731957e-02	0	0	2.663545e+01	1.533822e+02	SEMA3E;NRG1
+GO_Molecular_Function_2021	ErbB-3 class receptor binding (GO:0043125)	1/5	1.663967e-02	1.541369e-01	0	0	7.548864e+01	3.091989e+02	NRG1
+GO_Molecular_Function_2021	glutathione transmembrane transporter activity (GO:0034634)	1/5	1.663967e-02	1.541369e-01	0	0	7.548864e+01	3.091989e+02	SLC13A3
+GO_Molecular_Function_2021	tripeptide transmembrane transporter activity (GO:0042937)	1/6	1.993473e-02	1.541369e-01	0	0	6.038788e+01	2.364362e+02	SLC13A3
+GO_Molecular_Function_2021	organic acid:sodium symporter activity (GO:0005343)	1/7	2.321892e-02	1.541369e-01	0	0	5.032071e+01	1.893461e+02	SLC13A3
+GO_Molecular_Function_2021	transmembrane receptor protein tyrosine kinase activator activity (GO:0030297)	1/7	2.321892e-02	1.541369e-01	0	0	5.032071e+01	1.893461e+02	NRG1
+GO_Molecular_Function_2021	succinate transmembrane transporter activity (GO:0015141)	1/7	2.321892e-02	1.541369e-01	0	0	5.032071e+01	1.893461e+02	SLC13A3
+GO_Molecular_Function_2021	protein tyrosine phosphatase activity (GO:0004725)	2/74	2.557671e-02	1.541369e-01	0	0	8.487607e+00	3.111619e+01	PTPRD;PTPRB
+GO_Molecular_Function_2021	Roundabout binding (GO:0048495)	1/8	2.649227e-02	1.541369e-01	0	0	4.312987e+01	1.566003e+02	SLIT3
+GO_Molecular_Function_2021	potassium ion binding (GO:0030955)	1/9	2.975482e-02	1.586924e-01	0	0	3.773674e+01	1.326358e+02	HDAC4
+GO_Molecular_Function_2021	outward rectifier potassium channel activity (GO:0015271)	1/11	3.624763e-02	1.784499e-01	0	0	3.018636e+01	1.001397e+02	KCND3
+GO_Molecular_Function_2021	voltage-gated potassium channel activity involved in ventricular cardiac muscle cell action potential repolarization (GO:1902282)	1/12	3.947797e-02	1.797632e-01	0	0	2.744077e+01	8.868892e+01	KCND3
+GO_Molecular_Function_2021	alkali metal ion binding (GO:0031420)	1/13	4.269764e-02	1.797632e-01	0	0	2.515278e+01	7.932209e+01	HDAC4
+GO_Molecular_Function_2021	voltage-gated potassium channel activity involved in cardiac muscle cell action potential repolarization (GO:0086008)	1/15	4.910512e-02	1.797632e-01	0	0	2.155736e+01	6.496939e+01	KCND3
+GO_Molecular_Function_2021	C4-dicarboxylate transmembrane transporter activity (GO:0015556)	1/16	5.229301e-02	1.797632e-01	0	0	2.011919e+01	5.936958e+01	SLC13A3
+GO_Molecular_Function_2021	histone deacetylase activity (GO:0004407)	1/19	6.179362e-02	1.797632e-01	0	0	1.676347e+01	4.666874e+01	HDAC4
+GO_Molecular_Function_2021	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in cyclic amidines (GO:0016814)	1/19	6.179362e-02	1.797632e-01	0	0	1.676347e+01	4.666874e+01	GDA
+GO_Molecular_Function_2021	protein tyrosine kinase activator activity (GO:0030296)	1/19	6.179362e-02	1.797632e-01	0	0	1.676347e+01	4.666874e+01	NRG1
+GO_Molecular_Function_2021	SUMO transferase activity (GO:0019789)	1/19	6.179362e-02	1.797632e-01	0	0	1.676347e+01	4.666874e+01	HDAC4
+GO_Molecular_Function_2021	ankyrin binding (GO:0030506)	1/19	6.179362e-02	1.797632e-01	0	0	1.676347e+01	4.666874e+01	NRCAM
+GO_Molecular_Function_2021	semaphorin receptor binding (GO:0030215)	1/23	7.431529e-02	2.067904e-01	0	0	1.371281e+01	3.564561e+01	SEMA3E
+GO_Molecular_Function_2021	dicarboxylic acid transmembrane transporter activity (GO:0005310)	1/29	9.278975e-02	2.474393e-01	0	0	1.077110e+01	2.560743e+01	SLC13A3
+GO_Molecular_Function_2021	receptor tyrosine kinase binding (GO:0030971)	1/56	1.715292e-01	4.131850e-01	0	0	5.476033e+00	9.654254e+00	NRG1
+GO_Molecular_Function_2021	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides (GO:0016811)	1/57	1.743124e-01	4.131850e-01	0	0	5.377976e+00	9.394819e+00	HDAC4
+GO_Molecular_Function_2021	carboxylic acid transmembrane transporter activity (GO:0046943)	1/57	1.743124e-01	4.131850e-01	0	0	5.377976e+00	9.394819e+00	SLC13A3
+GO_Molecular_Function_2021	protein kinase activator activity (GO:0030295)	1/63	1.908190e-01	4.361578e-01	0	0	4.856061e+00	8.043723e+00	NRG1
+GO_Molecular_Function_2021	protein tyrosine kinase binding (GO:1990782)	1/72	2.149713e-01	4.744193e-01	0	0	4.238583e+00	6.515766e+00	NRG1
+GO_Molecular_Function_2021	voltage-gated potassium channel activity (GO:0005249)	1/82	2.409747e-01	5.090684e-01	0	0	3.713431e+00	5.284447e+00	KCND3
+GO_Molecular_Function_2021	growth factor activity (GO:0008083)	1/87	2.536564e-01	5.090684e-01	0	0	3.496653e+00	4.796620e+00	NRG1
+GO_Molecular_Function_2021	potassium channel activity (GO:0005267)	1/91	2.636512e-01	5.090684e-01	0	0	3.340572e+00	4.453411e+00	KCND3
+GO_Molecular_Function_2021	histone deacetylase binding (GO:0042826)	1/93	2.685991e-01	5.090684e-01	0	0	3.267622e+00	4.295404e+00	HDAC4
+GO_Molecular_Function_2021	receptor ligand activity (GO:0048018)	2/307	2.747871e-01	5.090684e-01	0	0	1.980126e+00	2.557845e+00	NRG1;SEMA3E
+GO_Molecular_Function_2021	voltage-gated cation channel activity (GO:0022843)	1/97	2.783968e-01	5.090684e-01	0	0	3.130840e+00	4.003429e+00	KCND3
+GO_Molecular_Function_2021	cadherin binding (GO:0045296)	2/322	2.934301e-01	5.216535e-01	0	0	1.885865e+00	2.312289e+00	PTPRB;NUMB
+GO_Molecular_Function_2021	zinc ion binding (GO:0008270)	2/336	3.107814e-01	5.375678e-01	0	0	1.805527e+00	2.110058e+00	HDAC4;GDA
+GO_Molecular_Function_2021	organic anion transmembrane transporter activity (GO:0008514)	1/144	3.842705e-01	6.471925e-01	0	0	2.096843e+00	2.005438e+00	SLC13A3
+GO_Molecular_Function_2021	transition metal ion binding (GO:0046914)	2/445	4.411921e-01	7.068789e-01	0	0	1.353707e+00	1.107705e+00	HDAC4;GDA
+GO_Molecular_Function_2021	cytokine activity (GO:0005125)	1/173	4.417993e-01	7.068789e-01	0	0	1.740751e+00	1.422018e+00	NRG1
+GO_Molecular_Function_2021	RNA polymerase II-specific DNA-binding transcription factor binding (GO:0061629)	1/190	4.730260e-01	7.383820e-01	0	0	1.582812e+00	1.184901e+00	HDAC4
+GO_Molecular_Function_2021	GTPase binding (GO:0051020)	1/201	4.923078e-01	7.431189e-01	0	0	1.494924e+00	1.059380e+00	ATG16L1
+GO_Molecular_Function_2021	DNA-binding transcription factor binding (GO:0140297)	1/208	5.042144e-01	7.431189e-01	0	0	1.443859e+00	9.886877e-01	HDAC4
+GO_Molecular_Function_2021	transcription regulatory region nucleic acid binding (GO:0001067)	1/212	5.108942e-01	7.431189e-01	0	0	1.416200e+00	9.511096e-01	HDAC4
+GO_Molecular_Function_2021	microtubule binding (GO:0008017)	1/232	5.429862e-01	7.658885e-01	0	0	1.292273e+00	7.891544e-01	MTUS2
+GO_Molecular_Function_2021	transcription cis-regulatory region binding (GO:0000976)	2/549	5.525280e-01	7.658885e-01	0	0	1.090480e+00	6.469282e-01	HDAC4;ZNF248
+GO_Molecular_Function_2021	DNA-binding transcription repressor activity, RNA polymerase II-specific (GO:0001227)	1/256	5.787676e-01	7.658885e-01	0	0	1.169222e+00	6.393937e-01	ZNF248
+GO_Molecular_Function_2021	ubiquitin protein ligase activity (GO:0061630)	1/263	5.886738e-01	7.658885e-01	0	0	1.137578e+00	6.027834e-01	RNF220
+GO_Molecular_Function_2021	mRNA binding (GO:0003729)	1/263	5.886738e-01	7.658885e-01	0	0	1.137578e+00	6.027834e-01	SLC4A1AP
+GO_Molecular_Function_2021	ubiquitin-like protein ligase activity (GO:0061659)	1/270	5.983504e-01	7.658885e-01	0	0	1.107581e+00	5.688303e-01	RNF220
+GO_Molecular_Function_2021	tubulin binding (GO:0015631)	1/307	6.458908e-01	7.935188e-01	0	0	9.718261e-01	4.248093e-01	MTUS2
+GO_Molecular_Function_2021	DNA-binding transcription activator activity, RNA polymerase II-specific (GO:0001228)	1/333	6.759361e-01	7.935188e-01	0	0	8.945327e-01	3.503497e-01	NFIB
+GO_Molecular_Function_2021	RNA polymerase II transcription regulatory region sequence-specific DNA binding (GO:0000977)	4/1359	6.759980e-01	7.935188e-01	0	0	8.705207e-01	3.408656e-01	HDAC4;NFIB;ZNF678;ZNF248
+GO_Molecular_Function_2021	sequence-specific DNA binding (GO:0043565)	2/707	6.905792e-01	7.935188e-01	0	0	8.391926e-01	3.106897e-01	HDAC4;NFIB
+GO_Molecular_Function_2021	calcium ion binding (GO:0005509)	1/348	6.921125e-01	7.935188e-01	0	0	8.552092e-01	3.147228e-01	SLIT3
+GO_Molecular_Function_2021	sequence-specific double-stranded DNA binding (GO:1990837)	2/712	6.943290e-01	7.935188e-01	0	0	8.330661e-01	3.039103e-01	HDAC4;NFIB
+GO_Molecular_Function_2021	ubiquitin-protein transferase activity (GO:0004842)	1/392	7.351128e-01	8.114226e-01	0	0	7.572658e-01	2.330343e-01	RNF220
+GO_Molecular_Function_2021	RNA polymerase II cis-regulatory region sequence-specific DNA binding (GO:0000978)	3/1149	7.480302e-01	8.114226e-01	0	0	7.684473e-01	2.230894e-01	HDAC4;NFIB;ZNF678
+GO_Molecular_Function_2021	cis-regulatory region sequence-specific DNA binding (GO:0000987)	3/1149	7.480302e-01	8.114226e-01	0	0	7.684473e-01	2.230894e-01	HDAC4;NFIB;ZNF678
+GO_Molecular_Function_2021	DNA binding (GO:0003677)	2/811	7.612404e-01	8.119897e-01	0	0	7.273557e-01	1.984271e-01	HDAC4;NFIB
+GO_Molecular_Function_2021	metal ion binding (GO:0046872)	1/517	8.275525e-01	8.682518e-01	0	0	5.701492e-01	1.079194e-01	SLIT3
+GO_Molecular_Function_2021	protein homodimerization activity (GO:0042803)	1/636	8.856898e-01	9.056335e-01	0	0	4.604629e-01	5.589490e-02	MTUS2
+GO_Molecular_Function_2021	double-stranded DNA binding (GO:0003690)	1/651	8.914829e-01	9.056335e-01	0	0	4.494872e-01	5.163213e-02	NFIB
+GO_Molecular_Function_2021	RNA binding (GO:0003723)	2/1406	9.543372e-01	9.543372e-01	0	0	4.060706e-01	1.897899e-02	SLC4A1AP;SREK1

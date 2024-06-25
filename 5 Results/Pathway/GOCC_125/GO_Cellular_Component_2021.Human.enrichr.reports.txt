@@ -1,0 +1,17 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Cellular_Component_2021	hemidesmosome (GO:0030056)	1/7	1.045432e-02	1.672692e-01	0	0	1.147356e+02	5.232793e+02	ERBIN
+GO_Cellular_Component_2021	basolateral plasma membrane (GO:0016323)	2/151	2.145107e-02	1.716086e-01	0	0	9.501918e+00	3.650618e+01	SLC13A3;ERBIN
+GO_Cellular_Component_2021	basement membrane (GO:0005604)	1/52	7.518173e-02	3.153694e-01	0	0	1.346788e+01	3.485282e+01	ERBIN
+GO_Cellular_Component_2021	autophagosome (GO:0005776)	1/69	9.855294e-02	3.153694e-01	0	0	1.009229e+01	2.338547e+01	TBC1D5
+GO_Cellular_Component_2021	glutamatergic synapse (GO:0098978)	1/69	9.855294e-02	3.153694e-01	0	0	1.009229e+01	2.338547e+01	PTPRD
+GO_Cellular_Component_2021	lytic vacuole membrane (GO:0098852)	1/267	3.320161e-01	6.541440e-01	0	0	2.554317e+00	2.816318e+00	ITFG2
+GO_Cellular_Component_2021	endosome membrane (GO:0010008)	1/325	3.885139e-01	6.541440e-01	0	0	2.090890e+00	1.976782e+00	TBC1D5
+GO_Cellular_Component_2021	lysosomal membrane (GO:0005765)	1/330	3.931621e-01	6.541440e-01	0	0	2.058589e+00	1.921762e+00	ITFG2
+GO_Cellular_Component_2021	collagen-containing extracellular matrix (GO:0062023)	1/380	4.378042e-01	6.541440e-01	0	0	1.782458e+00	1.472281e+00	ERBIN
+GO_Cellular_Component_2021	cytoplasmic vesicle membrane (GO:0030659)	1/380	4.378042e-01	6.541440e-01	0	0	1.782458e+00	1.472281e+00	TBC1D5
+GO_Cellular_Component_2021	cell-substrate junction (GO:0030055)	1/394	4.497240e-01	6.541440e-01	0	0	1.717733e+00	1.372677e+00	ERBIN
+GO_Cellular_Component_2021	lysosome (GO:0005764)	1/477	5.155306e-01	6.873741e-01	0	0	1.412199e+00	9.356649e-01	ITFG2
+GO_Cellular_Component_2021	integral component of plasma membrane (GO:0005887)	2/1454	6.519453e-01	7.895705e-01	0	0	9.109603e-01	3.897039e-01	PTPRD;ADORA1
+GO_Cellular_Component_2021	bounding membrane of organelle (GO:0098588)	1/767	6.908742e-01	7.895705e-01	0	0	8.644999e-01	3.196899e-01	TBC1D5
+GO_Cellular_Component_2021	intracellular membrane-bounded organelle (GO:0043231)	4/5192	9.709648e-01	9.774110e-01	0	0	4.383489e-01	1.291599e-02	HDAC4;TBC1D5;ANKRD11;ERBIN
+GO_Cellular_Component_2021	nucleus (GO:0005634)	3/4484	9.774110e-01	9.774110e-01	0	0	3.840661e-01	8.775149e-03	HDAC4;ANKRD11;ERBIN

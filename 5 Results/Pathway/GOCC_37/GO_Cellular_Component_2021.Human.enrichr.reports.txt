@@ -1,0 +1,35 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Cellular_Component_2021	autophagosome (GO:0005776)	2/69	8.819246e-03	2.998544e-01	0	0	1.522541e+01	7.202866e+01	TBC1D5;ATG16L1
+GO_Cellular_Component_2021	RISC complex (GO:0016442)	1/13	2.633229e-02	4.476488e-01	0	0	4.155625e+01	1.511384e+02	LIMD1
+GO_Cellular_Component_2021	autophagosome membrane (GO:0000421)	1/22	4.416483e-02	5.005348e-01	0	0	2.373571e+01	7.405131e+01	ATG16L1
+GO_Cellular_Component_2021	vacuolar membrane (GO:0005774)	1/45	8.830173e-02	5.052699e-01	0	0	1.131534e+01	2.746228e+01	ATG16L1
+GO_Cellular_Component_2021	tertiary granule membrane (GO:0070821)	1/73	1.393555e-01	5.052699e-01	0	0	6.905208e+00	1.360828e+01	PTPRB
+GO_Cellular_Component_2021	voltage-gated potassium channel complex (GO:0008076)	1/73	1.393555e-01	5.052699e-01	0	0	6.905208e+00	1.360828e+01	KCND3
+GO_Cellular_Component_2021	clathrin-coated vesicle (GO:0030136)	1/80	1.516766e-01	5.052699e-01	0	0	6.291139e+00	1.186512e+01	CEMIP
+GO_Cellular_Component_2021	P-body (GO:0000932)	1/80	1.516766e-01	5.052699e-01	0	0	6.291139e+00	1.186512e+01	LIMD1
+GO_Cellular_Component_2021	potassium channel complex (GO:0034705)	1/80	1.516766e-01	5.052699e-01	0	0	6.291139e+00	1.186512e+01	KCND3
+GO_Cellular_Component_2021	clathrin-coated endocytic vesicle (GO:0045334)	1/85	1.603718e-01	5.052699e-01	0	0	5.915179e+00	1.082632e+01	CEMIP
+GO_Cellular_Component_2021	specific granule membrane (GO:0035579)	1/91	1.706913e-01	5.052699e-01	0	0	5.519167e+00	9.757326e+00	PTPRB
+GO_Cellular_Component_2021	focal adhesion (GO:0005925)	2/387	1.879923e-01	5.052699e-01	0	0	2.607259e+00	4.357654e+00	LIMD1;PTK2
+GO_Cellular_Component_2021	cell-substrate junction (GO:0030055)	2/394	1.931914e-01	5.052699e-01	0	0	2.559785e+00	4.208476e+00	LIMD1;PTK2
+GO_Cellular_Component_2021	adherens junction (GO:0005912)	1/132	2.379698e-01	5.256350e-01	0	0	3.783969e+00	5.432310e+00	LIMD1
+GO_Cellular_Component_2021	asymmetric synapse (GO:0032279)	1/133	2.395423e-01	5.256350e-01	0	0	3.755114e+00	5.366152e+00	KCND3
+GO_Cellular_Component_2021	postsynaptic density (GO:0014069)	1/138	2.473577e-01	5.256350e-01	0	0	3.617153e+00	5.052874e+00	KCND3
+GO_Cellular_Component_2021	specific granule (GO:0042581)	1/160	2.808242e-01	5.416408e-01	0	0	3.113208e+00	3.953856e+00	PTPRB
+GO_Cellular_Component_2021	tertiary granule (GO:0070820)	1/164	2.867510e-01	5.416408e-01	0	0	3.036196e+00	3.792637e+00	PTPRB
+GO_Cellular_Component_2021	endocytic vesicle (GO:0030139)	1/189	3.227286e-01	5.775144e-01	0	0	2.629122e+00	2.973389e+00	CEMIP
+GO_Cellular_Component_2021	axon (GO:0030424)	1/204	3.434587e-01	5.838798e-01	0	0	2.433005e+00	2.600124e+00	NFIB
+GO_Cellular_Component_2021	lytic vacuole membrane (GO:0098852)	1/267	4.239673e-01	6.390439e-01	0	0	1.850846e+00	1.588209e+00	ITFG2
+GO_Cellular_Component_2021	cell-cell junction (GO:0005911)	1/271	4.287401e-01	6.390439e-01	0	0	1.823056e+00	1.543954e+00	LIMD1
+GO_Cellular_Component_2021	secretory granule membrane (GO:0030667)	1/274	4.322944e-01	6.390439e-01	0	0	1.802747e+00	1.511871e+00	PTPRB
+GO_Cellular_Component_2021	endosome membrane (GO:0010008)	1/325	4.895178e-01	6.729485e-01	0	0	1.515046e+00	1.082250e+00	TBC1D5
+GO_Cellular_Component_2021	lysosomal membrane (GO:0005765)	1/330	4.948151e-01	6.729485e-01	0	0	1.491641e+00	1.049476e+00	ITFG2
+GO_Cellular_Component_2021	collagen-containing extracellular matrix (GO:0062023)	1/380	5.449232e-01	6.861996e-01	0	0	1.291557e+00	7.841174e-01	COL6A5
+GO_Cellular_Component_2021	cytoplasmic vesicle membrane (GO:0030659)	1/380	5.449232e-01	6.861996e-01	0	0	1.291557e+00	7.841174e-01	TBC1D5
+GO_Cellular_Component_2021	lysosome (GO:0005764)	1/477	6.286835e-01	7.634014e-01	0	0	1.023267e+00	4.749260e-01	ITFG2
+GO_Cellular_Component_2021	cytoskeleton (GO:0005856)	1/600	7.135221e-01	8.365432e-01	0	0	8.080134e-01	2.727383e-01	PTK2
+GO_Cellular_Component_2021	bounding membrane of organelle (GO:0098588)	1/767	7.990955e-01	8.877469e-01	0	0	6.264034e-01	1.404865e-01	TBC1D5
+GO_Cellular_Component_2021	integral component of plasma membrane (GO:0005887)	2/1454	8.094163e-01	8.877469e-01	0	0	6.536342e-01	1.382057e-01	PTPRB;KCND3
+GO_Cellular_Component_2021	intracellular non-membrane-bounded organelle (GO:0043232)	1/1158	9.135254e-01	9.706207e-01	0	0	4.062662e-01	3.674439e-02	PTK2
+GO_Cellular_Component_2021	nucleus (GO:0005634)	5/4484	9.685847e-01	9.730839e-01	0	0	4.800179e-01	1.532187e-02	NFIB;MTUS2;ARID5B;LIMD1;PTK2
+GO_Cellular_Component_2021	intracellular membrane-bounded organelle (GO:0043231)	6/5192	9.730839e-01	9.730839e-01	0	0	4.883367e-01	1.332425e-02	NFIB;TBC1D5;MTUS2;ARID5B;LIMD1;PTK2

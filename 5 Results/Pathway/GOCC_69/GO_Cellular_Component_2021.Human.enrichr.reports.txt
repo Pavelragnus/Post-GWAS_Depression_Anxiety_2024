@@ -1,0 +1,17 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Cellular_Component_2021	clathrin coat of trans-Golgi network vesicle (GO:0030130)	1/9	1.431090e-02	1.522958e-01	0	0	8.048387e+01	3.417936e+02	NCALD
+GO_Cellular_Component_2021	clathrin vesicle coat (GO:0030125)	1/12	1.903698e-02	1.522958e-01	0	0	5.852493e+01	2.318390e+02	NCALD
+GO_Cellular_Component_2021	lysosomal lumen (GO:0043202)	1/86	1.289044e-01	5.932161e-01	0	0	7.545731e+00	1.545882e+01	GPC5
+GO_Cellular_Component_2021	Golgi lumen (GO:0005796)	1/100	1.483040e-01	5.932161e-01	0	0	6.474096e+00	1.235575e+01	GPC5
+GO_Cellular_Component_2021	vacuolar lumen (GO:0005775)	1/161	2.280560e-01	7.087026e-01	0	0	3.993548e+00	5.903119e+00	GPC5
+GO_Cellular_Component_2021	spindle (GO:0005819)	1/192	2.657635e-01	7.087026e-01	0	0	3.340145e+00	4.426189e+00	SPATA5
+GO_Cellular_Component_2021	microtubule cytoskeleton (GO:0015630)	1/331	4.140074e-01	7.539580e-01	0	0	1.919648e+00	1.692883e+00	SPATA5
+GO_Cellular_Component_2021	collagen-containing extracellular matrix (GO:0062023)	1/380	4.589967e-01	7.539580e-01	0	0	1.667291e+00	1.298340e+00	MATN2
+GO_Cellular_Component_2021	focal adhesion (GO:0005925)	1/387	4.651441e-01	7.539580e-01	0	0	1.636470e+00	1.252567e+00	MAP4K4
+GO_Cellular_Component_2021	cell-substrate junction (GO:0030055)	1/394	4.712237e-01	7.539580e-01	0	0	1.606747e+00	1.208952e+00	MAP4K4
+GO_Cellular_Component_2021	lysosome (GO:0005764)	1/477	5.383986e-01	7.831252e-01	0	0	1.320954e+00	8.178768e-01	GPC5
+GO_Cellular_Component_2021	integral component of plasma membrane (GO:0005887)	2/1454	6.867569e-01	9.156759e-01	0	0	8.501377e-01	3.194604e-01	PTPRT;FCRL4
+GO_Cellular_Component_2021	intracellular organelle lumen (GO:0070013)	1/848	7.503010e-01	9.234474e-01	0	0	7.282249e-01	2.092050e-01	GPC5
+GO_Cellular_Component_2021	intracellular non-membrane-bounded organelle (GO:0043232)	1/1158	8.519375e-01	9.736429e-01	0	0	5.244654e-01	8.404143e-02	SPATA5
+GO_Cellular_Component_2021	nucleus (GO:0005634)	1/4484	9.997030e-01	9.999313e-01	0	0	1.114245e-01	3.310207e-05	GPATCH8
+GO_Cellular_Component_2021	intracellular membrane-bounded organelle (GO:0043231)	1/5192	9.999313e-01	9.999313e-01	0	0	9.182767e-02	6.312267e-06	GPATCH8

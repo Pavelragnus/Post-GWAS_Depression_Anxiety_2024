@@ -1,0 +1,36 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+Reactome_2016	Inactivation of Cdc42 and Rac Homo sapiens R-HSA-428543	1/9	2.139788e-02	2.691811e-01	0	0	5.304255e+01	2.039202e+02	SRGAP3
+Reactome_2016	Serotonin receptors Homo sapiens R-HSA-390666	1/12	2.843040e-02	2.691811e-01	0	0	3.857060e+01	1.373228e+02	HTR1E
+Reactome_2016	Activation of DNA fragmentation factor Homo sapiens R-HSA-211227	1/13	3.076356e-02	2.691811e-01	0	0	3.535461e+01	1.230844e+02	DFFB
+Reactome_2016	Apoptosis induced DNA fragmentation Homo sapiens R-HSA-140342	1/13	3.076356e-02	2.691811e-01	0	0	3.535461e+01	1.230844e+02	DFFB
+Reactome_2016	Nephrin interactions Homo sapiens R-HSA-373753	1/22	5.151662e-02	3.606163e-01	0	0	2.019352e+01	5.989095e+01	MAGI2
+Reactome_2016	HS-GAG biosynthesis Homo sapiens R-HSA-2022928	1/31	7.183440e-02	3.703272e-01	0	0	1.412908e+01	3.720740e+01	EXT1
+Reactome_2016	Signaling by Robo receptor Homo sapiens R-HSA-376176	1/32	7.406545e-02	3.703272e-01	0	0	1.367261e+01	3.558717e+01	SRGAP3
+Reactome_2016	Nuclear signaling by ERBB4 Homo sapiens R-HSA-1251985	1/39	8.953645e-02	3.821342e-01	0	0	1.115006e+01	2.690631e+01	WWOX
+Reactome_2016	Amine ligand-binding receptors Homo sapiens R-HSA-375280	1/43	9.826307e-02	3.821342e-01	0	0	1.008612e+01	2.340088e+01	HTR1E
+Reactome_2016	Apoptotic execution  phase Homo sapiens R-HSA-75153	1/51	1.154713e-01	3.876765e-01	0	0	8.468936e+00	1.828217e+01	DFFB
+Reactome_2016	Heparan sulfate/heparin (HS-GAG) metabolism Homo sapiens R-HSA-1638091	1/54	1.218412e-01	3.876765e-01	0	0	7.988358e+00	1.681579e+01	EXT1
+Reactome_2016	Translocation of GLUT4 to the plasma membrane Homo sapiens R-HSA-1445148	1/60	1.344464e-01	3.921354e-01	0	0	7.173819e+00	1.439491e+01	TBC1D1
+Reactome_2016	SRP-dependent cotranslational protein targeting to membrane Homo sapiens R-HSA-1799339	1/107	2.272446e-01	5.923730e-01	0	0	3.983541e+00	5.902526e+00	SRP54
+Reactome_2016	Glycosaminoglycan metabolism Homo sapiens R-HSA-1630316	1/121	2.529515e-01	5.923730e-01	0	0	3.516312e+00	4.833373e+00	EXT1
+Reactome_2016	Rho GTPase cycle Homo sapiens R-HSA-194840	1/122	2.547554e-01	5.923730e-01	0	0	3.487076e+00	4.768407e+00	SRGAP3
+Reactome_2016	Cell-Cell communication Homo sapiens R-HSA-1500931	1/131	2.707991e-01	5.923730e-01	0	0	3.244190e+00	4.238139e+00	MAGI2
+Reactome_2016	Translation Homo sapiens R-HSA-72766	1/151	3.052505e-01	6.079651e-01	0	0	2.808794e+00	3.332978e+00	SRP54
+Reactome_2016	Apoptosis Homo sapiens R-HSA-109581	1/163	3.251509e-01	6.079651e-01	0	0	2.599159e+00	2.920067e+00	DFFB
+Reactome_2016	Programmed Cell Death Homo sapiens R-HSA-5357801	1/166	3.300382e-01	6.079651e-01	0	0	2.551515e+00	2.828474e+00	DFFB
+Reactome_2016	G alpha (i) signalling events Homo sapiens R-HSA-418594	1/240	4.401962e-01	7.703433e-01	0	0	1.754919e+00	1.439972e+00	HTR1E
+Reactome_2016	Metabolism of carbohydrates Homo sapiens R-HSA-71387	1/282	4.946092e-01	8.243487e-01	0	0	1.489437e+00	1.048545e+00	EXT1
+Reactome_2016	Class A/1 (Rhodopsin-like receptors) Homo sapiens R-HSA-373076	1/323	5.427174e-01	8.376719e-01	0	0	1.297079e+00	7.927316e-01	HTR1E
+Reactome_2016	Signaling by ERBB4 Homo sapiens R-HSA-1236394	1/330	5.504701e-01	8.376719e-01	0	0	1.269029e+00	7.575885e-01	WWOX
+Reactome_2016	Signaling by Rho GTPases Homo sapiens R-HSA-194315	1/367	5.893589e-01	8.594817e-01	0	0	1.138589e+00	6.019945e-01	SRGAP3
+Reactome_2016	Membrane Trafficking Homo sapiens R-HSA-199991	1/420	6.393849e-01	8.918584e-01	0	0	9.918753e-01	4.436150e-01	TBC1D1
+Reactome_2016	GPCR ligand binding Homo sapiens R-HSA-500792	1/447	6.625234e-01	8.918584e-01	0	0	9.305410e-01	3.831032e-01	HTR1E
+Reactome_2016	Vesicle-mediated transport Homo sapiens R-HSA-5653656	1/492	6.978973e-01	8.931852e-01	0	0	8.433072e-01	3.033236e-01	TBC1D1
+Reactome_2016	Axon guidance Homo sapiens R-HSA-422475	1/515	7.145481e-01	8.931852e-01	0	0	8.046196e-01	2.704366e-01	SRGAP3
+Reactome_2016	Developmental Biology Homo sapiens R-HSA-1266738	1/786	8.543823e-01	9.919193e-01	0	0	5.195013e-01	8.175728e-02	SRGAP3
+Reactome_2016	GPCR downstream signaling Homo sapiens R-HSA-388396	1/983	9.112608e-01	9.919193e-01	0	0	4.110153e-01	3.819406e-02	HTR1E
+Reactome_2016	Metabolism of proteins Homo sapiens R-HSA-392499	1/1074	9.295304e-01	9.919193e-01	0	0	3.743531e-01	2.735613e-02	SRP54
+Reactome_2016	Signal Transduction Homo sapiens R-HSA-162582	3/2465	9.457836e-01	9.919193e-01	0	0	4.735987e-01	2.639910e-02	WWOX;HTR1E;SRGAP3
+Reactome_2016	Signaling by GPCR Homo sapiens R-HSA-372790	1/1293	9.597206e-01	9.919193e-01	0	0	3.072920e-01	1.263371e-02	HTR1E
+Reactome_2016	Gene Expression Homo sapiens R-HSA-74160	1/1631	9.832297e-01	9.919193e-01	0	0	2.391594e-01	4.044777e-03	SRP54
+Reactome_2016	Metabolism Homo sapiens R-HSA-1430728	1/1908	9.919193e-01	9.919193e-01	0	0	2.013299e-01	1.633499e-03	EXT1

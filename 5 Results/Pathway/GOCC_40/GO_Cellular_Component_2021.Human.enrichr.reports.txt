@@ -1,0 +1,22 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Cellular_Component_2021	endoplasmic reticulum-Golgi intermediate compartment membrane (GO:0033116)	1/49	7.781903e-02	2.755545e-01	0	0	1.296810e+01	3.311234e+01	LMAN1
+GO_Cellular_Component_2021	ER to Golgi transport vesicle membrane (GO:0012507)	1/54	8.542127e-02	2.755545e-01	0	0	1.174175e+01	2.888657e+01	LMAN1
+GO_Cellular_Component_2021	coated vesicle membrane (GO:0030662)	1/55	8.693441e-02	2.755545e-01	0	0	1.152373e+01	2.814787e+01	LMAN1
+GO_Cellular_Component_2021	transport vesicle membrane (GO:0030658)	1/60	9.446375e-02	2.755545e-01	0	0	1.054449e+01	2.488014e+01	LMAN1
+GO_Cellular_Component_2021	glutamatergic synapse (GO:0098978)	1/69	1.078651e-01	2.755545e-01	0	0	9.144761e+00	2.036423e+01	PTPRD
+GO_Cellular_Component_2021	COPII-coated ER to Golgi transport vesicle (GO:0030134)	1/79	1.225300e-01	2.755545e-01	0	0	7.968349e+00	1.672875e+01	LMAN1
+GO_Cellular_Component_2021	clathrin-coated vesicle (GO:0030136)	1/80	1.239836e-01	2.755545e-01	0	0	7.867089e+00	1.642338e+01	CEMIP
+GO_Cellular_Component_2021	collagen-containing extracellular matrix (GO:0062023)	2/380	1.295401e-01	2.755545e-01	0	0	3.343403e+00	6.833130e+00	LMAN1;COL6A5
+GO_Cellular_Component_2021	coated vesicle (GO:0030135)	1/84	1.297745e-01	2.755545e-01	0	0	7.486446e+00	1.528700e+01	LMAN1
+GO_Cellular_Component_2021	clathrin-coated endocytic vesicle (GO:0045334)	1/85	1.312165e-01	2.755545e-01	0	0	7.396949e+00	1.502252e+01	CEMIP
+GO_Cellular_Component_2021	endocytic vesicle (GO:0030139)	1/189	2.691772e-01	5.138838e-01	0	0	3.287733e+00	4.314772e+00	CEMIP
+GO_Cellular_Component_2021	focal adhesion (GO:0005925)	1/387	4.755101e-01	7.780618e-01	0	0	1.585249e+00	1.178422e+00	PTK2
+GO_Cellular_Component_2021	cell-substrate junction (GO:0030055)	1/394	4.816573e-01	7.780618e-01	0	0	1.556457e+00	1.137027e+00	PTK2
+GO_Cellular_Component_2021	Golgi membrane (GO:0000139)	1/472	5.455986e-01	8.183978e-01	0	0	1.293524e+00	7.837100e-01	LMAN1
+GO_Cellular_Component_2021	cytoskeleton (GO:0005856)	1/600	6.343099e-01	8.880338e-01	0	0	1.010434e+00	4.599674e-01	PTK2
+GO_Cellular_Component_2021	endoplasmic reticulum membrane (GO:0005789)	1/712	6.979594e-01	8.957655e-01	0	0	8.463432e-01	3.043402e-01	LMAN1
+GO_Cellular_Component_2021	bounding membrane of organelle (GO:0098588)	1/767	7.251435e-01	8.957655e-01	0	0	7.833306e-01	2.517512e-01	LMAN1
+GO_Cellular_Component_2021	intracellular non-membrane-bounded organelle (GO:0043232)	1/1158	8.605240e-01	9.846619e-01	0	0	5.080488e-01	7.631595e-02	PTK2
+GO_Cellular_Component_2021	integral component of plasma membrane (GO:0005887)	1/1454	9.173246e-01	9.846619e-01	0	0	3.981848e-01	3.436092e-02	PTPRD
+GO_Cellular_Component_2021	nucleus (GO:0005634)	4/4484	9.572654e-01	9.846619e-01	0	0	4.768165e-01	2.082475e-02	MYT1L;ARID5B;TOX;PTK2
+GO_Cellular_Component_2021	intracellular membrane-bounded organelle (GO:0043231)	4/5192	9.846619e-01	9.846619e-01	0	0	3.929227e-01	6.073400e-03	MYT1L;ARID5B;TOX;PTK2

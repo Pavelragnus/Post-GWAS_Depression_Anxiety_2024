@@ -1,0 +1,41 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Cellular_Component_2021	filtration diaphragm (GO:0036056)	1/5	1.861160e-02	2.972362e-01	0	0	6.730068e+01	2.681239e+02	MAGI2
+GO_Cellular_Component_2021	slit diaphragm (GO:0036057)	1/5	1.861160e-02	2.972362e-01	0	0	6.730068e+01	2.681239e+02	MAGI2
+GO_Cellular_Component_2021	signal recognition particle, endoplasmic reticulum targeting (GO:0005786)	1/6	2.229271e-02	2.972362e-01	0	0	5.383784e+01	2.047720e+02	SRP54
+GO_Cellular_Component_2021	integral component of postsynaptic density membrane (GO:0099061)	1/11	4.049492e-02	3.239593e-01	0	0	2.691216e+01	8.629597e+01	LRFN2
+GO_Cellular_Component_2021	intrinsic component of postsynaptic density membrane (GO:0099146)	1/11	4.049492e-02	3.239593e-01	0	0	2.691216e+01	8.629597e+01	LRFN2
+GO_Cellular_Component_2021	integral component of postsynaptic specialization membrane (GO:0099060)	1/15	5.481560e-02	3.654374e-01	0	0	1.921911e+01	5.580808e+01	LRFN2
+GO_Cellular_Component_2021	Cul2-RING ubiquitin ligase complex (GO:0031462)	1/19	6.892536e-02	3.938592e-01	0	0	1.494520e+01	3.997438e+01	ZSWIM6
+GO_Cellular_Component_2021	sperm flagellum (GO:0036126)	1/52	1.776721e-01	6.443933e-01	0	0	5.266031e+00	9.098730e+00	RSPH6A
+GO_Cellular_Component_2021	9+2 motile cilium (GO:0097729)	1/57	1.930166e-01	6.443933e-01	0	0	4.794643e+00	7.887087e+00	RSPH6A
+GO_Cellular_Component_2021	microvillus (GO:0005902)	1/57	1.930166e-01	6.443933e-01	0	0	4.794643e+00	7.887087e+00	WWOX
+GO_Cellular_Component_2021	caveola (GO:0005901)	1/60	2.020874e-01	6.443933e-01	0	0	4.550160e+00	7.275957e+00	MYOF
+GO_Cellular_Component_2021	glutamatergic synapse (GO:0098978)	1/69	2.287003e-01	6.443933e-01	0	0	3.946145e+00	5.821916e+00	PTPRD
+GO_Cellular_Component_2021	bicellular tight junction (GO:0005923)	1/78	2.544371e-01	6.443933e-01	0	0	3.483327e+00	4.767635e+00	MAGI2
+GO_Cellular_Component_2021	plasma membrane raft (GO:0044853)	1/82	2.656019e-01	6.443933e-01	0	0	3.310644e+00	4.389108e+00	MYOF
+GO_Cellular_Component_2021	actin-based cell projection (GO:0098858)	1/83	2.683673e-01	6.443933e-01	0	0	3.270105e+00	4.301493e+00	WWOX
+GO_Cellular_Component_2021	dendrite (GO:0030425)	2/270	2.688635e-01	6.443933e-01	0	0	2.009507e+00	2.639591e+00	HTR1E;MAGI2
+GO_Cellular_Component_2021	tight junction (GO:0070160)	1/85	2.738671e-01	6.443933e-01	0	0	3.191924e+00	4.133900e+00	MAGI2
+GO_Cellular_Component_2021	apical junction complex (GO:0043296)	1/98	3.086351e-01	6.858558e-01	0	0	2.762329e+00	3.247382e+00	MAGI2
+GO_Cellular_Component_2021	neuron projection (GO:0043005)	3/556	3.466542e-01	7.209753e-01	0	0	1.459614e+00	1.546356e+00	HTR1E;MAGI2;STMN4
+GO_Cellular_Component_2021	intrinsic component of endoplasmic reticulum membrane (GO:0031227)	1/121	3.661696e-01	7.209753e-01	0	0	2.230293e+00	2.240683e+00	EXT1
+GO_Cellular_Component_2021	asymmetric synapse (GO:0032279)	1/133	3.942851e-01	7.209753e-01	0	0	2.026310e+00	1.885848e+00	MAGI2
+GO_Cellular_Component_2021	postsynaptic density (GO:0014069)	1/138	4.056334e-01	7.209753e-01	0	0	1.951864e+00	1.761178e+00	MAGI2
+GO_Cellular_Component_2021	integral component of endoplasmic reticulum membrane (GO:0030176)	1/142	4.145608e-01	7.209753e-01	0	0	1.896109e+00	1.669591e+00	EXT1
+GO_Cellular_Component_2021	cullin-RING ubiquitin ligase complex (GO:0031461)	1/157	4.468756e-01	7.447927e-01	0	0	1.712491e+00	1.379369e+00	ZSWIM6
+GO_Cellular_Component_2021	late endosome (GO:0005770)	1/189	5.100469e-01	7.896309e-01	0	0	1.418703e+00	9.551456e-01	MAGI2
+GO_Cellular_Component_2021	nucleolus (GO:0005730)	3/733	5.219521e-01	7.896309e-01	0	0	1.095605e+00	7.123400e-01	DFFB;RNF213;SRP54
+GO_Cellular_Component_2021	nuclear lumen (GO:0031981)	3/745	5.330008e-01	7.896309e-01	0	0	1.077212e+00	6.778169e-01	DFFB;RNF213;SRP54
+GO_Cellular_Component_2021	integral component of organelle membrane (GO:0031301)	1/214	5.543971e-01	7.919958e-01	0	0	1.250603e+00	7.376982e-01	EXT1
+GO_Cellular_Component_2021	intracellular non-membrane-bounded organelle (GO:0043232)	4/1158	6.379968e-01	8.549889e-01	0	0	9.163961e-01	4.118485e-01	FHOD3;DFFB;RNF213;SRP54
+GO_Cellular_Component_2021	cell-cell junction (GO:0005911)	1/271	6.412416e-01	8.549889e-01	0	0	9.837337e-01	4.371210e-01	MAGI2
+GO_Cellular_Component_2021	mitochondrial inner membrane (GO:0005743)	1/328	7.113423e-01	9.131630e-01	0	0	8.099016e-01	2.758538e-01	EFHD1
+GO_Cellular_Component_2021	organelle inner membrane (GO:0019866)	1/346	7.305304e-01	9.131630e-01	0	0	7.669409e-01	2.408075e-01	EFHD1
+GO_Cellular_Component_2021	mitochondrial membrane (GO:0031966)	1/469	8.318725e-01	9.809435e-01	0	0	5.618214e-01	1.034179e-01	EFHD1
+GO_Cellular_Component_2021	Golgi membrane (GO:0000139)	1/472	8.338020e-01	9.809435e-01	0	0	5.581569e-01	1.014502e-01	EXT1
+GO_Cellular_Component_2021	cytoskeleton (GO:0005856)	1/600	8.986047e-01	9.937529e-01	0	0	4.359969e-01	4.661332e-02	FHOD3
+GO_Cellular_Component_2021	endoplasmic reticulum membrane (GO:0005789)	1/712	9.343748e-01	9.937529e-01	0	0	3.651880e-01	2.478810e-02	EXT1
+GO_Cellular_Component_2021	bounding membrane of organelle (GO:0098588)	1/767	9.470480e-01	9.937529e-01	0	0	3.379966e-01	1.838888e-02	EXT1
+GO_Cellular_Component_2021	integral component of plasma membrane (GO:0005887)	2/1454	9.762372e-01	9.937529e-01	0	0	3.485603e-01	8.382763e-03	PTPRD;HTR1E
+GO_Cellular_Component_2021	nucleus (GO:0005634)	10/4484	9.835450e-01	9.937529e-01	0	0	5.313091e-01	8.815413e-03	WWOX;DFFB;CAMK1D;MECOM;MAGI2;MACROD1;SRP54;TOX;PRDM10;DLGAP5
+GO_Cellular_Component_2021	intracellular membrane-bounded organelle (GO:0043231)	11/5192	9.937529e-01	9.937529e-01	0	0	4.891189e-01	3.065176e-03	WWOX;DFFB;CAMK1D;MECOM;MYOF;MAGI2;MACROD1;SRP54;TOX;PRDM10;DLGAP5

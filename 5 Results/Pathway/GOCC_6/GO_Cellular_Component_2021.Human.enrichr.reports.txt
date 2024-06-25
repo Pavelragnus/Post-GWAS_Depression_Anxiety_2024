@@ -1,0 +1,28 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Cellular_Component_2021	hemidesmosome (GO:0030056)	1/7	1.184114e-02	2.441562e-01	0	0	1.008081e+02	4.472024e+02	ERBIN
+GO_Cellular_Component_2021	RISC complex (GO:0016442)	1/13	2.188232e-02	2.441562e-01	0	0	5.038889e+01	1.925902e+02	LIMD1
+GO_Cellular_Component_2021	basolateral plasma membrane (GO:0016323)	2/151	2.712847e-02	2.441562e-01	0	0	8.312500e+00	2.998461e+01	SLC13A3;ERBIN
+GO_Cellular_Component_2021	autophagosome membrane (GO:0000421)	1/22	3.675867e-02	2.481210e-01	0	0	2.878066e+01	9.507350e+01	ATG16L1
+GO_Cellular_Component_2021	vacuolar membrane (GO:0005774)	1/45	7.378530e-02	2.779580e-01	0	0	1.372039e+01	3.576350e+01	ATG16L1
+GO_Cellular_Component_2021	basement membrane (GO:0005604)	1/52	8.477743e-02	2.779580e-01	0	0	1.183304e+01	2.920069e+01	ERBIN
+GO_Cellular_Component_2021	autophagosome (GO:0005776)	1/69	1.109481e-01	2.779580e-01	0	0	8.867201e+00	1.949625e+01	ATG16L1
+GO_Cellular_Component_2021	glutamatergic synapse (GO:0098978)	1/69	1.109481e-01	2.779580e-01	0	0	8.867201e+00	1.949625e+01	PTPRD
+GO_Cellular_Component_2021	tertiary granule membrane (GO:0070821)	1/73	1.169995e-01	2.779580e-01	0	0	8.372896e+00	1.796476e+01	PTPRB
+GO_Cellular_Component_2021	voltage-gated potassium channel complex (GO:0008076)	1/73	1.169995e-01	2.779580e-01	0	0	8.372896e+00	1.796476e+01	KCND3
+GO_Cellular_Component_2021	P-body (GO:0000932)	1/80	1.274934e-01	2.779580e-01	0	0	7.628308e+00	1.571195e+01	LIMD1
+GO_Cellular_Component_2021	potassium channel complex (GO:0034705)	1/80	1.274934e-01	2.779580e-01	0	0	7.628308e+00	1.571195e+01	KCND3
+GO_Cellular_Component_2021	specific granule membrane (GO:0035579)	1/91	1.437398e-01	2.779580e-01	0	0	6.692256e+00	1.298131e+01	PTPRB
+GO_Cellular_Component_2021	cell-substrate junction (GO:0030055)	2/394	1.441264e-01	2.779580e-01	0	0	3.120855e+00	6.045297e+00	ERBIN;LIMD1
+GO_Cellular_Component_2021	adherens junction (GO:0005912)	1/132	2.017471e-01	3.298765e-01	0	0	4.588249e+00	7.344595e+00	LIMD1
+GO_Cellular_Component_2021	asymmetric synapse (GO:0032279)	1/133	2.031132e-01	3.298765e-01	0	0	4.553260e+00	7.257860e+00	KCND3
+GO_Cellular_Component_2021	postsynaptic density (GO:0014069)	1/138	2.099094e-01	3.298765e-01	0	0	4.385977e+00	6.846857e+00	KCND3
+GO_Cellular_Component_2021	integral component of plasma membrane (GO:0005887)	4/1454	2.318640e-01	3.298765e-01	0	0	1.702621e+00	2.488558e+00	PTPRD;PTPRB;KCND3;ADORA1
+GO_Cellular_Component_2021	specific granule (GO:0042581)	1/160	2.391505e-01	3.298765e-01	0	0	3.774919e+00	5.400634e+00	PTPRB
+GO_Cellular_Component_2021	tertiary granule (GO:0070820)	1/164	2.443530e-01	3.298765e-01	0	0	3.681539e+00	5.187810e+00	PTPRB
+GO_Cellular_Component_2021	axon (GO:0030424)	1/204	2.945148e-01	3.786619e-01	0	0	2.950142e+00	3.606330e+00	NFIB
+GO_Cellular_Component_2021	cell-cell junction (GO:0005911)	1/271	3.713839e-01	4.397812e-01	0	0	2.210550e+00	2.189592e+00	LIMD1
+GO_Cellular_Component_2021	secretory granule membrane (GO:0030667)	1/274	3.746284e-01	4.397812e-01	0	0	2.185925e+00	2.146186e+00	PTPRB
+GO_Cellular_Component_2021	collagen-containing extracellular matrix (GO:0062023)	1/380	4.793923e-01	5.245298e-01	0	0	1.566083e+00	1.151441e+00	ERBIN
+GO_Cellular_Component_2021	focal adhesion (GO:0005925)	1/387	4.856757e-01	5.245298e-01	0	0	1.537133e+00	1.110139e+00	LIMD1
+GO_Cellular_Component_2021	nucleus (GO:0005634)	6/4484	8.063541e-01	8.373677e-01	0	0	7.411472e-01	1.595188e-01	HDAC4;NFIB;ANKRD11;ERBIN;MTUS2;LIMD1
+GO_Cellular_Component_2021	intracellular membrane-bounded organelle (GO:0043231)	6/5192	9.084735e-01	9.084735e-01	0	0	6.107102e-01	5.862179e-02	HDAC4;NFIB;ANKRD11;ERBIN;MTUS2;LIMD1

@@ -1,0 +1,11 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Molecular_Function_2021	mannose binding (GO:0005537)	1/15	1.490050e-02	5.295446e-02	0	0	7.506015e+01	3.157300e+02	LMAN1
+GO_Molecular_Function_2021	transmembrane receptor protein tyrosine phosphatase activity (GO:0005001)	1/16	1.588634e-02	5.295446e-02	0	0	7.005263e+01	2.901787e+02	PTPRD
+GO_Molecular_Function_2021	transmembrane receptor protein phosphatase activity (GO:0019198)	1/16	1.588634e-02	5.295446e-02	0	0	7.005263e+01	2.901787e+02	PTPRD
+GO_Molecular_Function_2021	mannosyltransferase activity (GO:0000030)	1/22	2.178169e-02	5.445423e-02	0	0	5.002256e+01	1.914206e+02	TMTC1
+GO_Molecular_Function_2021	protein tyrosine phosphatase activity (GO:0004725)	1/74	7.148825e-02	1.429765e-01	0	0	1.435256e+01	3.786524e+01	PTPRD
+GO_Molecular_Function_2021	hexosyltransferase activity (GO:0016758)	1/119	1.125579e-01	1.875964e-01	0	0	8.859054e+00	1.935073e+01	TMTC1
+GO_Molecular_Function_2021	DNA-binding transcription repressor activity, RNA polymerase II-specific (GO:0001227)	1/256	2.272311e-01	3.246158e-01	0	0	4.071207e+00	6.032666e+00	MYT1L
+GO_Molecular_Function_2021	RNA polymerase II cis-regulatory region sequence-specific DNA binding (GO:0000978)	1/1149	6.939182e-01	7.553839e-01	0	0	8.633780e-01	3.154794e-01	MYT1L
+GO_Molecular_Function_2021	cis-regulatory region sequence-specific DNA binding (GO:0000987)	1/1149	6.939182e-01	7.553839e-01	0	0	8.633780e-01	3.154794e-01	MYT1L
+GO_Molecular_Function_2021	RNA polymerase II transcription regulatory region sequence-specific DNA binding (GO:0000977)	1/1359	7.553839e-01	7.553839e-01	0	0	7.217270e-01	2.024654e-01	MYT1L

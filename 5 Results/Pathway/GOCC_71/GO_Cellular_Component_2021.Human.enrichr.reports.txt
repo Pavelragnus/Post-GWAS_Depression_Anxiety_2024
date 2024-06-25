@@ -1,0 +1,18 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Cellular_Component_2021	autophagosome (GO:0005776)	1/69	7.964025e-02	5.509111e-01	0	0	1.272890e+01	3.220712e+01	TBC1D5
+GO_Cellular_Component_2021	clathrin-coated vesicle (GO:0030136)	1/80	9.176093e-02	5.509111e-01	0	0	1.095047e+01	2.615594e+01	CEMIP
+GO_Cellular_Component_2021	clathrin-coated endocytic vesicle (GO:0045334)	1/85	9.721961e-02	5.509111e-01	0	0	1.029607e+01	2.399789e+01	CEMIP
+GO_Cellular_Component_2021	endocytic vesicle (GO:0030139)	1/189	2.038834e-01	5.870427e-01	0	0	4.576318e+00	7.277293e+00	CEMIP
+GO_Cellular_Component_2021	lytic vacuole membrane (GO:0098852)	1/267	2.758409e-01	5.870427e-01	0	0	3.221641e+00	4.149252e+00	ITFG2
+GO_Cellular_Component_2021	endosome membrane (GO:0010008)	1/325	3.252620e-01	5.870427e-01	0	0	2.637144e+00	2.961841e+00	TBC1D5
+GO_Cellular_Component_2021	lysosomal membrane (GO:0005765)	1/330	3.293677e-01	5.870427e-01	0	0	2.596405e+00	2.883517e+00	ITFG2
+GO_Cellular_Component_2021	collagen-containing extracellular matrix (GO:0062023)	1/380	3.691292e-01	5.870427e-01	0	0	2.248136e+00	2.240511e+00	COL6A5
+GO_Cellular_Component_2021	cytoplasmic vesicle membrane (GO:0030659)	1/380	3.691292e-01	5.870427e-01	0	0	2.248136e+00	2.240511e+00	TBC1D5
+GO_Cellular_Component_2021	focal adhesion (GO:0005925)	1/387	3.745122e-01	5.870427e-01	0	0	2.206578e+00	2.167148e+00	PTK2
+GO_Cellular_Component_2021	cell-substrate junction (GO:0030055)	1/394	3.798512e-01	5.870427e-01	0	0	2.166501e+00	2.097120e+00	PTK2
+GO_Cellular_Component_2021	lysosome (GO:0005764)	1/477	4.399184e-01	6.232177e-01	0	0	1.781147e+00	1.462618e+00	ITFG2
+GO_Cellular_Component_2021	cytoskeleton (GO:0005856)	1/600	5.187877e-01	6.784147e-01	0	0	1.406475e+00	9.230138e-01	PTK2
+GO_Cellular_Component_2021	bounding membrane of organelle (GO:0098588)	1/767	6.090056e-01	7.395068e-01	0	0	1.090362e+00	5.407409e-01	TBC1D5
+GO_Cellular_Component_2021	intracellular non-membrane-bounded organelle (GO:0043232)	1/1158	7.612402e-01	8.627389e-01	0	0	7.071888e-01	1.929256e-01	PTK2
+GO_Cellular_Component_2021	intracellular membrane-bounded organelle (GO:0043231)	3/5192	9.681463e-01	9.821158e-01	0	0	4.070974e-01	1.317859e-02	TBC1D5;ARID5B;PTK2
+GO_Cellular_Component_2021	nucleus (GO:0005634)	2/4484	9.821158e-01	9.821158e-01	0	0	3.142672e-01	5.671275e-03	ARID5B;PTK2

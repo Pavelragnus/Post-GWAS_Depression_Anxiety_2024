@@ -1,0 +1,19 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+KEGG_2021_Human	Regulation of lipolysis in adipocytes	1/55	8.441251e-02	3.776460e-01	0	0	1.189606e+01	2.940753e+01	ADORA1
+KEGG_2021_Human	Renin secretion	1/69	1.047717e-01	3.776460e-01	0	0	9.440228e+00	2.129689e+01	ADORA1
+KEGG_2021_Human	ErbB signaling pathway	1/85	1.275024e-01	3.776460e-01	0	0	7.635945e+00	1.572715e+01	NRG1
+KEGG_2021_Human	Morphine addiction	1/91	1.358814e-01	3.776460e-01	0	0	7.124731e+00	1.422077e+01	ADORA1
+KEGG_2021_Human	Sphingolipid signaling pathway	1/119	1.739639e-01	3.776460e-01	0	0	5.426463e+00	9.490381e+00	ADORA1
+KEGG_2021_Human	Purine metabolism	1/129	1.871667e-01	3.776460e-01	0	0	5.000000e+00	8.378779e+00	GDA
+KEGG_2021_Human	Apelin signaling pathway	1/137	1.975814e-01	3.776460e-01	0	0	4.703985e+00	7.628003e+00	HDAC4
+KEGG_2021_Human	cGMP-PKG signaling pathway	1/167	2.354977e-01	3.776460e-01	0	0	3.848037e+00	5.564470e+00	ADORA1
+KEGG_2021_Human	NOD-like receptor signaling pathway	1/181	2.525923e-01	3.776460e-01	0	0	3.546237e+00	4.879545e+00	ERBIN
+KEGG_2021_Human	Axon guidance	1/182	2.537991e-01	3.776460e-01	0	0	3.526466e+00	4.835533e+00	SLIT3
+KEGG_2021_Human	Alcoholism	1/186	2.586073e-01	3.776460e-01	0	0	3.449520e+00	4.665285e+00	HDAC4
+KEGG_2021_Human	Neutrophil extracellular trap formation	1/189	2.621938e-01	3.776460e-01	0	0	3.393960e+00	4.543397e+00	HDAC4
+KEGG_2021_Human	Viral carcinogenesis	1/203	2.787096e-01	3.776460e-01	0	0	3.156500e+00	4.032696e+00	HDAC4
+KEGG_2021_Human	cAMP signaling pathway	1/216	2.937247e-01	3.776460e-01	0	0	2.963691e+00	3.630855e+00	ADORA1
+KEGG_2021_Human	MicroRNAs in cancer	1/310	3.936356e-01	4.708455e-01	0	0	2.052302e+00	1.913422e+00	HDAC4
+KEGG_2021_Human	Neuroactive ligand-receptor interaction	1/341	4.234737e-01	4.708455e-01	0	0	1.862239e+00	1.600155e+00	ADORA1
+KEGG_2021_Human	Amyotrophic lateral sclerosis	1/364	4.446874e-01	4.708455e-01	0	0	1.742202e+00	1.411852e+00	NRG1
+KEGG_2021_Human	Herpes simplex virus 1 infection	1/498	5.540374e-01	5.540374e-01	0	0	1.263776e+00	7.462889e-01	ZNF248

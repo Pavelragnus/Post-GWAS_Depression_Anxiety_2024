@@ -1,0 +1,20 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Cellular_Component_2021	collagen type IV trimer (GO:0005587)	2/6	4.971747e-05	9.446319e-04	0	0	2.851286e+02	2.825383e+03	COL4A2;COL4A4
+GO_Cellular_Component_2021	basement membrane (GO:0005604)	2/52	4.166004e-03	3.270888e-02	0	0	2.275771e+01	1.247304e+02	COL4A4;ERBIN
+GO_Cellular_Component_2021	collagen-containing extracellular matrix (GO:0062023)	4/380	5.164559e-03	3.270888e-02	0	0	6.314313e+00	3.325077e+01	COL24A1;COL4A2;COL4A4;ERBIN
+GO_Cellular_Component_2021	hemidesmosome (GO:0030056)	1/7	1.288015e-02	5.914554e-02	0	0	9.239352e+01	4.021029e+02	ERBIN
+GO_Cellular_Component_2021	endoplasmic reticulum lumen (GO:0005788)	3/285	1.556462e-02	5.914554e-02	0	0	6.158010e+00	2.563429e+01	COL24A1;COL4A2;COL4A4
+GO_Cellular_Component_2021	basolateral plasma membrane (GO:0016323)	2/151	3.173784e-02	1.005032e-01	0	0	7.598849e+00	2.621790e+01	SLC13A3;ERBIN
+GO_Cellular_Component_2021	glutamatergic synapse (GO:0098978)	1/69	1.201341e-01	3.046912e-01	0	0	8.127042e+00	1.722240e+01	PTPRD
+GO_Cellular_Component_2021	clathrin-coated vesicle (GO:0030136)	1/80	1.379399e-01	3.046912e-01	0	0	6.991561e+00	1.384984e+01	NUMB
+GO_Cellular_Component_2021	coated vesicle (GO:0030135)	1/84	1.443274e-01	3.046912e-01	0	0	6.653280e+00	1.287856e+01	NUMB
+GO_Cellular_Component_2021	cell-substrate junction (GO:0030055)	2/394	1.648455e-01	3.132064e-01	0	0	2.852915e+00	5.143084e+00	ERBIN;NUMB
+GO_Cellular_Component_2021	intracellular organelle lumen (GO:0070013)	3/848	2.060253e-01	3.304042e-01	0	0	1.996310e+00	3.153684e+00	COL24A1;COL4A2;COL4A4
+GO_Cellular_Component_2021	mitochondrial outer membrane (GO:0005741)	1/126	2.086763e-01	3.304042e-01	0	0	4.408444e+00	6.907904e+00	FAM210B
+GO_Cellular_Component_2021	organelle outer membrane (GO:0031968)	1/142	2.319303e-01	3.389751e-01	0	0	3.905043e+00	5.706511e+00	FAM210B
+GO_Cellular_Component_2021	integral component of plasma membrane (GO:0005887)	4/1454	2.808573e-01	3.811634e-01	0	0	1.547586e+00	1.965293e+00	PTPRD;ADORA1;SEMA3E;NRCAM
+GO_Cellular_Component_2021	focal adhesion (GO:0005925)	1/387	5.150085e-01	6.523441e-01	0	0	1.408823e+00	9.348551e-01	NUMB
+GO_Cellular_Component_2021	mitochondrial membrane (GO:0031966)	1/469	5.847123e-01	6.943459e-01	0	0	1.157111e+00	6.209464e-01	FAM210B
+GO_Cellular_Component_2021	neuron projection (GO:0043005)	1/556	6.479983e-01	7.242334e-01	0	0	9.713714e-01	4.214462e-01	NRCAM
+GO_Cellular_Component_2021	intracellular membrane-bounded organelle (GO:0043231)	4/5192	9.936580e-01	9.944204e-01	0	0	3.452022e-01	2.196260e-03	HDAC4;SLC4A1AP;ANKRD11;ERBIN
+GO_Cellular_Component_2021	nucleus (GO:0005634)	3/4484	9.944204e-01	9.944204e-01	0	0	3.048558e-01	1.705745e-03	HDAC4;ANKRD11;ERBIN

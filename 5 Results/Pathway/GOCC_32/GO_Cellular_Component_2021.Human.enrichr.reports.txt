@@ -1,0 +1,15 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Cellular_Component_2021	endoplasmic reticulum-Golgi intermediate compartment membrane (GO:0033116)	1/49	4.789811e-02	1.615359e-01	0	0	2.185526e+01	6.641113e+01	LMAN1
+GO_Cellular_Component_2021	ER to Golgi transport vesicle membrane (GO:0012507)	1/54	5.266122e-02	1.615359e-01	0	0	1.978848e+01	5.825483e+01	LMAN1
+GO_Cellular_Component_2021	coated vesicle membrane (GO:0030662)	1/55	5.361112e-02	1.615359e-01	0	0	1.942105e+01	5.682598e+01	LMAN1
+GO_Cellular_Component_2021	transport vesicle membrane (GO:0030658)	1/60	5.834707e-02	1.615359e-01	0	0	1.777074e+01	5.049282e+01	LMAN1
+GO_Cellular_Component_2021	glutamatergic synapse (GO:0098978)	1/69	6.681510e-02	1.615359e-01	0	0	1.541176e+01	4.170156e+01	PTPRD
+GO_Cellular_Component_2021	COPII-coated ER to Golgi transport vesicle (GO:0030134)	1/79	7.613916e-02	1.615359e-01	0	0	1.342915e+01	3.458265e+01	LMAN1
+GO_Cellular_Component_2021	coated vesicle (GO:0030135)	1/84	8.076794e-02	1.615359e-01	0	0	1.261699e+01	3.174657e+01	LMAN1
+GO_Cellular_Component_2021	collagen-containing extracellular matrix (GO:0062023)	1/380	3.187594e-01	5.578290e-01	0	0	2.721983e+00	3.112094e+00	LMAN1
+GO_Cellular_Component_2021	Golgi membrane (GO:0000139)	1/472	3.799081e-01	5.909682e-01	0	0	2.180020e+00	2.109880e+00	LMAN1
+GO_Cellular_Component_2021	endoplasmic reticulum membrane (GO:0005789)	1/712	5.158363e-01	6.907419e-01	0	0	1.426382e+00	9.442165e-01	LMAN1
+GO_Cellular_Component_2021	bounding membrane of organelle (GO:0098588)	1/767	5.427257e-01	6.907419e-01	0	0	1.320187e+00	8.068337e-01	LMAN1
+GO_Cellular_Component_2021	integral component of plasma membrane (GO:0005887)	1/1454	7.791571e-01	9.090166e-01	0	0	6.710979e-01	1.674675e-01	PTPRD
+GO_Cellular_Component_2021	nucleus (GO:0005634)	2/4484	9.577822e-01	9.804035e-01	0	0	3.842035e-01	1.657255e-02	MYT1L;TOX
+GO_Cellular_Component_2021	intracellular membrane-bounded organelle (GO:0043231)	2/5192	9.804035e-01	9.804035e-01	0	0	3.166346e-01	6.266547e-03	MYT1L;TOX

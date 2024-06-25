@@ -1,0 +1,159 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+Reactome_2016	Assembly of collagen fibrils and other multimeric structures Homo sapiens R-HSA-2022090	2/54	1.073777e-02	4.018708e-01	0	0	1.366071e+01	6.193751e+01	COL24A1;COL6A5
+Reactome_2016	Collagen biosynthesis and modifying enzymes Homo sapiens R-HSA-1650814	2/63	1.441303e-02	4.018708e-01	0	0	1.163993e+01	4.934891e+01	COL24A1;COL6A5
+Reactome_2016	GRB7 events in ERBB2 signaling Homo sapiens R-HSA-1306955	1/5	1.441745e-02	4.018708e-01	0	0	8.744737e+01	3.707170e+02	NRG1
+Reactome_2016	Cyclin B2 mediated events Homo sapiens R-HSA-157881	1/5	1.441745e-02	4.018708e-01	0	0	8.744737e+01	3.707170e+02	CDC25A
+Reactome_2016	Collagen formation Homo sapiens R-HSA-1474290	2/85	2.530027e-02	4.018708e-01	0	0	8.545181e+00	3.142012e+01	COL24A1;COL6A5
+Reactome_2016	E2F-enabled inhibition of pre-replication complex formation Homo sapiens R-HSA-113507	1/10	2.863064e-02	4.018708e-01	0	0	3.885575e+01	1.380653e+02	CDC25A
+Reactome_2016	Synthesis of PIPs at the late endosome membrane Homo sapiens R-HSA-1660517	1/10	2.863064e-02	4.018708e-01	0	0	3.885575e+01	1.380653e+02	VAC14
+Reactome_2016	ERBB2 Activates PTK6 Signaling Homo sapiens R-HSA-8847993	1/13	3.706166e-02	4.018708e-01	0	0	2.913743e+01	9.601284e+01	NRG1
+Reactome_2016	Downregulation of ERBB2:ERBB3 signaling Homo sapiens R-HSA-1358803	1/13	3.706166e-02	4.018708e-01	0	0	2.913743e+01	9.601284e+01	NRG1
+Reactome_2016	Synthesis of PIPs at the early endosome membrane Homo sapiens R-HSA-1660516	1/14	3.985599e-02	4.018708e-01	0	0	2.689474e+01	8.666782e+01	VAC14
+Reactome_2016	NCAM signaling for neurite out-growth Homo sapiens R-HSA-375165	3/266	4.201964e-02	4.018708e-01	0	0	4.081369e+00	1.293638e+01	NRG1;COL6A5;FRS3
+Reactome_2016	ERBB2 Regulates Cell Motility Homo sapiens R-HSA-6785631	1/15	4.264235e-02	4.018708e-01	0	0	2.497243e+01	7.878570e+01	NRG1
+Reactome_2016	PI3K events in ERBB2 signaling Homo sapiens R-HSA-1963642	1/16	4.542077e-02	4.018708e-01	0	0	2.330643e+01	7.205850e+01	NRG1
+Reactome_2016	GRB2 events in ERBB2 signaling Homo sapiens R-HSA-1963640	1/16	4.542077e-02	4.018708e-01	0	0	2.330643e+01	7.205850e+01	NRG1
+Reactome_2016	Polo-like kinase mediated events Homo sapiens R-HSA-156711	1/16	4.542077e-02	4.018708e-01	0	0	2.330643e+01	7.205850e+01	CDC25A
+Reactome_2016	G1/S-Specific Transcription Homo sapiens R-HSA-69205	1/17	4.819126e-02	4.018708e-01	0	0	2.184868e+01	6.625783e+01	CDC25A
+Reactome_2016	Synthesis of PIPs at the Golgi membrane Homo sapiens R-HSA-1660514	1/18	5.095384e-02	4.018708e-01	0	0	2.056244e+01	6.121098e+01	VAC14
+Reactome_2016	SHC1 events in ERBB2 signaling Homo sapiens R-HSA-1250196	1/18	5.095384e-02	4.018708e-01	0	0	2.056244e+01	6.121098e+01	NRG1
+Reactome_2016	Cyclin A/B1 associated events during G2/M transition Homo sapiens R-HSA-69273	1/22	6.192561e-02	4.018708e-01	0	0	1.664244e+01	4.629630e+01	CDC25A
+Reactome_2016	SHC-mediated cascade:FGFR4 Homo sapiens R-HSA-5654719	1/23	6.464902e-02	4.018708e-01	0	0	1.588517e+01	4.350602e+01	FRS3
+Reactome_2016	RNA Polymerase III Transcription Termination Homo sapiens R-HSA-73980	1/23	6.464902e-02	4.018708e-01	0	0	1.588517e+01	4.350602e+01	NFIB
+Reactome_2016	TNFs bind their physiological receptors Homo sapiens R-HSA-5669034	1/24	6.736465e-02	4.018708e-01	0	0	1.519375e+01	4.098718e+01	EDAR
+Reactome_2016	G0 and Early G1 Homo sapiens R-HSA-1538133	1/25	7.007254e-02	4.018708e-01	0	0	1.455994e+01	3.870359e+01	CDC25A
+Reactome_2016	SHC-mediated cascade:FGFR2 Homo sapiens R-HSA-5654699	1/26	7.277270e-02	4.018708e-01	0	0	1.397684e+01	3.662512e+01	FRS3
+Reactome_2016	Phase 1 - inactivation of fast Na+ channels Homo sapiens R-HSA-5576894	1/27	7.546515e-02	4.018708e-01	0	0	1.343860e+01	3.472647e+01	KCND3
+Reactome_2016	Signaling by PDGF Homo sapiens R-HSA-186797	3/364	8.884222e-02	4.018708e-01	0	0	2.958600e+00	7.162455e+00	NRG1;COL6A5;FRS3
+Reactome_2016	E2F mediated regulation of DNA replication Homo sapiens R-HSA-113510	1/33	9.145927e-02	4.018708e-01	0	0	1.091557e+01	2.610853e+01	CDC25A
+Reactome_2016	Generation of second messenger molecules Homo sapiens R-HSA-202433	1/35	9.672997e-02	4.018708e-01	0	0	1.027245e+01	2.399471e+01	ITK
+Reactome_2016	Activation of ATR in response to replication stress Homo sapiens R-HSA-176187	1/37	1.019706e-01	4.018708e-01	0	0	9.700780e+00	2.214756e+01	CDC25A
+Reactome_2016	NCAM1 interactions Homo sapiens R-HSA-419037	1/37	1.019706e-01	4.018708e-01	0	0	9.700780e+00	2.214756e+01	COL6A5
+Reactome_2016	Fc epsilon receptor (FCERI) signaling Homo sapiens R-HSA-2454202	3/395	1.068536e-01	4.018708e-01	0	0	2.720315e+00	6.083429e+00	ITK;NRG1;FRS3
+Reactome_2016	Nuclear signaling by ERBB4 Homo sapiens R-HSA-1251985	1/39	1.071814e-01	4.018708e-01	0	0	9.189289e+00	2.052182e+01	NRG1
+Reactome_2016	PKMTs methylate histone lysines Homo sapiens R-HSA-3214841	1/40	1.097756e-01	4.018708e-01	0	0	8.953216e+00	1.978049e+01	ATF7IP
+Reactome_2016	RNA Polymerase III Abortive And Retractive Initiation Homo sapiens R-HSA-749476	1/41	1.123624e-01	4.018708e-01	0	0	8.728947e+00	1.908170e+01	NFIB
+Reactome_2016	RNA Polymerase III Transcription Homo sapiens R-HSA-74158	1/41	1.123624e-01	4.018708e-01	0	0	8.728947e+00	1.908170e+01	NFIB
+Reactome_2016	Voltage gated Potassium channels Homo sapiens R-HSA-1296072	1/43	1.175139e-01	4.018708e-01	0	0	8.312448e+00	1.779860e+01	KCND3
+Reactome_2016	Signaling by ERBB2 Homo sapiens R-HSA-1227986	1/45	1.226360e-01	4.018708e-01	0	0	7.933812e+00	1.664938e+01	NRG1
+Reactome_2016	p53-Independent DNA Damage Response Homo sapiens R-HSA-69610	1/52	1.403344e-01	4.018708e-01	0	0	6.842449e+00	1.343670e+01	CDC25A
+Reactome_2016	p53-Independent G1/S DNA damage checkpoint Homo sapiens R-HSA-69613	1/52	1.403344e-01	4.018708e-01	0	0	6.842449e+00	1.343670e+01	CDC25A
+Reactome_2016	Ubiquitin Mediated Degradation of Phosphorylated Cdc25A Homo sapiens R-HSA-69601	1/52	1.403344e-01	4.018708e-01	0	0	6.842449e+00	1.343670e+01	CDC25A
+Reactome_2016	GRB2 events in EGFR signaling Homo sapiens R-HSA-179812	2/235	1.485770e-01	4.018708e-01	0	0	3.020999e+00	5.759994e+00	NRG1;FRS3
+Reactome_2016	SHC1 events in EGFR signaling Homo sapiens R-HSA-180336	2/235	1.485770e-01	4.018708e-01	0	0	3.020999e+00	5.759994e+00	NRG1;FRS3
+Reactome_2016	SOS-mediated signalling Homo sapiens R-HSA-112412	2/235	1.485770e-01	4.018708e-01	0	0	3.020999e+00	5.759994e+00	NRG1;FRS3
+Reactome_2016	SHC1 events in ERBB4 signaling Homo sapiens R-HSA-1250347	2/235	1.485770e-01	4.018708e-01	0	0	3.020999e+00	5.759994e+00	NRG1;FRS3
+Reactome_2016	RAF/MAP kinase cascade Homo sapiens R-HSA-5673001	2/235	1.485770e-01	4.018708e-01	0	0	3.020999e+00	5.759994e+00	NRG1;FRS3
+Reactome_2016	FRS-mediated FGFR2 signaling Homo sapiens R-HSA-5654700	2/236	1.495809e-01	4.018708e-01	0	0	3.007937e+00	5.714833e+00	NRG1;FRS3
+Reactome_2016	FRS-mediated FGFR4 signaling Homo sapiens R-HSA-5654712	2/236	1.495809e-01	4.018708e-01	0	0	3.007937e+00	5.714833e+00	NRG1;FRS3
+Reactome_2016	FRS-mediated FGFR3 signaling Homo sapiens R-HSA-5654706	2/236	1.495809e-01	4.018708e-01	0	0	3.007937e+00	5.714833e+00	NRG1;FRS3
+Reactome_2016	FRS-mediated FGFR1 signaling Homo sapiens R-HSA-5654693	2/236	1.495809e-01	4.018708e-01	0	0	3.007937e+00	5.714833e+00	NRG1;FRS3
+Reactome_2016	ARMS-mediated activation Homo sapiens R-HSA-170984	2/239	1.526009e-01	4.018708e-01	0	0	2.969409e+00	5.582279e+00	NRG1;FRS3
+Reactome_2016	Signalling to p38 via RIT and RIN Homo sapiens R-HSA-187706	2/239	1.526009e-01	4.018708e-01	0	0	2.969409e+00	5.582279e+00	NRG1;FRS3
+Reactome_2016	Frs2-mediated activation Homo sapiens R-HSA-170968	2/240	1.536104e-01	4.018708e-01	0	0	2.956783e+00	5.539048e+00	NRG1;FRS3
+Reactome_2016	MAPK1/MAPK3 signaling Homo sapiens R-HSA-5684996	2/241	1.546211e-01	4.018708e-01	0	0	2.944262e+00	5.496281e+00	NRG1;FRS3
+Reactome_2016	Prolonged ERK activation events Homo sapiens R-HSA-169893	2/242	1.556333e-01	4.018708e-01	0	0	2.931845e+00	5.453974e+00	NRG1;FRS3
+Reactome_2016	Signaling by Leptin Homo sapiens R-HSA-2586552	2/243	1.566467e-01	4.018708e-01	0	0	2.919532e+00	5.412118e+00	NRG1;FRS3
+Reactome_2016	Interleukin receptor SHC signaling Homo sapiens R-HSA-912526	2/245	1.586775e-01	4.018708e-01	0	0	2.895209e+00	5.329736e+00	NRG1;FRS3
+Reactome_2016	Signalling to RAS Homo sapiens R-HSA-167044	2/246	1.596948e-01	4.018708e-01	0	0	2.883197e+00	5.289198e+00	NRG1;FRS3
+Reactome_2016	PI Metabolism Homo sapiens R-HSA-1483255	1/60	1.601317e-01	4.018708e-01	0	0	5.912281e+00	1.082987e+01	VAC14
+Reactome_2016	VEGFR2 mediated cell proliferation Homo sapiens R-HSA-5218921	2/248	1.617332e-01	4.018708e-01	0	0	2.859466e+00	5.209396e+00	NRG1;FRS3
+Reactome_2016	Constitutive Signaling by Aberrant PI3K in Cancer Homo sapiens R-HSA-2219530	1/61	1.625747e-01	4.018708e-01	0	0	5.813450e+00	1.056082e+01	NRG1
+Reactome_2016	FCERI mediated Ca+2 mobilization Homo sapiens R-HSA-2871809	1/62	1.650106e-01	4.018708e-01	0	0	5.717860e+00	1.030213e+01	ITK
+Reactome_2016	Interleukin-2 signaling Homo sapiens R-HSA-451927	2/252	1.658245e-01	4.018708e-01	0	0	2.813143e+00	5.054727e+00	NRG1;FRS3
+Reactome_2016	Signalling to ERKs Homo sapiens R-HSA-187687	2/253	1.668503e-01	4.018708e-01	0	0	2.801793e+00	5.017054e+00	NRG1;FRS3
+Reactome_2016	G1/S DNA Damage Checkpoints Homo sapiens R-HSA-69615	1/65	1.722768e-01	4.018708e-01	0	0	5.449013e+00	9.582922e+00	CDC25A
+Reactome_2016	O-linked glycosylation of mucins Homo sapiens R-HSA-913709	1/66	1.746850e-01	4.018708e-01	0	0	5.364912e+00	9.360542e+00	GALNTL6
+Reactome_2016	Interleukin-3, 5 and GM-CSF signaling Homo sapiens R-HSA-512988	2/261	1.750966e-01	4.018708e-01	0	0	2.714148e+00	4.729178e+00	NRG1;FRS3
+Reactome_2016	Macroautophagy Homo sapiens R-HSA-1632852	1/67	1.770864e-01	4.018708e-01	0	0	5.283360e+00	9.146118e+00	ATG16L1
+Reactome_2016	Signaling by PTK6 Homo sapiens R-HSA-8848021	1/67	1.770864e-01	4.018708e-01	0	0	5.283360e+00	9.146118e+00	NRG1
+Reactome_2016	Cyclin E associated events during G1/S transition Homo sapiens R-HSA-69202	1/68	1.794808e-01	4.018708e-01	0	0	5.204242e+00	8.939258e+00	CDC25A
+Reactome_2016	Cyclin A:Cdk2-associated events at S phase entry Homo sapiens R-HSA-69656	1/69	1.818685e-01	4.018708e-01	0	0	5.127451e+00	8.739595e+00	CDC25A
+Reactome_2016	Axon guidance Homo sapiens R-HSA-422475	3/515	1.876435e-01	4.018708e-01	0	0	2.069957e+00	3.463477e+00	NRG1;COL6A5;FRS3
+Reactome_2016	Extracellular matrix organization Homo sapiens R-HSA-1474244	2/283	1.980936e-01	4.018708e-01	0	0	2.498856e+00	4.045687e+00	COL24A1;COL6A5
+Reactome_2016	IRS-mediated signalling Homo sapiens R-HSA-112399	2/284	1.991484e-01	4.018708e-01	0	0	2.489868e+00	4.017913e+00	NRG1;FRS3
+Reactome_2016	MAPK family signaling cascades Homo sapiens R-HSA-5683057	2/284	1.991484e-01	4.018708e-01	0	0	2.489868e+00	4.017913e+00	NRG1;FRS3
+Reactome_2016	Insulin receptor signalling cascade Homo sapiens R-HSA-74751	2/287	2.023172e-01	4.018708e-01	0	0	2.463283e+00	3.936126e+00	NRG1;FRS3
+Reactome_2016	IGF1R signaling cascade Homo sapiens R-HSA-2428924	2/288	2.033748e-01	4.018708e-01	0	0	2.454545e+00	3.909366e+00	NRG1;FRS3
+Reactome_2016	Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R) Homo sapiens R-HSA-2404192	2/288	2.033748e-01	4.018708e-01	0	0	2.454545e+00	3.909366e+00	NRG1;FRS3
+Reactome_2016	IRS-related events triggered by IGF1R Homo sapiens R-HSA-2428928	2/288	2.033748e-01	4.018708e-01	0	0	2.454545e+00	3.909366e+00	NRG1;FRS3
+Reactome_2016	FCERI mediated MAPK activation Homo sapiens R-HSA-2871796	2/289	2.044331e-01	4.018708e-01	0	0	2.445869e+00	3.882852e+00	NRG1;FRS3
+Reactome_2016	PI5P, PP2A and IER3 Regulate PI3K/AKT Signaling Homo sapiens R-HSA-6811558	1/83	2.145868e-01	4.018708e-01	0	0	4.249037e+00	6.539442e+00	NRG1
+Reactome_2016	TP53 Regulates Metabolic Genes Homo sapiens R-HSA-5628897	1/84	2.168740e-01	4.018708e-01	0	0	4.197633e+00	6.415824e+00	LRPPRC
+Reactome_2016	PI3K/AKT Signaling in Cancer Homo sapiens R-HSA-2219528	1/86	2.214288e-01	4.018708e-01	0	0	4.098452e+00	6.179049e+00	NRG1
+Reactome_2016	Respiratory electron transport Homo sapiens R-HSA-611105	1/88	2.259575e-01	4.018708e-01	0	0	4.003831e+00	5.955333e+00	LRPPRC
+Reactome_2016	Signaling by Insulin receptor Homo sapiens R-HSA-74752	2/311	2.278604e-01	4.018708e-01	0	0	2.269186e+00	3.356177e+00	NRG1;FRS3
+Reactome_2016	Negative regulation of the PI3K/AKT network Homo sapiens R-HSA-199418	1/90	2.304603e-01	4.018708e-01	0	0	3.913463e+00	5.743699e+00	NRG1
+Reactome_2016	VEGFA-VEGFR2 Pathway Homo sapiens R-HSA-4420097	2/320	2.375069e-01	4.018708e-01	0	0	2.203953e+00	3.168312e+00	NRG1;FRS3
+Reactome_2016	TNFR2 non-canonical NF-kB pathway Homo sapiens R-HSA-5668541	1/95	2.416051e-01	4.018708e-01	0	0	3.704367e+00	5.261872e+00	EDAR
+Reactome_2016	Signaling by SCF-KIT Homo sapiens R-HSA-1433557	2/325	2.428771e-01	4.018708e-01	0	0	2.169284e+00	3.069970e+00	NRG1;FRS3
+Reactome_2016	Signaling by VEGF Homo sapiens R-HSA-194138	2/328	2.461022e-01	4.018708e-01	0	0	2.148992e+00	3.012905e+00	NRG1;FRS3
+Reactome_2016	Downstream signaling of activated FGFR2 Homo sapiens R-HSA-5654696	2/329	2.471777e-01	4.018708e-01	0	0	2.142311e+00	2.994196e+00	NRG1;FRS3
+Reactome_2016	Downstream signaling of activated FGFR4 Homo sapiens R-HSA-5654716	2/329	2.471777e-01	4.018708e-01	0	0	2.142311e+00	2.994196e+00	NRG1;FRS3
+Reactome_2016	Downstream signaling of activated FGFR3 Homo sapiens R-HSA-5654708	2/329	2.471777e-01	4.018708e-01	0	0	2.142311e+00	2.994196e+00	NRG1;FRS3
+Reactome_2016	Signaling by ERBB4 Homo sapiens R-HSA-1236394	2/330	2.482535e-01	4.018708e-01	0	0	2.135671e+00	2.975641e+00	NRG1;FRS3
+Reactome_2016	Signaling by FGFR4 Homo sapiens R-HSA-5654743	2/332	2.504055e-01	4.018708e-01	0	0	2.122511e+00	2.938985e+00	NRG1;FRS3
+Reactome_2016	Downstream signaling of activated FGFR1 Homo sapiens R-HSA-5654687	2/332	2.504055e-01	4.018708e-01	0	0	2.122511e+00	2.938985e+00	NRG1;FRS3
+Reactome_2016	Potassium Channels Homo sapiens R-HSA-1296071	1/99	2.504065e-01	4.018708e-01	0	0	3.552453e+00	4.918973e+00	KCND3
+Reactome_2016	Signaling by FGFR3 Homo sapiens R-HSA-5654741	2/333	2.514818e-01	4.018708e-01	0	0	2.115991e+00	2.920881e+00	NRG1;FRS3
+Reactome_2016	Signaling by FGFR1 Homo sapiens R-HSA-5654736	2/336	2.547116e-01	4.018708e-01	0	0	2.096664e+00	2.867447e+00	NRG1;FRS3
+Reactome_2016	Downstream signal transduction Homo sapiens R-HSA-186763	2/341	2.600972e-01	4.018708e-01	0	0	2.065213e+00	2.781222e+00	NRG1;FRS3
+Reactome_2016	DAP12 signaling Homo sapiens R-HSA-2424491	2/344	2.633298e-01	4.018708e-01	0	0	2.046784e+00	2.731122e+00	NRG1;FRS3
+Reactome_2016	Cytokine Signaling in Immune system Homo sapiens R-HSA-1280215	3/620	2.678675e-01	4.018708e-01	0	0	1.708413e+00	2.250429e+00	EDAR;NRG1;FRS3
+Reactome_2016	Respiratory electron transport, ATP synthesis by chemiosmotic coupling, and heat production by uncoupling proteins. Homo sapiens R-HSA-163200	1/109	2.719734e-01	4.018708e-01	0	0	3.221897e+00	4.195075e+00	LRPPRC
+Reactome_2016	O-linked glycosylation Homo sapiens R-HSA-5173105	1/110	2.740962e-01	4.018708e-01	0	0	3.192178e+00	4.131559e+00	GALNTL6
+Reactome_2016	Signaling by EGFR Homo sapiens R-HSA-177929	2/355	2.751855e-01	4.018708e-01	0	0	1.981890e+00	2.557252e+00	NRG1;FRS3
+Reactome_2016	G1/S Transition Homo sapiens R-HSA-69206	1/112	2.783236e-01	4.018708e-01	0	0	3.134345e+00	4.008735e+00	CDC25A
+Reactome_2016	DAP12 interactions Homo sapiens R-HSA-2172127	2/359	2.794961e-01	4.018708e-01	0	0	1.959284e+00	2.497630e+00	NRG1;FRS3
+Reactome_2016	Signaling by FGFR2 Homo sapiens R-HSA-5654738	2/361	2.816511e-01	4.018708e-01	0	0	1.948170e+00	2.468499e+00	NRG1;FRS3
+Reactome_2016	RNA Polymerase I, RNA Polymerase III, and Mitochondrial Transcription Homo sapiens R-HSA-504046	1/116	2.867061e-01	4.018708e-01	0	0	3.024714e+00	3.778768e+00	NFIB
+Reactome_2016	Signaling by FGFR Homo sapiens R-HSA-190236	2/366	2.870368e-01	4.018708e-01	0	0	1.920918e+00	2.397585e+00	NRG1;FRS3
+Reactome_2016	TCR signaling Homo sapiens R-HSA-202403	1/118	2.908614e-01	4.018708e-01	0	0	2.972710e+00	3.671024e+00	ITK
+Reactome_2016	NGF signalling via TRKA from the plasma membrane Homo sapiens R-HSA-187037	2/374	2.956467e-01	4.018708e-01	0	0	1.878840e+00	2.289536e+00	NRG1;FRS3
+Reactome_2016	PI-3K cascade:FGFR1 Homo sapiens R-HSA-5654689	1/122	2.991007e-01	4.018708e-01	0	0	2.873858e+00	3.468675e+00	NRG1
+Reactome_2016	PI-3K cascade:FGFR3 Homo sapiens R-HSA-5654710	1/122	2.991007e-01	4.018708e-01	0	0	2.873858e+00	3.468675e+00	NRG1
+Reactome_2016	PI3K events in ERBB4 signaling Homo sapiens R-HSA-1250342	1/122	2.991007e-01	4.018708e-01	0	0	2.873858e+00	3.468675e+00	NRG1
+Reactome_2016	PIP3 activates AKT signaling Homo sapiens R-HSA-1257604	1/122	2.991007e-01	4.018708e-01	0	0	2.873858e+00	3.468675e+00	NRG1
+Reactome_2016	PI-3K cascade:FGFR4 Homo sapiens R-HSA-5654720	1/122	2.991007e-01	4.018708e-01	0	0	2.873858e+00	3.468675e+00	NRG1
+Reactome_2016	PI-3K cascade:FGFR2 Homo sapiens R-HSA-5654695	1/122	2.991007e-01	4.018708e-01	0	0	2.873858e+00	3.468675e+00	NRG1
+Reactome_2016	S Phase Homo sapiens R-HSA-69242	1/124	3.031850e-01	4.018708e-01	0	0	2.826844e+00	3.373590e+00	CDC25A
+Reactome_2016	GAB1 signalosome Homo sapiens R-HSA-180292	1/125	3.052183e-01	4.018708e-01	0	0	2.803905e+00	3.327472e+00	NRG1
+Reactome_2016	PI3K/AKT activation Homo sapiens R-HSA-198203	1/125	3.052183e-01	4.018708e-01	0	0	2.803905e+00	3.327472e+00	NRG1
+Reactome_2016	Signaling by Interleukins Homo sapiens R-HSA-449147	2/392	3.149679e-01	4.112804e-01	0	0	1.790476e+00	2.068509e+00	NRG1;FRS3
+Reactome_2016	Cardiac conduction Homo sapiens R-HSA-5576891	1/135	3.252340e-01	4.203109e-01	0	0	2.593349e+00	2.912877e+00	KCND3
+Reactome_2016	Mitotic G1-G1/S phases Homo sapiens R-HSA-453279	1/136	3.272041e-01	4.203109e-01	0	0	2.574009e+00	2.875609e+00	CDC25A
+Reactome_2016	G2/M Checkpoints Homo sapiens R-HSA-69481	1/150	3.541993e-01	4.512329e-01	0	0	2.330507e+00	2.418823e+00	CDC25A
+Reactome_2016	Gastrin-CREB signalling pathway via PKC and MAPK Homo sapiens R-HSA-881907	2/432	3.574689e-01	4.512329e-01	0	0	1.620598e+00	1.667121e+00	NRG1;FRS3
+Reactome_2016	The citric acid (TCA) cycle and respiratory electron transport Homo sapiens R-HSA-1428517	1/153	3.598440e-01	4.512329e-01	0	0	2.284164e+00	2.334610e+00	LRPPRC
+Reactome_2016	Phospholipid metabolism Homo sapiens R-HSA-1483257	1/161	3.746605e-01	4.611257e-01	0	0	2.169079e+00	2.129461e+00	VAC14
+Reactome_2016	Signalling by NGF Homo sapiens R-HSA-166520	2/450	3.763159e-01	4.611257e-01	0	0	1.554050e+00	1.518814e+00	NRG1;FRS3
+Reactome_2016	Role of LAT2/NTAL/LAB on calcium mobilization Homo sapiens R-HSA-2730905	1/162	3.764887e-01	4.611257e-01	0	0	2.155497e+00	2.105635e+00	NRG1
+Reactome_2016	Adaptive Immune System Homo sapiens R-HSA-1280218	3/762	3.810513e-01	4.631239e-01	0	0	1.378584e+00	1.330087e+00	ITK;NRG1;RNF220
+Reactome_2016	G2/M Transition Homo sapiens R-HSA-69275	1/173	3.962554e-01	4.752554e-01	0	0	2.016524e+00	1.866689e+00	CDC25A
+Reactome_2016	Mitotic G2-G2/M phases Homo sapiens R-HSA-453274	1/175	3.997826e-01	4.752554e-01	0	0	1.993144e+00	1.827383e+00	CDC25A
+Reactome_2016	Developmental Biology Homo sapiens R-HSA-1266738	3/786	4.000567e-01	4.752554e-01	0	0	1.334657e+00	1.222744e+00	NRG1;COL6A5;FRS3
+Reactome_2016	Cell Cycle Checkpoints Homo sapiens R-HSA-69620	1/182	4.119690e-01	4.857545e-01	0	0	1.915382e+00	1.698575e+00	CDC25A
+Reactome_2016	Innate Immune System Homo sapiens R-HSA-168249	3/807	4.165690e-01	4.875400e-01	0	0	1.298372e+00	1.136988e+00	ITK;NRG1;FRS3
+Reactome_2016	Downstream signaling events of B Cell Receptor (BCR) Homo sapiens R-HSA-1168372	1/192	4.289574e-01	4.983476e-01	0	0	1.814182e+00	1.535519e+00	NRG1
+Reactome_2016	Muscle contraction Homo sapiens R-HSA-397014	1/196	4.356169e-01	5.023903e-01	0	0	1.776608e+00	1.476347e+00	KCND3
+Reactome_2016	Immune System Homo sapiens R-HSA-168256	5/1547	4.691095e-01	5.370964e-01	0	0	1.125713e+00	8.520734e-01	EDAR;ITK;NRG1;FRS3;RNF220
+Reactome_2016	Chromatin organization Homo sapiens R-HSA-4839726	1/226	4.831881e-01	5.453123e-01	0	0	1.537388e+00	1.118218e+00	ATF7IP
+Reactome_2016	Chromatin modifying enzymes Homo sapiens R-HSA-3247509	1/226	4.831881e-01	5.453123e-01	0	0	1.537388e+00	1.118218e+00	ATF7IP
+Reactome_2016	Signaling by the B Cell Receptor (BCR) Homo sapiens R-HSA-983705	1/233	4.937079e-01	5.532330e-01	0	0	1.490472e+00	1.051992e+00	NRG1
+Reactome_2016	Antigen processing: Ubiquitination & Proteasome degradation Homo sapiens R-HSA-983168	1/260	5.323490e-01	5.923320e-01	0	0	1.333266e+00	8.405652e-01	RNF220
+Reactome_2016	Diseases of signal transduction Homo sapiens R-HSA-5663202	1/288	5.693588e-01	6.290817e-01	0	0	1.201479e+00	6.767267e-01	NRG1
+Reactome_2016	Neuronal System Homo sapiens R-HSA-112316	1/301	5.855482e-01	6.424765e-01	0	0	1.148655e+00	6.147678e-01	KCND3
+Reactome_2016	Class I MHC mediated antigen processing & presentation Homo sapiens R-HSA-983169	1/305	5.904082e-01	6.433413e-01	0	0	1.133310e+00	5.971878e-01	RNF220
+Reactome_2016	Transcriptional Regulation by TP53 Homo sapiens R-HSA-3700989	1/348	6.392418e-01	6.917822e-01	0	0	9.906972e-01	4.433098e-01	LRPPRC
+Reactome_2016	Cellular responses to stress Homo sapiens R-HSA-2262752	1/367	6.589518e-01	7.082611e-01	0	0	9.383568e-01	3.913932e-01	ATG16L1
+Reactome_2016	Generic Transcription Pathway Homo sapiens R-HSA-212436	2/812	6.882829e-01	7.347885e-01	0	0	8.435626e-01	3.151173e-01	ZNF678;LRPPRC
+Reactome_2016	Cell Cycle, Mitotic Homo sapiens R-HSA-69278	1/462	7.426894e-01	7.875499e-01	0	0	7.413708e-01	2.205410e-01	CDC25A
+Reactome_2016	Post-translational protein modification Homo sapiens R-HSA-597592	1/521	7.841428e-01	8.259637e-01	0	0	6.552632e-01	1.593365e-01	GALNTL6
+Reactome_2016	Cell Cycle Homo sapiens R-HSA-1640170	1/566	8.112778e-01	8.488867e-01	0	0	6.016768e-01	1.258375e-01	CDC25A
+Reactome_2016	Metabolism of lipids and lipoproteins Homo sapiens R-HSA-556833	1/659	8.571710e-01	8.904835e-01	0	0	5.141577e-01	7.924087e-02	VAC14
+Reactome_2016	Gene Expression Homo sapiens R-HSA-74160	3/1631	8.623037e-01	8.904835e-01	0	0	6.136029e-01	9.090391e-02	NFIB;ZNF678;LRPPRC
+Reactome_2016	Disease Homo sapiens R-HSA-1643685	1/725	8.828919e-01	9.058242e-01	0	0	4.656877e-01	5.800257e-02	NRG1
+Reactome_2016	Signaling by GPCR Homo sapiens R-HSA-372790	2/1293	8.965279e-01	9.138800e-01	0	0	5.159622e-01	5.635643e-02	NRG1;FRS3
+Reactome_2016	Metabolism of proteins Homo sapiens R-HSA-392499	1/1074	9.594817e-01	9.717828e-01	0	0	3.085136e-01	1.276074e-02	GALNTL6
+Reactome_2016	Metabolism Homo sapiens R-HSA-1430728	2/1908	9.789042e-01	9.797931e-01	0	0	3.379553e-01	7.205722e-03	VAC14;LRPPRC
+Reactome_2016	Signal Transduction Homo sapiens R-HSA-162582	3/2465	9.797931e-01	9.797931e-01	0	0	3.872683e-01	7.905646e-03	NRG1;COL6A5;FRS3

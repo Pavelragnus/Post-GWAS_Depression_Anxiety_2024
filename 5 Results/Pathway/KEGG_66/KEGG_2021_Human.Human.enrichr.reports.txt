@@ -1,0 +1,13 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+KEGG_2021_Human	Riboflavin metabolism	1/8	4.790703e-03	5.134346e-02	0	0	2.594935e+02	1.385975e+03	ENPP3
+KEGG_2021_Human	Pantothenate and CoA biosynthesis	1/21	1.253080e-02	5.134346e-02	0	0	9.076364e+01	3.975053e+02	ENPP3
+KEGG_2021_Human	Nicotinate and nicotinamide metabolism	1/35	2.080456e-02	5.134346e-02	0	0	5.335294e+01	2.066137e+02	ENPP3
+KEGG_2021_Human	Mucin type O-glycan biosynthesis	1/36	2.139311e-02	5.134346e-02	0	0	5.182597e+01	1.992546e+02	GALNTL6
+KEGG_2021_Human	Starch and sucrose metabolism	1/36	2.139311e-02	5.134346e-02	0	0	5.182597e+01	1.992546e+02	ENPP3
+KEGG_2021_Human	Other types of O-glycan biosynthesis	1/47	2.784573e-02	5.569147e-02	0	0	3.941107e+01	1.411340e+02	GALNTL6
+KEGG_2021_Human	Pyrimidine metabolism	1/56	3.309613e-02	5.673622e-02	0	0	3.294711e+01	1.122949e+02	ENPP3
+KEGG_2021_Human	Toll-like receptor signaling pathway	1/104	6.066188e-02	7.822261e-02	0	0	1.755075e+01	4.918492e+01	MAP3K8
+KEGG_2021_Human	T cell receptor signaling pathway	1/104	6.066188e-02	7.822261e-02	0	0	1.755075e+01	4.918492e+01	MAP3K8
+KEGG_2021_Human	TNF signaling pathway	1/112	6.518550e-02	7.822261e-02	0	0	1.627928e+01	4.445087e+01	MAP3K8
+KEGG_2021_Human	Purine metabolism	1/129	7.473197e-02	8.152578e-02	0	0	1.410511e+01	3.658651e+01	ENPP3
+KEGG_2021_Human	MAPK signaling pathway	1/294	1.628552e-01	1.628552e-01	0	0	6.110766e+00	1.109039e+01	MAP3K8

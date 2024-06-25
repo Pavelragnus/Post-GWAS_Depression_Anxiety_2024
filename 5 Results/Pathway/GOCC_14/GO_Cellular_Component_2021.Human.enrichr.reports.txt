@@ -1,0 +1,31 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Cellular_Component_2021	hemidesmosome (GO:0030056)	1/7	1.978303e-02	3.367790e-01	0	0	5.933631e+01	2.327722e+02	ERBIN
+GO_Cellular_Component_2021	clathrin coat of trans-Golgi network vesicle (GO:0030130)	1/9	2.536437e-02	3.367790e-01	0	0	4.449777e+01	1.635030e+02	NCALD
+GO_Cellular_Component_2021	clathrin vesicle coat (GO:0030125)	1/12	3.367790e-02	3.367790e-01	0	0	3.235714e+01	1.097203e+02	NCALD
+GO_Cellular_Component_2021	Cul2-RING ubiquitin ligase complex (GO:0031462)	1/19	5.280615e-02	3.960461e-01	0	0	1.976687e+01	5.813687e+01	ZSWIM6
+GO_Cellular_Component_2021	basolateral plasma membrane (GO:0016323)	2/151	6.903151e-02	4.141891e-01	0	0	4.830750e+00	1.291352e+01	SLC13A3;ERBIN
+GO_Cellular_Component_2021	basement membrane (GO:0005604)	1/52	1.380870e-01	6.904352e-01	0	0	6.964986e+00	1.378977e+01	ERBIN
+GO_Cellular_Component_2021	glutamatergic synapse (GO:0098978)	1/69	1.790280e-01	7.672629e-01	0	0	5.219275e+00	8.978265e+00	PTPRD
+GO_Cellular_Component_2021	lysosomal lumen (GO:0043202)	1/86	2.180568e-01	7.919379e-01	0	0	4.171849e+00	6.353724e+00	GPC5
+GO_Cellular_Component_2021	Golgi lumen (GO:0005796)	1/100	2.488245e-01	7.919379e-01	0	0	3.579365e+00	4.978923e+00	GPC5
+GO_Cellular_Component_2021	intrinsic component of endoplasmic reticulum membrane (GO:0031227)	1/121	2.927587e-01	7.919379e-01	0	0	2.949851e+00	3.623617e+00	EXT1
+GO_Cellular_Component_2021	cell-substrate junction (GO:0030055)	2/394	3.098380e-01	7.919379e-01	0	0	1.813636e+00	2.125048e+00	ERBIN;MAP4K4
+GO_Cellular_Component_2021	integral component of endoplasmic reticulum membrane (GO:0030176)	1/142	3.341657e-01	7.919379e-01	0	0	2.507852e+00	2.748903e+00	EXT1
+GO_Cellular_Component_2021	cullin-RING ubiquitin ligase complex (GO:0031461)	1/157	3.622744e-01	7.919379e-01	0	0	2.264995e+00	2.299771e+00	ZSWIM6
+GO_Cellular_Component_2021	vacuolar lumen (GO:0005775)	1/161	3.695710e-01	7.919379e-01	0	0	2.207924e+00	2.197795e+00	GPC5
+GO_Cellular_Component_2021	spindle (GO:0005819)	1/192	4.234063e-01	8.468126e-01	0	0	1.846672e+00	1.587072e+00	SPATA5
+GO_Cellular_Component_2021	integral component of organelle membrane (GO:0031301)	1/214	4.588452e-01	8.603348e-01	0	0	1.654091e+00	1.288607e+00	EXT1
+GO_Cellular_Component_2021	integral component of plasma membrane (GO:0005887)	4/1454	6.025700e-01	9.810783e-01	0	0	9.625504e-01	4.875814e-01	PTPRD;PTPRT;FCRL4;ADORA1
+GO_Cellular_Component_2021	microtubule cytoskeleton (GO:0015630)	1/331	6.142581e-01	9.810783e-01	0	0	1.061310e+00	5.172187e-01	SPATA5
+GO_Cellular_Component_2021	collagen-containing extracellular matrix (GO:0062023)	1/380	6.654492e-01	9.810783e-01	0	0	9.217867e-01	3.754372e-01	ERBIN
+GO_Cellular_Component_2021	focal adhesion (GO:0005925)	1/387	6.721948e-01	9.810783e-01	0	0	9.047465e-01	3.593718e-01	MAP4K4
+GO_Cellular_Component_2021	Golgi membrane (GO:0000139)	1/472	7.441736e-01	9.810783e-01	0	0	7.382469e-01	2.181379e-01	EXT1
+GO_Cellular_Component_2021	lysosome (GO:0005764)	1/477	7.478859e-01	9.810783e-01	0	0	7.303046e-01	2.121571e-01	GPC5
+GO_Cellular_Component_2021	intracellular non-membrane-bounded organelle (GO:0043232)	2/1158	8.500590e-01	9.810783e-01	0	0	5.909720e-01	9.600310e-02	DFFB;SPATA5
+GO_Cellular_Component_2021	endoplasmic reticulum membrane (GO:0005789)	1/712	8.737058e-01	9.810783e-01	0	0	4.830219e-01	6.521352e-02	EXT1
+GO_Cellular_Component_2021	nucleolus (GO:0005730)	1/733	8.813200e-01	9.810783e-01	0	0	4.686524e-01	5.920699e-02	DFFB
+GO_Cellular_Component_2021	nuclear lumen (GO:0031981)	1/745	8.854665e-01	9.810783e-01	0	0	4.608055e-01	5.605271e-02	DFFB
+GO_Cellular_Component_2021	bounding membrane of organelle (GO:0098588)	1/767	8.927019e-01	9.810783e-01	0	0	4.470580e-01	5.074222e-02	EXT1
+GO_Cellular_Component_2021	intracellular organelle lumen (GO:0070013)	1/848	9.156731e-01	9.810783e-01	0	0	4.025974e-01	3.546715e-02	GPC5
+GO_Cellular_Component_2021	nucleus (GO:0005634)	5/4484	9.981404e-01	9.997304e-01	0	0	3.319766e-01	6.179312e-04	HDAC4;DFFB;ANKRD11;ERBIN;GPATCH8
+GO_Cellular_Component_2021	intracellular membrane-bounded organelle (GO:0043231)	5/5192	9.997304e-01	9.997304e-01	0	0	2.735389e-01	7.375230e-05	HDAC4;DFFB;ANKRD11;ERBIN;GPATCH8

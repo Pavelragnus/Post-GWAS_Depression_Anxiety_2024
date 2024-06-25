@@ -1,0 +1,28 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+KEGG_2021_Human	TGF-beta signaling pathway	2/94	1.591120e-02	4.090155e-01	0	0	1.107414e+01	4.585503e+01	SMAD9;THSD4
+KEGG_2021_Human	Mannose type O-glycan biosynthesis	1/23	4.612645e-02	4.090155e-01	0	0	2.265568e+01	6.969723e+01	LARGE1
+KEGG_2021_Human	Mucin type O-glycan biosynthesis	1/36	7.127280e-02	4.090155e-01	0	0	1.423143e+01	3.758863e+01	GALNTL6
+KEGG_2021_Human	Shigellosis	2/246	9.040753e-02	4.090155e-01	0	0	4.143548e+00	9.958718e+00	ATG16L1;ACTR3B
+KEGG_2021_Human	Other types of O-glycan biosynthesis	1/47	9.204436e-02	4.090155e-01	0	0	1.082228e+01	2.581639e+01	GALNTL6
+KEGG_2021_Human	Adherens junction	1/71	1.358032e-01	4.090155e-01	0	0	7.103214e+00	1.418191e+01	PTPRB
+KEGG_2021_Human	Bacterial invasion of epithelial cells	1/77	1.464173e-01	4.090155e-01	0	0	6.540461e+00	1.256615e+01	ACTR3B
+KEGG_2021_Human	ErbB signaling pathway	1/85	1.603718e-01	4.090155e-01	0	0	5.915179e+00	1.082632e+01	NRG1
+KEGG_2021_Human	Fc gamma R-mediated phagocytosis	1/97	1.808871e-01	4.090155e-01	0	0	5.172656e+00	8.844633e+00	ACTR3B
+KEGG_2021_Human	Protein digestion and absorption	1/103	1.909605e-01	4.090155e-01	0	0	4.866912e+00	8.058089e+00	COL24A1
+KEGG_2021_Human	T cell receptor signaling pathway	1/104	1.926277e-01	4.090155e-01	0	0	4.819417e+00	7.937562e+00	ITK
+KEGG_2021_Human	Leukocyte transendothelial migration	1/114	2.091155e-01	4.090155e-01	0	0	4.390708e+00	6.870880e+00	ITK
+KEGG_2021_Human	Autophagy	1/137	2.458009e-01	4.090155e-01	0	0	3.643934e+00	5.113290e+00	ATG16L1
+KEGG_2021_Human	Yersinia infection	1/137	2.458009e-01	4.090155e-01	0	0	3.643934e+00	5.113290e+00	ACTR3B
+KEGG_2021_Human	Signaling pathways regulating pluripotency of stem cells	1/143	2.550946e-01	4.090155e-01	0	0	3.488908e+00	4.766270e+00	SMAD9
+KEGG_2021_Human	Spinocerebellar ataxia	1/143	2.550946e-01	4.090155e-01	0	0	3.488908e+00	4.766270e+00	KCND3
+KEGG_2021_Human	Tight junction	1/169	2.940926e-01	4.090155e-01	0	0	2.945089e+00	3.604379e+00	ACTR3B
+KEGG_2021_Human	NOD-like receptor signaling pathway	1/181	3.114129e-01	4.090155e-01	0	0	2.747083e+00	3.204846e+00	ATG16L1
+KEGG_2021_Human	Transcriptional misregulation in cancer	1/192	3.269251e-01	4.090155e-01	0	0	2.587435e+00	2.892815e+00	ETV6
+KEGG_2021_Human	Chemokine signaling pathway	1/192	3.269251e-01	4.090155e-01	0	0	2.587435e+00	2.892815e+00	ITK
+KEGG_2021_Human	Pathogenic Escherichia coli infection	1/197	3.338629e-01	4.090155e-01	0	0	2.520791e+00	2.765370e+00	ACTR3B
+KEGG_2021_Human	Viral carcinogenesis	1/203	3.420962e-01	4.090155e-01	0	0	2.445173e+00	2.622848e+00	VAC14
+KEGG_2021_Human	Regulation of actin cytoskeleton	1/218	3.622475e-01	4.090155e-01	0	0	2.274424e+00	2.309513e+00	ACTR3B
+KEGG_2021_Human	Human T-cell leukemia virus 1 infection	1/219	3.635693e-01	4.090155e-01	0	0	2.263876e+00	2.290557e+00	VAC14
+KEGG_2021_Human	Salmonella infection	1/249	4.020037e-01	4.213249e-01	0	0	1.986996e+00	1.810737e+00	ACTR3B
+KEGG_2021_Human	Endocytosis	1/252	4.057202e-01	4.213249e-01	0	0	1.962948e+00	1.770759e+00	ACTR3B
+KEGG_2021_Human	Amyotrophic lateral sclerosis	1/364	5.294408e-01	5.294408e-01	0	0	1.349587e+00	8.582480e-01	NRG1

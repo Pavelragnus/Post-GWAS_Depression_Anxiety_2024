@@ -1,0 +1,15 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+Reactome_2016	Signaling by Hippo Homo sapiens R-HSA-2028269	1/20	3.994245e-03	3.733433e-02	0	0	3.504737e+02	1.935631e+03	MOB1B
+Reactome_2016	Phase 1 - inactivation of fast Na+ channels Homo sapiens R-HSA-5576894	1/27	5.389408e-03	3.733433e-02	0	0	2.560256e+02	1.337304e+03	KCND3
+Reactome_2016	Voltage gated Potassium channels Homo sapiens R-HSA-1296072	1/43	8.572852e-03	3.733433e-02	0	0	1.583651e+02	7.536839e+02	KCND3
+Reactome_2016	O-linked glycosylation of mucins Homo sapiens R-HSA-913709	1/66	1.313566e-02	3.733433e-02	0	0	1.022103e+02	4.428182e+02	GALNTL6
+Reactome_2016	Macroautophagy Homo sapiens R-HSA-1632852	1/67	1.333369e-02	3.733433e-02	0	0	1.006566e+02	4.345808e+02	ATG16L1
+Reactome_2016	Potassium Channels Homo sapiens R-HSA-1296071	1/99	1.965478e-02	4.364126e-02	0	0	6.768027e+01	2.659452e+02	KCND3
+Reactome_2016	O-linked glycosylation Homo sapiens R-HSA-5173105	1/110	2.182063e-02	4.364126e-02	0	0	6.081651e+01	2.326170e+02	GALNTL6
+Reactome_2016	Cardiac conduction Homo sapiens R-HSA-5576891	1/135	2.672966e-02	4.677691e-02	0	0	4.940796e+01	1.789547e+02	KCND3
+Reactome_2016	Muscle contraction Homo sapiens R-HSA-397014	1/196	3.863016e-02	6.009136e-02	0	0	3.384786e+01	1.101315e+02	KCND3
+Reactome_2016	Neuronal System Homo sapiens R-HSA-112316	1/301	5.885863e-02	8.240208e-02	0	0	2.188444e+01	6.199024e+01	KCND3
+Reactome_2016	Cellular responses to stress Homo sapiens R-HSA-2262752	1/367	7.140920e-02	9.088444e-02	0	0	1.787796e+01	4.718581e+01	ATG16L1
+Reactome_2016	Post-translational protein modification Homo sapiens R-HSA-597592	1/521	1.002055e-01	1.169065e-01	0	0	1.248462e+01	2.872125e+01	GALNTL6
+Reactome_2016	Metabolism of proteins Homo sapiens R-HSA-392499	1/1074	1.981222e-01	2.133624e-01	0	0	5.878534e+00	9.516589e+00	GALNTL6
+Reactome_2016	Signal Transduction Homo sapiens R-HSA-162582	1/2465	4.091392e-01	4.091392e-01	0	0	2.371753e+00	2.119635e+00	MOB1B

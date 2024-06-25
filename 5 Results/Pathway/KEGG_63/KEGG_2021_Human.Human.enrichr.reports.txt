@@ -1,0 +1,20 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+KEGG_2021_Human	Riboflavin metabolism	1/8	2.140053e-02	3.289802e-01	0	0	5.374394e+01	2.066099e+02	ENPP3
+KEGG_2021_Human	Pantothenate and CoA biosynthesis	1/21	5.522159e-02	3.289802e-01	0	0	1.879811e+01	5.444688e+01	ENPP3
+KEGG_2021_Human	Nicotinate and nicotinamide metabolism	1/35	9.036158e-02	3.289802e-01	0	0	1.104994e+01	2.656336e+01	ENPP3
+KEGG_2021_Human	Mucin type O-glycan biosynthesis	1/36	9.282191e-02	3.289802e-01	0	0	1.073369e+01	2.551477e+01	GALNTL6
+KEGG_2021_Human	Starch and sucrose metabolism	1/36	9.282191e-02	3.289802e-01	0	0	1.073369e+01	2.551477e+01	ENPP3
+KEGG_2021_Human	Other types of O-glycan biosynthesis	1/47	1.194581e-01	3.289802e-01	0	0	8.162428e+00	1.734344e+01	GALNTL6
+KEGG_2021_Human	Pyrimidine metabolism	1/56	1.406791e-01	3.289802e-01	0	0	6.823671e+00	1.338308e+01	ENPP3
+KEGG_2021_Human	Lysine degradation	1/63	1.568366e-01	3.289802e-01	0	0	6.051126e+00	1.121002e+01	MECOM
+KEGG_2021_Human	Chronic myeloid leukemia	1/76	1.860561e-01	3.289802e-01	0	0	4.998994e+00	8.406844e+00	MECOM
+KEGG_2021_Human	MAPK signaling pathway	2/294	1.883140e-01	3.289802e-01	0	0	2.588778e+00	4.322339e+00	MECOM;MAP3K8
+KEGG_2021_Human	Synaptic vesicle cycle	1/78	1.904622e-01	3.289802e-01	0	0	4.868660e+00	8.073705e+00	CPLX4
+KEGG_2021_Human	Toll-like receptor signaling pathway	1/104	2.456559e-01	3.554126e-01	0	0	3.634915e+00	5.102779e+00	MAP3K8
+KEGG_2021_Human	T cell receptor signaling pathway	1/104	2.456559e-01	3.554126e-01	0	0	3.634915e+00	5.102779e+00	MAP3K8
+KEGG_2021_Human	TNF signaling pathway	1/112	2.618830e-01	3.554126e-01	0	0	3.371579e+00	4.517436e+00	MAP3K8
+KEGG_2021_Human	Purine metabolism	1/129	2.952363e-01	3.739660e-01	0	0	2.921285e+00	3.563907e+00	ENPP3
+KEGG_2021_Human	Protein processing in endoplasmic reticulum	1/171	3.714265e-01	4.358895e-01	0	0	2.194895e+00	2.173833e+00	LMAN1
+KEGG_2021_Human	Axon guidance	1/182	3.900064e-01	4.358895e-01	0	0	2.060357e+00	1.940015e+00	ROBO2
+KEGG_2021_Human	Salmonella infection	1/249	4.920755e-01	5.194130e-01	0	0	1.498631e+00	1.062714e+00	RHOJ
+KEGG_2021_Human	Pathways in cancer	1/531	7.666059e-01	7.666059e-01	0	0	6.912068e-01	1.837107e-01	MECOM

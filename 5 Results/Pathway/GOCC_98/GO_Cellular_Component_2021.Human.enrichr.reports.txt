@@ -1,0 +1,11 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Cellular_Component_2021	collagen-containing extracellular matrix (GO:0062023)	2/380	8.679955e-02	3.496210e-01	0	0	4.320106e+00	1.055900e+01	COL6A5;MATN2
+GO_Cellular_Component_2021	clathrin-coated vesicle (GO:0030136)	1/80	9.902117e-02	3.496210e-01	0	0	1.007342e+01	2.329399e+01	CEMIP
+GO_Cellular_Component_2021	clathrin-coated endocytic vesicle (GO:0045334)	1/85	1.048863e-01	3.496210e-01	0	0	9.471429e+00	2.135692e+01	CEMIP
+GO_Cellular_Component_2021	endocytic vesicle (GO:0030139)	1/189	2.188772e-01	5.471930e-01	0	0	4.209787e+00	6.395696e+00	CEMIP
+GO_Cellular_Component_2021	focal adhesion (GO:0005925)	1/387	3.985135e-01	6.734562e-01	0	0	2.029845e+00	1.867485e+00	PTK2
+GO_Cellular_Component_2021	cell-substrate junction (GO:0030055)	1/394	4.040737e-01	6.734562e-01	0	0	1.992977e+00	1.805952e+00	PTK2
+GO_Cellular_Component_2021	cytoskeleton (GO:0005856)	1/600	5.472616e-01	7.818023e-01	0	0	1.293823e+00	7.799532e-01	PTK2
+GO_Cellular_Component_2021	intracellular non-membrane-bounded organelle (GO:0043232)	1/1158	7.881199e-01	9.851499e-01	0	0	6.505445e-01	1.548979e-01	PTK2
+GO_Cellular_Component_2021	nucleus (GO:0005634)	2/4484	9.884580e-01	9.959300e-01	0	0	2.880411e-01	3.343909e-03	ARID5B;PTK2
+GO_Cellular_Component_2021	intracellular membrane-bounded organelle (GO:0043231)	2/5192	9.959300e-01	9.959300e-01	0	0	2.373796e-01	9.681053e-04	ARID5B;PTK2

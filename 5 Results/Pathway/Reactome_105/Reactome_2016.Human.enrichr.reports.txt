@@ -1,0 +1,46 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+Reactome_2016	Assembly of collagen fibrils and other multimeric structures Homo sapiens R-HSA-2022090	3/54	3.961397e-04	1.403201e-02	0	0	2.340706e+01	1.833649e+02	COL24A1;COL4A2;COL4A4
+Reactome_2016	Collagen biosynthesis and modifying enzymes Homo sapiens R-HSA-1650814	3/63	6.236449e-04	1.403201e-02	0	0	1.988700e+01	1.467647e+02	COL24A1;COL4A2;COL4A4
+Reactome_2016	Collagen formation Homo sapiens R-HSA-1474290	3/85	1.488782e-03	2.233173e-02	0	0	1.453537e+01	9.462228e+01	COL24A1;COL4A2;COL4A4
+Reactome_2016	Axon guidance Homo sapiens R-HSA-422475	6/515	2.331396e-03	2.622820e-02	0	0	4.875141e+00	2.954963e+01	COL4A2;COL4A4;NUMB;SLIT3;SEMA3E;NRCAM
+Reactome_2016	NCAM1 interactions Homo sapiens R-HSA-419037	2/37	4.324354e-03	3.891919e-02	0	0	2.231036e+01	1.214463e+02	COL4A2;COL4A4
+Reactome_2016	Integrin cell surface interactions Homo sapiens R-HSA-216083	2/67	1.364783e-02	9.202886e-02	0	0	1.199517e+01	5.150937e+01	COL4A2;COL4A4
+Reactome_2016	Developmental Biology Homo sapiens R-HSA-1266738	6/786	1.727066e-02	9.202886e-02	0	0	3.136989e+00	1.273224e+01	COL4A2;COL4A4;NUMB;SLIT3;SEMA3E;NRCAM
+Reactome_2016	Neurofascin interactions Homo sapiens R-HSA-447043	1/7	1.840577e-02	9.202886e-02	0	0	6.391346e+01	2.553401e+02	NRCAM
+Reactome_2016	NrCAM interactions Homo sapiens R-HSA-447038	1/7	1.840577e-02	9.202886e-02	0	0	6.391346e+01	2.553401e+02	NRCAM
+Reactome_2016	L1CAM interactions Homo sapiens R-HSA-373760	2/96	2.681106e-02	1.206498e-01	0	0	8.282436e+00	2.997365e+01	NUMB;NRCAM
+Reactome_2016	Activation of DNA fragmentation factor Homo sapiens R-HSA-211227	1/13	3.391735e-02	1.271901e-01	0	0	3.194712e+01	1.081036e+02	DFFB
+Reactome_2016	Apoptosis induced DNA fragmentation Homo sapiens R-HSA-140342	1/13	3.391735e-02	1.271901e-01	0	0	3.194712e+01	1.081036e+02	DFFB
+Reactome_2016	Extracellular matrix organization Homo sapiens R-HSA-1474244	3/283	3.909306e-02	1.353221e-01	0	0	4.214357e+00	1.366215e+01	COL24A1;COL4A2;COL4A4
+Reactome_2016	Other semaphorin interactions Homo sapiens R-HSA-416700	1/19	4.918837e-02	1.475651e-01	0	0	2.129167e+01	6.413259e+01	SEMA3E
+Reactome_2016	Scavenging by Class A Receptors Homo sapiens R-HSA-3000480	1/19	4.918837e-02	1.475651e-01	0	0	2.129167e+01	6.413259e+01	COL4A2
+Reactome_2016	Recycling pathway of L1 Homo sapiens R-HSA-437239	1/26	6.670540e-02	1.871605e-01	0	0	1.532462e+01	4.149093e+01	NUMB
+Reactome_2016	Interaction between L1 and Ankyrins Homo sapiens R-HSA-445095	1/29	7.411541e-02	1.871605e-01	0	0	1.368063e+01	3.559881e+01	NRCAM
+Reactome_2016	Activated NOTCH1 Transmits Signal to the Nucleus Homo sapiens R-HSA-2122948	1/30	7.657257e-02	1.871605e-01	0	0	1.320822e+01	3.393875e+01	NUMB
+Reactome_2016	HS-GAG biosynthesis Homo sapiens R-HSA-2022928	1/31	7.902332e-02	1.871605e-01	0	0	1.276731e+01	3.240358e+01	EXT1
+Reactome_2016	Netrin-1 signaling Homo sapiens R-HSA-373752	1/42	1.055640e-01	2.375190e-01	0	0	9.336773e+00	2.099316e+01	SLIT3
+Reactome_2016	Apoptotic execution  phase Homo sapiens R-HSA-75153	1/51	1.267197e-01	2.715421e-01	0	0	7.652692e+00	1.580876e+01	DFFB
+Reactome_2016	Heparan sulfate/heparin (HS-GAG) metabolism Homo sapiens R-HSA-1638091	1/54	1.336619e-01	2.733992e-01	0	0	7.218433e+00	1.452668e+01	EXT1
+Reactome_2016	Degradation of GLI1 by the proteasome Homo sapiens R-HSA-5610780	1/59	1.451120e-01	2.763453e-01	0	0	6.594496e+00	1.272902e+01	NUMB
+Reactome_2016	Translocation of GLUT4 to the plasma membrane Homo sapiens R-HSA-1445148	1/60	1.473842e-01	2.763453e-01	0	0	6.482399e+00	1.241193e+01	TBC1D1
+Reactome_2016	NCAM signaling for neurite out-growth Homo sapiens R-HSA-375165	2/266	1.566683e-01	2.820029e-01	0	0	2.923797e+00	5.419621e+00	COL4A2;COL4A4
+Reactome_2016	Semaphorin interactions Homo sapiens R-HSA-373755	1/67	1.631242e-01	2.823303e-01	0	0	5.792832e+00	1.050382e+01	SEMA3E
+Reactome_2016	Signaling by NOTCH1 Homo sapiens R-HSA-1980143	1/72	1.741921e-01	2.870020e-01	0	0	5.383532e+00	9.408241e+00	NUMB
+Reactome_2016	Binding and Uptake of Ligands by Scavenger Receptors Homo sapiens R-HSA-2173782	1/74	1.785790e-01	2.870020e-01	0	0	5.235511e+00	9.019342e+00	COL4A2
+Reactome_2016	Hedgehog 'on' state Homo sapiens R-HSA-5632684	1/85	2.023011e-01	3.139155e-01	0	0	4.547390e+00	7.266721e+00	NUMB
+Reactome_2016	Hedgehog 'off' state Homo sapiens R-HSA-5610787	1/99	2.315227e-01	3.472840e-01	0	0	3.895016e+00	5.698710e+00	NUMB
+Reactome_2016	Signaling by PDGF Homo sapiens R-HSA-186797	2/364	2.510629e-01	3.644461e-01	0	0	2.121655e+00	2.932237e+00	COL4A2;COL4A4
+Reactome_2016	Glycosaminoglycan metabolism Homo sapiens R-HSA-1630316	1/121	2.753332e-01	3.780890e-01	0	0	3.177404e+00	4.098130e+00	EXT1
+Reactome_2016	Signaling by NOTCH Homo sapiens R-HSA-157118	1/122	2.772653e-01	3.780890e-01	0	0	3.150985e+00	4.042023e+00	NUMB
+Reactome_2016	Signaling by Hedgehog Homo sapiens R-HSA-5358351	1/136	3.037892e-01	4.020739e-01	0	0	2.822222e+00	3.362456e+00	NUMB
+Reactome_2016	Apoptosis Homo sapiens R-HSA-109581	1/163	3.522731e-01	4.468140e-01	0	0	2.348647e+00	2.450457e+00	DFFB
+Reactome_2016	Programmed Cell Death Homo sapiens R-HSA-5357801	1/166	3.574512e-01	4.468140e-01	0	0	2.305594e+00	2.371895e+00	DFFB
+Reactome_2016	Vesicle-mediated transport Homo sapiens R-HSA-5653656	2/492	3.759872e-01	4.572817e-01	0	0	1.557183e+00	1.523237e+00	TBC1D1;COL4A2
+Reactome_2016	Antigen processing: Ubiquitination & Proteasome degradation Homo sapiens R-HSA-983168	1/260	5.006387e-01	5.928616e-01	0	0	1.461835e+00	1.011401e+00	ASB3
+Reactome_2016	Metabolism of carbohydrates Homo sapiens R-HSA-71387	1/282	5.293328e-01	6.107687e-01	0	0	1.345880e+00	8.561653e-01	EXT1
+Reactome_2016	Class I MHC mediated antigen processing & presentation Homo sapiens R-HSA-983169	1/305	5.576012e-01	6.273013e-01	0	0	1.242599e+00	7.258159e-01	ASB3
+Reactome_2016	Membrane Trafficking Homo sapiens R-HSA-199991	1/420	6.757792e-01	7.417089e-01	0	0	8.962732e-01	3.512395e-01	TBC1D1
+Reactome_2016	Adaptive Immune System Homo sapiens R-HSA-1280218	1/762	8.727367e-01	9.350750e-01	0	0	4.848378e-01	6.599678e-02	ASB3
+Reactome_2016	Signal Transduction Homo sapiens R-HSA-162582	3/2465	9.666752e-01	9.951107e-01	0	0	4.261170e-01	1.444228e-02	COL4A2;COL4A4;NUMB
+Reactome_2016	Immune System Homo sapiens R-HSA-168256	1/1547	9.860520e-01	9.951107e-01	0	0	2.288909e-01	3.215056e-03	ASB3
+Reactome_2016	Metabolism Homo sapiens R-HSA-1430728	1/1908	9.951107e-01	9.951107e-01	0	0	1.819209e-01	8.916536e-04	EXT1

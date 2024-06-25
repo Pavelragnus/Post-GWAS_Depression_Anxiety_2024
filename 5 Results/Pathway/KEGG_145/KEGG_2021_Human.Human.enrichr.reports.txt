@@ -1,0 +1,7 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+KEGG_2021_Human	Axon guidance	2/182	5.357961e-02	2.893144e-01	0	0	5.635043e+00	1.649144e+01	ROBO2;SLIT3
+KEGG_2021_Human	Lysine degradation	1/63	1.214506e-01	2.893144e-01	0	0	8.022984e+00	1.691444e+01	MECOM
+KEGG_2021_Human	Chronic myeloid leukemia	1/76	1.446572e-01	2.893144e-01	0	0	6.628000e+00	1.281450e+01	MECOM
+KEGG_2021_Human	Salmonella infection	1/249	4.020037e-01	5.465332e-01	0	0	1.986996e+00	1.810737e+00	RHOJ
+KEGG_2021_Human	MAPK signaling pathway	1/294	4.554443e-01	5.465332e-01	0	0	1.677986e+00	1.319706e+00	MECOM
+KEGG_2021_Human	Pathways in cancer	1/531	6.685832e-01	6.685832e-01	0	0	9.164623e-01	3.689625e-01	MECOM

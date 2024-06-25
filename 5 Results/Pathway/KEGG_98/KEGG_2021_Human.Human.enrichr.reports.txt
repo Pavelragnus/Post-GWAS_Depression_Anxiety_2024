@@ -1,0 +1,28 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+KEGG_2021_Human	ErbB signaling pathway	2/85	5.429511e-03	1.465968e-01	0	0	1.997088e+01	1.041663e+02	NRG1;PTK2
+KEGG_2021_Human	Axon guidance	2/182	2.319439e-02	2.509453e-01	0	0	9.163889e+00	3.449146e+01	SLIT3;PTK2
+KEGG_2021_Human	Focal adhesion	2/201	2.788281e-02	2.509453e-01	0	0	8.280988e+00	2.964383e+01	COL6A5;PTK2
+KEGG_2021_Human	Mucin type O-glycan biosynthesis	1/36	4.578976e-02	2.588519e-01	0	0	2.278743e+01	7.026947e+01	GALNTL6
+KEGG_2021_Human	Other types of O-glycan biosynthesis	1/47	5.937426e-02	2.588519e-01	0	0	1.732870e+01	4.893441e+01	GALNTL6
+KEGG_2021_Human	Human papillomavirus infection	2/331	6.840056e-02	2.588519e-01	0	0	4.975937e+00	1.334733e+01	COL6A5;PTK2
+KEGG_2021_Human	VEGF signaling pathway	1/59	7.398160e-02	2.588519e-01	0	0	1.373517e+01	3.576555e+01	PTK2
+KEGG_2021_Human	PI3K-Akt signaling pathway	2/354	7.685735e-02	2.588519e-01	0	0	4.645360e+00	1.191908e+01	COL6A5;PTK2
+KEGG_2021_Human	Bacterial invasion of epithelial cells	1/77	9.548437e-02	2.588519e-01	0	0	1.047263e+01	2.459804e+01	PTK2
+KEGG_2021_Human	ECM-receptor interaction	1/88	1.083877e-01	2.588519e-01	0	0	9.143448e+00	2.031711e+01	COL6A5
+KEGG_2021_Human	Small cell lung cancer	1/92	1.130358e-01	2.588519e-01	0	0	8.739780e+00	1.905316e+01	PTK2
+KEGG_2021_Human	Amoebiasis	1/102	1.245544e-01	2.588519e-01	0	0	7.870495e+00	1.639434e+01	PTK2
+KEGG_2021_Human	Protein digestion and absorption	1/103	1.256983e-01	2.588519e-01	0	0	7.792941e+00	1.616155e+01	COL6A5
+KEGG_2021_Human	Leukocyte transendothelial migration	1/114	1.381868e-01	2.588519e-01	0	0	7.030442e+00	1.391429e+01	PTK2
+KEGG_2021_Human	Growth hormone synthesis, secretion and action	1/119	1.438066e-01	2.588519e-01	0	0	6.730847e+00	1.305304e+01	PTK2
+KEGG_2021_Human	Yersinia infection	1/137	1.637474e-01	2.635442e-01	0	0	5.834706e+00	1.055750e+01	PTK2
+KEGG_2021_Human	Fluid shear stress and atherosclerosis	1/139	1.659352e-01	2.635442e-01	0	0	5.749565e+00	1.032713e+01	PTK2
+KEGG_2021_Human	Transcriptional misregulation in cancer	1/192	2.219487e-01	2.868508e-01	0	0	4.143037e+00	6.236550e+00	PTK2
+KEGG_2021_Human	Chemokine signaling pathway	1/192	2.219487e-01	2.868508e-01	0	0	4.143037e+00	6.236550e+00	PTK2
+KEGG_2021_Human	Proteoglycans in cancer	1/205	2.351251e-01	2.868508e-01	0	0	3.876471e+00	5.611724e+00	PTK2
+KEGG_2021_Human	Human immunodeficiency virus 1 infection	1/212	2.421310e-01	2.868508e-01	0	0	3.746540e+00	5.313630e+00	PTK2
+KEGG_2021_Human	Lipid and atherosclerosis	1/215	2.451146e-01	2.868508e-01	0	0	3.693458e+00	5.193111e+00	PTK2
+KEGG_2021_Human	Regulation of actin cytoskeleton	1/218	2.480869e-01	2.868508e-01	0	0	3.641843e+00	5.076644e+00	PTK2
+KEGG_2021_Human	Human cytomegalovirus infection	1/225	2.549785e-01	2.868508e-01	0	0	3.526786e+00	4.819621e+00	PTK2
+KEGG_2021_Human	Shigellosis	1/246	2.752909e-01	2.973141e-01	0	0	3.221061e+00	4.154934e+00	PTK2
+KEGG_2021_Human	Amyotrophic lateral sclerosis	1/364	3.798908e-01	3.945020e-01	0	0	2.160992e+00	2.091562e+00	NRG1
+KEGG_2021_Human	Pathways in cancer	1/531	5.034502e-01	5.034502e-01	0	0	1.467472e+00	1.007083e+00	PTK2
